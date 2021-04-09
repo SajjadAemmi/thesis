@@ -1,0 +1,106 @@
+	% !TEX TS-program = XeLaTeX
+% اگر قصد نوشتن رساله دکتری را دارید، در خط زیر، گزینه msc را پاک کنید. کلیه تنظیمات لازم به طور خودکار اعمال می‌شود.
+% در صورت استفاده از گزینه withpage  شماره صفحات حاوی نمادها در جلوی آن‌ها در فهرست نمادها چاپ می‌شود و در صورت 
+% استفاده از گزینه printonlyused  فقط نمادهایی که در متن استفاده شده‌اند، در فهرست نمادها چاپ می‌شوند.
+\documentclass[msc,withpage,printonlyused,fontsize=13pt]{yazd-thesis}
+
+
+\usepackage{comment}
+\setcounter{secnumdepth}{4}
+\setcounter{tocdepth}{2}
+\usepackage{xcolor,colortbl}
+\usepackage{tikz}
+\usepackage{lscape}
+\usetikzlibrary{arrows,shapes,positioning,shadows,trees}
+
+\tikzset{
+  basic/.style  = {draw, text width=5cm, drop shadow, rectangle},
+  root/.style   = {basic, rounded corners=2pt, thin, align=center,
+                   fill=gray!80},
+  level 1/.style = {basic, rounded corners=6pt, thin,align=center, fill=gray!50,
+                   text width=8em,sibling distance=125mm, minimum width=15em},
+  level 2/.style = {basic, rounded corners=6pt, thin,align=center, fill=gray!20,
+                   text width=8em,sibling distance=36mm,minimum width=8em},
+  level 22/.style =  {basic, rounded corners=6pt, thin,align=center, fill=gray!10,
+                   text width=8em,sibling distance=100mm},
+  level 3/.style = {basic, thin, align=center, fill=white, text width=6.5em,sibling distance=20mm}
+}
+
+\renewcommand{\labelitemi}{$\bullet$}
+
+
+
+\usepackage{array}
+\usepackage{booktabs}
+
+\newcolumntype{P}[2]{%
+  >{\begin{turn}{#1}\begin{minipage}{#2}\small\raggedright\hspace{0pt}}l%
+  <{\end{minipage}\end{turn}}%
+}
+\renewcommand{\labelitemii}{$\circ$}
+
+\usepackage{caption}
+\DeclareCaptionType[fileext=los,placement={!ht}]{diagram}  
+\DeclareMathOperator*{\argmin}{arg\,min}
+\DeclareMathOperator*{\sigm}{sigm}
+\renewcommand{\diagramname}{نمودار}
+\renewcommand{\thediagram}{\arabic{chapter}-\arabic{diagram}}
+
+\newcolumntype{P}[1]{>{\centering\arraybackslash}\pageref{}{#1}}
+\definecolor{Gray}{gray}{0.8}
+\definecolor{Gray1}{gray}{0.9}
+\usepackage{subcaption}
+\usepackage{multirow}
+\usepackage{rotating}
+\usepackage{hyperref,setspace,geometry,graphicx,fancyhdr,color,xspace,amsmath,amssymb,hyperref,xepersian,listofsymbols,relsize,xy}
+
+
+% فونت فرم صورت‌جلسه
+\defpersianfont\minutesfont{Times New Roman}
+\settextfont{B Nazanin}
+%\setlatintextfont  {} 
+%\setdigitfont{B Yas}
+%\PersianMathsDigits
+%\SepMark{-}
+\def\addsymbol #1:#2#3{$#1$ \> \parbox{5in}{#2 \dotfill \pageref{#3}}\\} 
+\def\symboldisplay#1{\label{#1}} 
+%For compatibility with Miktex 2.8
+%\makeatletter
+%\@ifundefined{Umathcode}{\let\Umathcode\XeTeXmathcode}{}
+%\@ifundefined{Umathchardef}{\let\Umathchardef\XeTeXmathchardef}{}
+%\makeatother 
+%End Of Compatibility
+
+\newtheorem{observation}{مشاهده}[section]
+
+\begin{document}
+
+\baselineskip=1cm
+
+%\pagenumbering{alph}
+%\setcounter{page}{1}
+\input{fainfo}
+\thispagestyle{plain}\cleardoublepage
+\tableofcontents
+\clearpage
+\listoftables%\clearpage
+\listoffigures%\clearpage
+\include{symbols}
+\pagenumbering{arabic}
+
+
+\include{chapter1}
+\include{chapter2}
+\include{chapter3}
+%\include{chapter4}
+%\include{chapter5}
+%\include{chapter6}
+%\appendix
+%\include{appendix1}
+%\include{dicfa2en}
+%\include{dicen2fa}
+\bibliographystyle{ieeetr-fa}
+\bibliography{MyReferences}
+%\printindex
+\input{eninfo}
+\end{document}
