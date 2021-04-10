@@ -1,6 +1,6 @@
 \contentsline {chapter}{فهرست جداول}{پ}{chapter*.4}%
 \contentsline {chapter}{فهرست تصاویر}{ت}{chapter*.5}%
-\contentsline {chapter}{فهرست نمادها}{ج}{section*.6}%
+\contentsline {chapter}{فهرست نمادها}{ث}{section*.6}%
 \contentsline {chapter}{\numberline {1}مقدمه}{1}{chapter.1}%
 \contentsline {section}{\numberline {1.1}مقدمه}{2}{section.1.1}%
 \contentsline {section}{\numberline {1.2}ویژگی‌های بیومتریک}{2}{section.1.2}%
@@ -38,4 +38,9 @@
 \contentsline {section}{\numberline {2.5}جمع‌بندی}{36}{section.2.5}%
 \contentsline {chapter}{\numberline {3}مروری بر کارهای گذشته در شرایط کنترل نشده}{38}{chapter.3}%
 \contentsline {section}{\numberline {3.1}مقدمه}{39}{section.3.1}%
-\contentsline {chapter}{منابع و مآخذ}{57}{chapter*.69}%
+\contentsline {chapter}{\numberline {4} روش پیشنهادی }{63}{chapter.4}%
+\contentsline {section}{\numberline {4.1}مقدمه}{64}{section.4.1}%
+\contentsline {chapter}{\numberline {5}ارزیابی روش پیشنهادی}{72}{chapter.5}%
+\contentsline {section}{\numberline {5.1}مقدمه}{73}{section.5.1}%
+\contentsline {chapter}{\numberline {6}نتیجه‌گیری و پیشنهادات}{76}{chapter.6}%
+\contentsline {chapter}{منابع و مآخذ}{78}{chapter*.74}%
