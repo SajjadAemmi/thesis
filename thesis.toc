@@ -1,17 +1,28 @@
 \contentsline {chapter}{فهرست جداول}{پ}{chapter*.4}%
 \contentsline {chapter}{فهرست تصاویر}{ت}{chapter*.5}%
-\contentsline {chapter}{فهرست نمادها}{ج}{section*.6}%
-\contentsline {chapter}{\numberline {1}مروری بر کارهای گذشته در شرایط کنترل نشده}{1}{chapter.1}%
+\contentsline {chapter}{فهرست نمادها}{ث}{section*.6}%
+\contentsline {chapter}{\numberline {1} روش پیشنهادی }{1}{chapter.1}%
 \contentsline {section}{\numberline {1.1}مقدمه}{2}{section.1.1}%
-\contentsline {section}{\numberline {1.2}چالش حالت}{2}{section.1.2}%
-\contentsline {section}{\numberline {1.3}چالش روشنایی}{11}{section.1.3}%
-\contentsline {section}{\numberline {1.4}چالش انسداد}{13}{section.1.4}%
-\contentsline {section}{\numberline {1.5}چالش کمبود تصاویر آموزشی}{15}{section.1.5}%
-\contentsline {section}{\numberline {1.6}چالش منابع محدود}{16}{section.1.6}%
-\contentsline {section}{\numberline {1.7}نتیجه گیری}{18}{section.1.7}%
-\contentsline {section}{\numberline {1.8}نتیجه گیری}{23}{section.1.8}%
-\contentsline {chapter}{\numberline {2}نتیجه‌گیری و پیشنهادات}{26}{chapter.2}%
-\contentsline {section}{\numberline {2.1}مقدمه}{27}{section.2.1}%
-\contentsline {section}{\numberline {2.2}بحث و نتیجه‌گیری}{27}{section.2.2}%
-\contentsline {section}{\numberline {2.3}پیشنهادات}{27}{section.2.3}%
-\contentsline {chapter}{منابع و مآخذ}{29}{chapter*.33}%
+\contentsline {section}{\numberline {1.2}روش پیشنهادی}{2}{section.1.2}%
+\contentsline {subsection}{\numberline {1.2.1}پیش پردازش}{3}{subsection.1.2.1}%
+\contentsline {subsubsection}{\numberline {1.2.1.1}یافتن چهره}{3}{subsubsection.1.2.1.1}%
+\contentsline {subsubsection}{\numberline {1.2.1.2}تولید تصاویر آموزشی با \lr {GAN}}{3}{subsubsection.1.2.1.2}%
+\contentsline {subsection}{\numberline {1.2.2}آموزش شبکه جهت استخراج ویژگی}{3}{subsection.1.2.2}%
+\contentsline {subsection}{\numberline {1.2.3}تابع ضرر}{4}{subsection.1.2.3}%
+\contentsline {subsubsection}{\numberline {1.2.3.1}مدل پيشنهادي پايه}{6}{subsubsection.1.2.3.1}%
+\contentsline {subsubsection}{\numberline {1.2.3.2}آموزش‌}{7}{subsubsection.1.2.3.2}%
+\contentsline {subsubsection}{\numberline {1.2.3.3}دسته‌بندی}{7}{subsubsection.1.2.3.3}%
+\contentsline {section}{\numberline {1.3}فناوری های استفاده شده}{8}{section.1.3}%
+\contentsline {chapter}{\numberline {2}ارزیابی روش پیشنهادی}{10}{chapter.2}%
+\contentsline {section}{\numberline {2.1}مقدمه}{11}{section.2.1}%
+\contentsline {section}{\numberline {2.2}معیار ارزیابی}{11}{section.2.2}%
+\contentsline {section}{\numberline {2.3}مجموعه داده}{11}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}مجموعه داده}{11}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}مجموعه داده}{12}{subsection.2.3.2}%
+\contentsline {section}{\numberline {2.4}پیکربندی الگوریتم}{12}{section.2.4}%
+\contentsline {section}{\numberline {2.5}نتایج آزمون}{13}{section.2.5}%
+\contentsline {chapter}{\numberline {3}نتیجه‌گیری و پیشنهادات}{14}{chapter.3}%
+\contentsline {section}{\numberline {3.1}مقدمه}{15}{section.3.1}%
+\contentsline {section}{\numberline {3.2}بحث و نتیجه‌گیری}{15}{section.3.2}%
+\contentsline {section}{\numberline {3.3}پیشنهادات}{15}{section.3.3}%
+\contentsline {chapter}{منابع و مآخذ}{17}{chapter*.11}%

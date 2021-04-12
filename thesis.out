@@ -1,17 +1,23 @@
 \BOOKMARK [0][-]{chapter*.4}{فهرست جداول}{}% 1
 \BOOKMARK [0][-]{chapter*.5}{فهرست تصاویر}{}% 2
 \BOOKMARK [0][-]{section*.6}{فهرست نمادها}{}% 3
-\BOOKMARK [0][-]{chapter.1}{مروری بر کارهای گذشته در شرایط کنترل نشده}{}% 4
+\BOOKMARK [0][-]{chapter.1}{ روش پیشنهادی }{}% 4
 \BOOKMARK [1][-]{section.1.1}{مقدمه}{chapter.1}% 5
-\BOOKMARK [1][-]{section.1.2}{چالش حالت}{chapter.1}% 6
-\BOOKMARK [1][-]{section.1.3}{چالش روشنایی}{chapter.1}% 7
-\BOOKMARK [1][-]{section.1.4}{چالش انسداد}{chapter.1}% 8
-\BOOKMARK [1][-]{section.1.5}{چالش کمبود تصاویر آموزشی}{chapter.1}% 9
-\BOOKMARK [1][-]{section.1.6}{چالش منابع محدود}{chapter.1}% 10
-\BOOKMARK [1][-]{section.1.7}{نتیجه گیری}{chapter.1}% 11
-\BOOKMARK [1][-]{section.1.8}{نتیجه گیری}{chapter.1}% 12
-\BOOKMARK [0][-]{chapter.2}{نتیجه‌گیری و پیشنهادات}{}% 13
-\BOOKMARK [1][-]{section.2.1}{مقدمه}{chapter.2}% 14
-\BOOKMARK [1][-]{section.2.2}{بحث و نتیجه‌گیری}{chapter.2}% 15
-\BOOKMARK [1][-]{section.2.3}{پیشنهادات}{chapter.2}% 16
-\BOOKMARK [0][-]{chapter*.33}{منابع و مآخذ}{}% 17
+\BOOKMARK [1][-]{section.1.2}{روش پیشنهادی}{chapter.1}% 6
+\BOOKMARK [2][-]{subsection.1.2.1}{پیش پردازش}{section.1.2}% 7
+\BOOKMARK [2][-]{subsection.1.2.2}{آموزش شبکه جهت استخراج ویژگی}{section.1.2}% 8
+\BOOKMARK [2][-]{subsection.1.2.3}{تابع ضرر}{section.1.2}% 9
+\BOOKMARK [1][-]{section.1.3}{فناوری های استفاده شده}{chapter.1}% 10
+\BOOKMARK [0][-]{chapter.2}{ارزیابی روش پیشنهادی}{}% 11
+\BOOKMARK [1][-]{section.2.1}{مقدمه}{chapter.2}% 12
+\BOOKMARK [1][-]{section.2.2}{معیار ارزیابی}{chapter.2}% 13
+\BOOKMARK [1][-]{section.2.3}{مجموعه داده}{chapter.2}% 14
+\BOOKMARK [2][-]{subsection.2.3.1}{مجموعه داده}{section.2.3}% 15
+\BOOKMARK [2][-]{subsection.2.3.2}{مجموعه داده}{section.2.3}% 16
+\BOOKMARK [1][-]{section.2.4}{پیکربندی الگوریتم}{chapter.2}% 17
+\BOOKMARK [1][-]{section.2.5}{نتایج آزمون}{chapter.2}% 18
+\BOOKMARK [0][-]{chapter.3}{نتیجه‌گیری و پیشنهادات}{}% 19
+\BOOKMARK [1][-]{section.3.1}{مقدمه}{chapter.3}% 20
+\BOOKMARK [1][-]{section.3.2}{بحث و نتیجه‌گیری}{chapter.3}% 21
+\BOOKMARK [1][-]{section.3.3}{پیشنهادات}{chapter.3}% 22
+\BOOKMARK [0][-]{chapter*.11}{منابع و مآخذ}{}% 23
