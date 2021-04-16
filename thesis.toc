@@ -1,28 +1,42 @@
-\contentsline {chapter}{فهرست جداول}{پ}{chapter*.4}%
-\contentsline {chapter}{فهرست تصاویر}{ت}{chapter*.5}%
-\contentsline {chapter}{فهرست نمادها}{ث}{section*.6}%
-\contentsline {chapter}{\numberline {1} روش پیشنهادی }{1}{chapter.1}%
+\contentsline {chapter}{فهرست جداول}{ت}{chapter*.4}%
+\contentsline {chapter}{فهرست تصاویر}{ث}{chapter*.5}%
+\contentsline {chapter}{فهرست نمادها}{ح}{section*.6}%
+\contentsline {chapter}{\numberline {1} مروری بر کارهای گذشته}{1}{chapter.1}%
 \contentsline {section}{\numberline {1.1}مقدمه}{2}{section.1.1}%
-\contentsline {section}{\numberline {1.2}روش پیشنهادی}{2}{section.1.2}%
-\contentsline {subsection}{\numberline {1.2.1}پیش پردازش}{3}{subsection.1.2.1}%
-\contentsline {subsubsection}{\numberline {1.2.1.1}یافتن چهره}{3}{subsubsection.1.2.1.1}%
-\contentsline {subsubsection}{\numberline {1.2.1.2}تولید تصاویر آموزشی با \lr {GAN}}{3}{subsubsection.1.2.1.2}%
-\contentsline {subsection}{\numberline {1.2.2}آموزش شبکه جهت استخراج ویژگی}{3}{subsection.1.2.2}%
-\contentsline {subsection}{\numberline {1.2.3}تابع ضرر}{4}{subsection.1.2.3}%
-\contentsline {subsubsection}{\numberline {1.2.3.1}مدل پيشنهادي پايه}{6}{subsubsection.1.2.3.1}%
-\contentsline {subsubsection}{\numberline {1.2.3.2}آموزش‌}{7}{subsubsection.1.2.3.2}%
-\contentsline {subsubsection}{\numberline {1.2.3.3}دسته‌بندی}{7}{subsubsection.1.2.3.3}%
-\contentsline {section}{\numberline {1.3}فناوری های استفاده شده}{8}{section.1.3}%
-\contentsline {chapter}{\numberline {2}ارزیابی روش پیشنهادی}{10}{chapter.2}%
-\contentsline {section}{\numberline {2.1}مقدمه}{11}{section.2.1}%
-\contentsline {section}{\numberline {2.2}معیار ارزیابی}{11}{section.2.2}%
-\contentsline {section}{\numberline {2.3}مجموعه داده}{11}{section.2.3}%
-\contentsline {subsection}{\numberline {2.3.1}مجموعه داده}{11}{subsection.2.3.1}%
-\contentsline {subsection}{\numberline {2.3.2}مجموعه داده}{12}{subsection.2.3.2}%
-\contentsline {section}{\numberline {2.4}پیکربندی الگوریتم}{12}{section.2.4}%
-\contentsline {section}{\numberline {2.5}نتایج آزمون}{13}{section.2.5}%
-\contentsline {chapter}{\numberline {3}نتیجه‌گیری و پیشنهادات}{14}{chapter.3}%
-\contentsline {section}{\numberline {3.1}مقدمه}{15}{section.3.1}%
-\contentsline {section}{\numberline {3.2}بحث و نتیجه‌گیری}{15}{section.3.2}%
-\contentsline {section}{\numberline {3.3}پیشنهادات}{15}{section.3.3}%
-\contentsline {chapter}{منابع و مآخذ}{17}{chapter*.11}%
+\contentsline {section}{\numberline {1.2}یافتن چهره}{2}{section.1.2}%
+\contentsline {subsection}{\numberline {1.2.1}رویکردهای مبتنی بر دانش}{2}{subsection.1.2.1}%
+\contentsline {subsection}{\numberline {1.2.2}رویکردهای مبتنی بر تطبیق کلیشه یا الگو}{3}{subsection.1.2.2}%
+\contentsline {subsection}{\numberline {1.2.3}رویکردهای مبتنی بر ویژگی}{3}{subsection.1.2.3}%
+\contentsline {subsubsection}{\numberline {1.2.3.1}رویکرد مبتنی بر حرکت}{4}{subsubsection.1.2.3.1}%
+\contentsline {subsubsection}{\numberline {1.2.3.2}رویکرد مبتنی بر لبه}{4}{subsubsection.1.2.3.2}%
+\contentsline {subsubsection}{\numberline {1.2.3.3}رویکرد مبتنی بر اطلاعات سطح خاکستری}{4}{subsubsection.1.2.3.3}%
+\contentsline {subsubsection}{\numberline {1.2.3.4}رویکرد مبتنی بر اطلاعات رنگی}{5}{subsubsection.1.2.3.4}%
+\contentsline {subsection}{\numberline {1.2.4}رویکرد مبتنی بر عامل‌های آماری}{6}{subsection.1.2.4}%
+\contentsline {subsection}{\numberline {1.2.5}رویکردهای مبتنی بر تصویر}{12}{subsection.1.2.5}%
+\contentsline {subsubsection}{\numberline {1.2.5.1}رویکرد مبتنی بر ماشین بردار پشتیبان}{12}{subsubsection.1.2.5.1}%
+\contentsline {subsubsection}{\numberline {1.2.5.2}رویکرد مبتنی بر شبکه‌ عصبی}{12}{subsubsection.1.2.5.2}%
+\contentsline {section}{\numberline {1.3}شناسایی چهره}{13}{section.1.3}%
+\contentsline {subsection}{\numberline {1.3.1}رویکرد‌های سنتی}{14}{subsection.1.3.1}%
+\contentsline {subsection}{\numberline {1.3.2}رویکرد مبتنی بر فیلتر گابور ‌}{14}{subsection.1.3.2}%
+\contentsline {subsection}{\numberline {1.3.3}رویکرد‌های سه بعدی}{14}{subsection.1.3.3}%
+\contentsline {subsection}{\numberline {1.3.4}رویکرد‌های تجزیه و تحلیل بافت پوست}{15}{subsection.1.3.4}%
+\contentsline {subsection}{\numberline {1.3.5}رویکرد‌های مبتنی بر دوربین حرارتی}{16}{subsection.1.3.5}%
+\contentsline {subsection}{\numberline {1.3.6}تشخیص چهره مبتنی بر ویدیو}{17}{subsection.1.3.6}%
+\contentsline {subsection}{\numberline {1.3.7}رویکرد مبتنی بر چهره ویژه}{17}{subsection.1.3.7}%
+\contentsline {subsection}{\numberline {1.3.8}رویکرد مبتنی بر ماشین بردار پشتیبان}{19}{subsection.1.3.8}%
+\contentsline {subsection}{\numberline {1.3.9}رویکردهای مبتنی بر شبکه عصبی}{20}{subsection.1.3.9}%
+\contentsline {subsubsection}{\numberline {1.3.9.1} شبکه \lr {FaceNet}}{22}{subsubsection.1.3.9.1}%
+\contentsline {subsubsection}{\numberline {1.3.9.2} شبکه \lr {SplitNet}}{23}{subsubsection.1.3.9.2}%
+\contentsline {subsubsection}{\numberline {1.3.9.3} شبکه \lr {GoogLeNet}}{24}{subsubsection.1.3.9.3}%
+\contentsline {subsubsection}{\numberline {1.3.9.4} شبکه \lr {VGGFace}}{25}{subsubsection.1.3.9.4}%
+\contentsline {subsection}{\numberline {1.3.10}رویکردهای مبتنی بر نقاط راهنما}{26}{subsection.1.3.10}%
+\contentsline {section}{\numberline {1.4}جمع‌بندی}{28}{section.1.4}%
+\contentsline {chapter}{\numberline {2}مروری بر کارهای گذشته در شرایط کنترل نشده}{29}{chapter.2}%
+\contentsline {section}{\numberline {2.1}مقدمه}{30}{section.2.1}%
+\contentsline {section}{\numberline {2.2}چالش حالت}{30}{section.2.2}%
+\contentsline {section}{\numberline {2.3}چالش روشنایی}{39}{section.2.3}%
+\contentsline {section}{\numberline {2.4}چالش انسداد}{41}{section.2.4}%
+\contentsline {section}{\numberline {2.5}چالش کمبود تصاویر آموزشی}{43}{section.2.5}%
+\contentsline {section}{\numberline {2.6}چالش منابع محدود}{47}{section.2.6}%
+\contentsline {section}{\numberline {2.7}نتیجه گیری}{49}{section.2.7}%
+\contentsline {chapter}{منابع و مآخذ}{52}{chapter*.62}%
