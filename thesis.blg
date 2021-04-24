@@ -2,55 +2,54 @@ This is BibTeX, Version 0.99d (TeX Live 2020)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: thesis.aux
 A level-1 auxiliary file: symbols.aux
-A level-1 auxiliary file: chapter2.aux
-A level-1 auxiliary file: chapter3.aux
+A level-1 auxiliary file: chapter5.aux
+A level-1 auxiliary file: chapter6.aux
 The style file: ieeetr-fa.bst
 Database file #1: MyReferences.bib
-Warning--I didn't find a database entry for "ref1"
+Warning--I didn't find a database entry for "eq4-2"
 -- ieeetr-fa.bst version 0.9 (2015/05/09) 
 -- This is a BibTeX style for XePersian: http://www.parsilatex.com
-Warning--empty journal in parkhi2015deep
 
 Done.
-You've used 47 entries,
+You've used 7 entries,
             2349 wiz_defined-function locations,
-            880 strings with 13486 characters,
-and the built_in function-call counts, 16919 in all, are:
-= -- 1427
-> -- 658
+            637 strings with 5539 characters,
+and the built_in function-call counts, 941 in all, are:
+= -- 84
+> -- 7
 < -- 0
-+ -- 235
-- -- 188
-* -- 1108
-:= -- 2087
-add.period$ -- 49
-call.type$ -- 47
-change.case$ -- 48
++ -- 7
+- -- 0
+* -- 34
+:= -- 88
+add.period$ -- 14
+call.type$ -- 7
+change.case$ -- 7
 chr.to.int$ -- 0
-cite$ -- 48
-duplicate$ -- 763
-empty$ -- 1411
-format.name$ -- 188
-if$ -- 4722
+cite$ -- 7
+duplicate$ -- 28
+empty$ -- 127
+format.name$ -- 0
+if$ -- 269
 int.to.chr$ -- 0
-int.to.str$ -- 47
-missing$ -- 517
-newline$ -- 337
-num.names$ -- 47
-pop$ -- 174
+int.to.str$ -- 7
+missing$ -- 21
+newline$ -- 62
+num.names$ -- 0
+pop$ -- 56
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 585
+skip$ -- 21
 stack$ -- 0
-substring$ -- 1098
-swap$ -- 347
+substring$ -- 0
+swap$ -- 0
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 4
 type$ -- 0
-warning$ -- 1
-while$ -- 128
-width$ -- 49
-write$ -- 605
-(There were 2 warnings)
+warning$ -- 0
+while$ -- 0
+width$ -- 8
+write$ -- 82
+(There was 1 warning)
