@@ -1,4 +1,10 @@
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {1.1}{\ignorespaces مقایسه دقت الگوریتم SVM + NDA با سایر رویکرد های مشابه\relax }}{20}{table.caption.28}%
-\contentsline {table}{\numberline {1.2}{\ignorespaces مقایسه شبکه عصبی موبایل نت با گوگل نت و VGG.\relax }}{28}{table.caption.40}%
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {2.1}{\ignorespaces مقایسه دقت الگوریتم SVM + NDA با سایر رویکرد های مشابه\relax }}{33}{table.caption.37}%
+\contentsline {table}{\numberline {2.2}{\ignorespaces مقایسه شبکه عصبی موبایل نت با گوگل نت و VGG.\relax }}{40}{table.caption.49}%
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {5.1}{\ignorespaces مجموعه‌داده های ارزیابی رایج در زمینه بازشناسی چهره\relax }}{78}{table.caption.79}%
+\contentsline {table}{\numberline {5.2}{\ignorespaces دقت معماری های مختلف بر روی مجموعه‌داده های ارزیابی رایج در زمینه بازشناسی چهره\relax }}{79}{table.caption.80}%
 \addvspace {10\p@ }
