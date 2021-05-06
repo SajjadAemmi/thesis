@@ -66,11 +66,13 @@
 \contentsline {figure}{\numberline {3.23}{\ignorespaces تابع ضرر \lr {CosFace} حاشیه بیشتری نسبت به \lr {SoftMax} در مرز بین دسته ها ایجاد می‌نماید \cite {wang2018cosface}.\relax }}{63}{figure.caption.73}%
 \addvspace {10\p@ }
 \contentsline {figure}{\numberline {4.1}{\ignorespaces نمای کلی از روش پیشنهادی \cite {ref1}.\relax }}{67}{figure.caption.74}%
-\contentsline {figure}{\numberline {4.2}{\ignorespaces نمای کلی از روش پیشنهادی \cite {ref1}.\relax }}{68}{figure.caption.75}%
-\contentsline {figure}{\numberline {4.3}{\ignorespaces رویکردهای مختلف هم ترازی چهره \cite {ref1}.\relax }}{69}{figure.caption.76}%
-\contentsline {figure}{\numberline {4.4}{\ignorespaces رویکردهای مختلف هم ترازی چهره \cite {ref1}.\relax }}{72}{figure.caption.77}%
-\contentsline {figure}{\numberline {4.5}{\ignorespaces رویکردهای مختلف هم ترازی چهره \cite {ref1}.\relax }}{73}{figure.caption.78}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces نتیجه اعمال یکسان سازی بافت‌نگار بر روی یک تصویر تاریک. تصاویر ورودی در سمت چپ و خروجی در سمت راست می‌باشند \cite {s18092995}.\relax }}{68}{figure.caption.75}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces نمونه از خروجی الگوریتم یافتن چهره retina \cite {deng2019retinaface}.\relax }}{69}{figure.caption.76}%
+\contentsline {figure}{\numberline {4.4}{\ignorespaces نمونه از خروجی الگوریتم یافتن چهره retina \cite {deng2019retinaface}.\relax }}{70}{figure.caption.77}%
+\contentsline {figure}{\numberline {4.5}{\ignorespaces رویکردهای مختلف هم ترازی چهره \cite {ref1}.\relax }}{71}{figure.caption.78}%
+\contentsline {figure}{\numberline {4.6}{\ignorespaces رویکردهای مختلف هم ترازی چهره \cite {ref1}.\relax }}{74}{figure.caption.79}%
+\contentsline {figure}{\numberline {4.7}{\ignorespaces رویکردهای مختلف هم ترازی چهره \cite {ref1}.\relax }}{75}{figure.caption.80}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {5.1}{\ignorespaces منحنی FROC مقالات در مقایسه با روش پیشنهادی برای مجموعه داده E-Ophtha-MA \cite {ref1}.\relax }}{80}{figure.caption.81}%
-\contentsline {figure}{\numberline {5.2}{\ignorespaces منحنی FROC مقالات در مقایسه با روش پیشنهادی برای مجموعه داده DIARETDB1 \cite {ref1}.\relax }}{80}{figure.caption.82}%
+\contentsline {figure}{\numberline {5.1}{\ignorespaces منحنی FROC مقالات در مقایسه با روش پیشنهادی برای مجموعه داده E-Ophtha-MA \cite {ref1}.\relax }}{82}{figure.caption.83}%
+\contentsline {figure}{\numberline {5.2}{\ignorespaces منحنی FROC مقالات در مقایسه با روش پیشنهادی برای مجموعه داده DIARETDB1 \cite {ref1}.\relax }}{82}{figure.caption.84}%
 \addvspace {10\p@ }

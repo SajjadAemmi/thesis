@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2021.1.28)  28 APR 2021 21:50
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2021.1.28)  6 MAY 2021 16:57
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1650,13 +1650,7 @@ LaTeX Warning: Label `image2-1' multiply defined.
 
 ) (./chapter4.aux
 
-LaTeX Warning: Label `image2-1' multiply defined.
-
-
 LaTeX Warning: Label `eq3-2' multiply defined.
-
-
-LaTeX Warning: Label `image2-1' multiply defined.
 
 
 LaTeX Warning: Label `image2-1' multiply defined.
@@ -2081,22 +2075,19 @@ LaTeX Warning: Citation `ref1' on page د undefined on input line 65.
 LaTeX Warning: Citation `ref1' on page د undefined on input line 68.
 
 
-LaTeX Warning: Citation `ref1' on page د undefined on input line 69.
-
-
-LaTeX Warning: Citation `ref1' on page د undefined on input line 70.
-
-
-LaTeX Warning: Citation `ref1' on page د undefined on input line 71.
-
-
 LaTeX Warning: Citation `ref1' on page د undefined on input line 72.
+
+
+LaTeX Warning: Citation `ref1' on page د undefined on input line 73.
 
 
 LaTeX Warning: Citation `ref1' on page د undefined on input line 74.
 
 
-LaTeX Warning: Citation `ref1' on page د undefined on input line 75.
+LaTeX Warning: Citation `ref1' on page د undefined on input line 76.
+
+
+LaTeX Warning: Citation `ref1' on page د undefined on input line 77.
 
 )
 \tf@lof=\write12
@@ -2970,175 +2961,132 @@ Underfull \vbox (badness 2828) has occurred while \output is active []
 File: figures/image3-1.png Graphic file (type bmp)
 <figures/image3-1.png>
 
-Overfull \hbox (28.4709pt too wide) in paragraph at lines 9--10
+Overfull \hbox (28.4709pt too wide) in paragraph at lines 7--8
  [][][][][][] 
  []
 
 
-LaTeX Warning: Citation `ref1' on page 67 undefined on input line 10.
+LaTeX Warning: Citation `ref1' on page 67 undefined on input line 8.
 
 
-LaTeX Warning: Citation `ref1' on page 67 undefined on input line 10.
+LaTeX Warning: Citation `ref1' on page 67 undefined on input line 8.
 
+File: figures/image4-2.png Graphic file (type bmp)
+<figures/image4-2.png>
 
-LaTeX Warning: Citation `deng2019retinaface' on page 67 undefined on input line
- 17.
+LaTeX Warning: `h' float specifier changed to `ht'.
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [67]
-File: figures/image4-1.jpg Graphic file (type bmp)
-<figures/image4-1.jpg>
+File: figures/image4-3.jpg Graphic file (type bmp)
+<figures/image4-3.jpg>
 
 
-LaTeX Warning: Citation `ref1' on page 68 undefined on input line 35.
+LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-LaTeX Warning: Citation `ref1' on page 68 undefined on input line 35.
-
-
-Overfull \hbox (11.37825pt too wide) in paragraph at lines 50--61
-[]\TU/IRNazanin(0)/b/n/10.95 ابتدا نوبت آن است که معماری مناسب شبکه برای مسئله 
-را به دست آوریم. با بررسی شبکه‌های به‌روز و متداول از جمله []\TU/lmroman10-regu
-lar(0)/m/n/10.95 MobileNetV2[]\TU/IRNazanin(0)/b/n/10.95 ،[]
- []
-
-
-Overfull \hbox (36.82059pt too wide) in paragraph at lines 50--61
-[][]\TU/lmroman10-regular(0)/m/n/10.95 MobileNetV3[]\TU/IRNazanin(0)/b/n/10.95 
-، []\TU/lmroman10-regular(0)/m/n/10.95 NASNetMobile[]\TU/IRNazanin(0)/b/n/10.95
- ، []\TU/lmroman10-regular(0)/m/n/10.95 SqueezeNet[]\TU/IRNazanin(0)/b/n/10.95 
-، []\TU/lmroman10-regular(0)/m/n/10.95 VGG19[]\TU/IRNazanin(0)/b/n/10.95 ، []\T
-U/lmroman10-regular(0)/m/n/10.95 ResNet-50[]\TU/IRNazanin(0)/b/n/10.95 ، []\TU/
-lmroman10-regular(0)/m/n/10.95 EfficientNetB0[]\TU/IRNazanin(0)/b/n/10.95 ، و [
-]\TU/lmroman10-regular(0)/m/n/10.95 IncetionResNetV2[][]
- []
-
-
-Overfull \hbox (15.02441pt too wide) in paragraph at lines 50--61
-[]\TU/IRNazanin(0)/b/n/10.95 و مقایسه دقت و زمان پاسخگویی آن‌ها به کمک یادگیری 
-انتقال، به این نتیجه می‌رسیم که شبکه های []\TU/lmroman10-regular(0)/m/n/10.95 M
-obileNetV3[] \TU/IRNazanin(0)/b/n/10.95 و []\TU/lmroman10-regular(0)/m/n/10.95 
-SqueezeNet[][]
- []
-
-
-Underfull \vbox (badness 6675) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [68]
+File: figures/image4-3.jpg Graphic file (type bmp)
+<figures/image4-3.jpg>
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [69]
 File: figures/image3-1.png Graphic file (type bmp)
 <figures/image3-1.png>
 
-Overfull \hbox (28.4709pt too wide) in paragraph at lines 71--72
+Overfull \hbox (28.4709pt too wide) in paragraph at lines 75--76
  [][][][][][] 
  []
 
 
-LaTeX Warning: Citation `ref1' on page 69 undefined on input line 72.
+LaTeX Warning: Citation `ref1' on page 70 undefined on input line 76.
 
 
-LaTeX Warning: Citation `ref1' on page 69 undefined on input line 72.
+LaTeX Warning: Citation `ref1' on page 70 undefined on input line 76.
 
-[69] [70]
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [70]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [71]
+[72]
 Missing character: There is no θ in font cmmi10!
 Missing character: There is no θ in font [lmroman10-regular]/OT:script=latn;lan
 guage=dflt;mapping=tex-text;!
- [71]
 File: figures/image3-1.png Graphic file (type bmp)
 <figures/image3-1.png>
 
-Overfull \hbox (28.4709pt too wide) in paragraph at lines 134--135
+Overfull \hbox (28.4709pt too wide) in paragraph at lines 138--139
  [][][][][][] 
  []
 
 
-LaTeX Warning: Citation `ref1' on page 72 undefined on input line 135.
+LaTeX Warning: Citation `ref1' on page 73 undefined on input line 139.
 
 
-LaTeX Warning: Citation `ref1' on page 72 undefined on input line 135.
+LaTeX Warning: Citation `ref1' on page 73 undefined on input line 139.
 
-[72]
+[73]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [74]
 File: figures/image3-1.png Graphic file (type bmp)
 <figures/image3-1.png>
 
-Overfull \hbox (28.4709pt too wide) in paragraph at lines 148--149
+Overfull \hbox (28.4709pt too wide) in paragraph at lines 152--153
  [][][][][][] 
  []
 
 
-LaTeX Warning: Citation `ref1' on page 73 undefined on input line 149.
+LaTeX Warning: Citation `ref1' on page 75 undefined on input line 153.
 
 
-LaTeX Warning: Citation `ref1' on page 73 undefined on input line 149.
+LaTeX Warning: Citation `ref1' on page 75 undefined on input line 153.
 
-) [73]
+) [75]
 \openout2 = `chapter5.aux'.
 
  (./chapter5.tex
 فصل 5.
-[74
+[76
 
 
 
 ]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [75]
-
-LaTeX Warning: Citation `CASIA_dataset' on page 76 undefined on input line 22.
-
-
-LaTeX Warning: Citation `MS_Celeb_dataset' on page 76 undefined on input line 2
-5.
-
-
-LaTeX Warning: Citation `VGGFace2_dataset' on page 76 undefined on input line 2
-8.
-
-
-LaTeX Warning: Citation `LFW_dataset' on page 76 undefined on input line 32.
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [76]
-
-LaTeX Warning: Citation `PubFig_dataset' on page 77 undefined on input line 35.
-
-
-
-LaTeX Warning: Citation `VGGFace2_dataset' on page 77 undefined on input line 3
-8.
-
-
-LaTeX Warning: Citation `LFW_dataset' on page 77 undefined on input line 41.
-
-
-LaTeX Warning: Citation `CACD_dataset' on page 77 undefined on input line 44.
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
  [77]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Warning: Citation `MegaFace_dataset' on page 78 undefined on input line 4
-7.
+ [78]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
+ [79]
 
 Package caption Warning: \label without proper reference on input line 49.
 See the caption package documentation for explanation.
 
 
-LaTeX Warning: Reference `table:5-1' on page 78 undefined on input line 47.
+LaTeX Warning: Reference `table:5-1' on page 80 undefined on input line 47.
 
-[78]
+[80]
 
 Package caption Warning: \label without proper reference on input line 97.
 See the caption package documentation for explanation.
 
 
-LaTeX Warning: Reference `table:5-2' on page 79 undefined on input line 94.
+LaTeX Warning: Reference `table:5-2' on page 81 undefined on input line 94.
 
 File: figures/image3-1.png Graphic file (type bmp)
 <figures/image3-1.png>
@@ -3148,10 +3096,10 @@ Overfull \hbox (28.4709pt too wide) in paragraph at lines 145--146
  []
 
 
-LaTeX Warning: Citation `ref1' on page 79 undefined on input line 146.
+LaTeX Warning: Citation `ref1' on page 81 undefined on input line 146.
 
 
-LaTeX Warning: Citation `ref1' on page 79 undefined on input line 146.
+LaTeX Warning: Citation `ref1' on page 81 undefined on input line 146.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
@@ -3159,10 +3107,10 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 File: figures/image3-2.png Graphic file (type bmp)
 <figures/image3-2.png>
 
-LaTeX Warning: Citation `ref1' on page 79 undefined on input line 153.
+LaTeX Warning: Citation `ref1' on page 81 undefined on input line 153.
 
 
-LaTeX Warning: Citation `ref1' on page 79 undefined on input line 153.
+LaTeX Warning: Citation `ref1' on page 81 undefined on input line 153.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
@@ -3170,24 +3118,44 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 )
 Underfull \vbox (badness 1596) has occurred while \output is active []
 
- [79]
-[80]
+ [81]
+[82]
 \openout2 = `chapter6.aux'.
 
  (./chapter6.tex
 فصل 6.
-[81
+[83
 
 
 
 ]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [82])
-[83] (./thesis.bbl [84
+ [84])
+[85] (./thesis.bbl [86
 
 
-] [85] [86]) (./eninfo.tex [2] [2
+] [87] [88]
+Underfull \hbox (badness 10000) in paragraph at lines 486--489
+[][]\TU/lmroman10-regular(0)/m/n/10.95 “Ms-celeb-1m,” [][]$[][][][][] [] [] [] 
+[][][] [] [][][][][][][][][] [] [][][] [] [][][][][][] [] [][][][][][][][] [] [
+][][][][][][] []$[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 486--489
+[][]$[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+]$[][]\TU/lmroman10-regular(0)/m/n/10.95 .[]
+ []
+
+
+Underfull \hbox (badness 7468) in paragraph at lines 528--531
+[][]\TU/lmroman10-regular(0)/m/n/10.95 “Megaface: Million-scale face recognitio
+n dataset,” [][]$[][][][] [] [] [] [][][][][][][][] [] [][] []$[][]
+ []
+
+[89]) (./eninfo.tex [2] [2
 
 ] [3
 
@@ -3200,13 +3168,13 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 106.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 106.
- (./thesis.aux (./symbols.aux) (./chapter1.aux) (./chapter2.aux) (./chapter3.au
-x)
-(./chapter4.aux) (./chapter5.aux) (./chapter6.aux))
+ (./thesis.aux (./symbols.aux)
+(./chapter1.aux) (./chapter2.aux) (./chapter3.aux) (./chapter4.aux)
+(./chapter5.aux) (./chapter6.aux))
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 106.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 106.
 Package rerunfilecheck Info: File `thesis.out' has not changed.
-(rerunfilecheck)             Checksum: 8ACFB300B7A6CC4B0B2C6377AFE2E826;5452.
+(rerunfilecheck)             Checksum: F595F011FA39C3FBC0A43E68B5E9BF64;5627.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
@@ -3219,12 +3187,12 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 34903 strings out of 479418
- 703844 string characters out of 5884585
- 1084652 words of memory out of 5000000
- 51604 multiletter control sequences out of 15000+600000
- 542370 words of font info for 115 fonts, out of 8000000 for 9000
+ 34927 strings out of 479418
+ 704196 string characters out of 5884585
+ 1085652 words of memory out of 5000000
+ 51626 multiletter control sequences out of 15000+600000
+ 542378 words of font info for 116 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 67i,25n,83p,4817b,591s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 67i,25n,83p,4817b,592s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on thesis.pdf (108 pages).
+Output written on thesis.pdf (111 pages).

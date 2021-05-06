@@ -5,14 +5,6 @@
 
 \begin{LTRbibitems}
 \resetlatinfont
-\bibitem{wang2018cosface}
-H.~Wang, Y.~Wang, Z.~Zhou, X.~Ji, D.~Gong, J.~Zhou, Z.~Li, and W.~Liu,
-  ``Cosface: Large margin cosine loss for deep face recognition,'' 2018.
-
-\end{LTRbibitems}
-
-\begin{LTRbibitems}
-\resetlatinfont
 \bibitem{982883}
 {Ming-Hsuan Yang}, D.~J. {Kriegman}, and N.~{Ahuja}, ``Detecting faces in
   images: a survey,'' {\em IEEE Transactions on Pattern Analysis and Machine
@@ -450,6 +442,92 @@ T.~Karras, S.~Laine, and T.~Aila, ``A style-based generator architecture for
 J.~{Cao}, Y.~{Hu}, B.~{Yu}, R.~{He}, and Z.~{Sun}, ``3d aided duet gans for
   multi-view face image synthesis,'' {\em IEEE Transactions on Information
   Forensics and Security},  vol.14,  no.8,  pp.2028--2042, 2019.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{wang2018cosface}
+H.~Wang, Y.~Wang, Z.~Zhou, X.~Ji, D.~Gong, J.~Zhou, Z.~Li, and W.~Liu,
+  ``Cosface: Large margin cosine loss for deep face recognition,'' 2018.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{s18092995}
+S.~W. Cho, N.~R. Baek, M.~C. Kim, J.~H. Koo, J.~H. Kim, and K.~R. Park, ``Face
+  detection in nighttime images using visible-light camera sensors with
+  two-step faster region-based convolutional neural network,'' {\em Sensors},
+  vol.18,  no.9, 2018.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{deng2019retinaface}
+J.~Deng, J.~Guo, Y.~Zhou, J.~Yu, I.~Kotsia, and S.~Zafeiriou, ``Retinaface:
+  Single-stage dense face localisation in the wild,'' 2019.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{CASIA_dataset}
+``Casia web-face dataset,''
+  \url{https://paperswithcode.com/dataset/casia-webface}.
+\newblock Accessed: 2021-04-24.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{MS_Celeb_dataset}
+``Ms-celeb-1m,''
+  \url{https://www.microsoft.com/en-us/research/project/ms-celeb-1m-challenge-recognizing-one-million-celebrities-real-world}.
+\newblock Accessed: 2021-04-24.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{VGGFace2_dataset}
+``Vggface2 dataset,'' \url{https://www.robots.ox.ac.uk/~vgg/data/vgg_face/}.
+\newblock Accessed: 2021-04-24.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{LFW_dataset}
+``Labeled faces in the wild dataset,'' \url{http://vis-www.cs.umass.edu/lfw/}.
+\newblock Accessed: 2021-04-24.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{PubFig_dataset}
+``Public figures face database,''
+  \url{https://www.cs.columbia.edu/CAVE/databases/pubfig/}.
+\newblock Accessed: 2021-04-24.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{CACD_dataset}
+``Cross-age celebrity dataset,'' \url{https://paperswithcode.com/dataset/cacd}.
+\newblock Accessed: 2021-04-24.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{MegaFace_dataset}
+``Megaface: Million-scale face recognition dataset,''
+  \url{http://megaface.cs.washington.edu}.
+\newblock Accessed: 2021-04-24.
 
 \end{LTRbibitems}
 

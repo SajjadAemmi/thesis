@@ -54,33 +54,35 @@
 \contentsline {chapter}{\numberline {4} روش پیشنهادی }{66}{chapter.4}%
 \contentsline {section}{\numberline {4.1}مقدمه}{67}{section.4.1}%
 \contentsline {section}{\numberline {4.2}پیش پردازش}{67}{section.4.2}%
-\contentsline {subsection}{\numberline {4.2.1}یافتن چهره}{67}{subsection.4.2.1}%
-\contentsline {section}{\numberline {4.3}دسته بندی}{68}{section.4.3}%
-\contentsline {subsection}{\numberline {4.3.1}مدل پيشنهادي پايه}{68}{subsection.4.3.1}%
-\contentsline {subsection}{\numberline {4.3.2}آموزش شبکه جهت استخراج ویژگی}{69}{subsection.4.3.2}%
-\contentsline {subsection}{\numberline {4.3.3}تابع ضرر}{70}{subsection.4.3.3}%
-\contentsline {subsubsection}{\numberline {4.3.3.1}آموزش‌}{72}{subsubsection.4.3.3.1}%
-\contentsline {subsubsection}{\numberline {4.3.3.2}دسته‌بندی}{73}{subsubsection.4.3.3.2}%
-\contentsline {section}{\numberline {4.4}فناوری های استفاده شده}{73}{section.4.4}%
-\contentsline {chapter}{\numberline {5}ارزیابی روش پیشنهادی}{74}{chapter.5}%
-\contentsline {section}{\numberline {5.1}مقدمه}{75}{section.5.1}%
-\contentsline {section}{\numberline {5.2}معیار ارزیابی}{75}{section.5.2}%
-\contentsline {section}{\numberline {5.3}مجموعه داده}{76}{section.5.3}%
-\contentsline {subsection}{\numberline {5.3.1}مجموعه داده‌های آموزش}{76}{subsection.5.3.1}%
-\contentsline {subsubsection}{\numberline {5.3.1.1}مجموعه داده \lr {CASIA Web-Face}}{76}{subsubsection.5.3.1.1}%
-\contentsline {subsubsection}{\numberline {5.3.1.2}مجموعه داده \lr {MS-Celeb-1M}}{76}{subsubsection.5.3.1.2}%
-\contentsline {subsubsection}{\numberline {5.3.1.3}مجموعه داده \lr {VGGFace2}}{76}{subsubsection.5.3.1.3}%
-\contentsline {subsection}{\numberline {5.3.2}مجموعه داده‌های آزمون}{77}{subsection.5.3.2}%
-\contentsline {subsubsection}{\numberline {5.3.2.1}مجموعه داده \lr {LFW}}{77}{subsubsection.5.3.2.1}%
-\contentsline {subsubsection}{\numberline {5.3.2.2}مجموعه داده \lr {PubFig}}{77}{subsubsection.5.3.2.2}%
-\contentsline {subsubsection}{\numberline {5.3.2.3}مجموعه داده \lr {YouTube Faces}}{77}{subsubsection.5.3.2.3}%
-\contentsline {subsubsection}{\numberline {5.3.2.4}مجموعه داده \lr {CFP}}{77}{subsubsection.5.3.2.4}%
-\contentsline {subsubsection}{\numberline {5.3.2.5}مجموعه داده \lr {CACD}}{78}{subsubsection.5.3.2.5}%
-\contentsline {subsubsection}{\numberline {5.3.2.6}مجموعه داده \lr {MegaFace}}{78}{subsubsection.5.3.2.6}%
-\contentsline {section}{\numberline {5.4}پیکربندی الگوریتم}{78}{section.5.4}%
-\contentsline {section}{\numberline {5.5}نتایج آزمون}{79}{section.5.5}%
-\contentsline {chapter}{\numberline {6}نتیجه‌گیری و پیشنهادات}{81}{chapter.6}%
-\contentsline {section}{\numberline {6.1}مقدمه}{82}{section.6.1}%
-\contentsline {section}{\numberline {6.2}بحث و نتيجه‌گيري}{82}{section.6.2}%
-\contentsline {section}{\numberline {6.3}پیشنهادات}{83}{section.6.3}%
-\contentsline {chapter}{منابع و مآخذ}{84}{chapter*.83}%
+\contentsline {subsection}{\numberline {4.2.1}همسان سازی بافت‌نگار}{67}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.2}یافتن چهره}{68}{subsection.4.2.2}%
+\contentsline {subsection}{\numberline {4.2.3}تراز کردن تصویر}{69}{subsection.4.2.3}%
+\contentsline {section}{\numberline {4.3}دسته بندی}{70}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}مدل پيشنهادي پايه}{70}{subsection.4.3.1}%
+\contentsline {subsection}{\numberline {4.3.2}آموزش شبکه جهت استخراج ویژگی}{71}{subsection.4.3.2}%
+\contentsline {subsection}{\numberline {4.3.3}تابع ضرر}{72}{subsection.4.3.3}%
+\contentsline {subsubsection}{\numberline {4.3.3.1}آموزش‌}{74}{subsubsection.4.3.3.1}%
+\contentsline {subsubsection}{\numberline {4.3.3.2}دسته‌بندی}{75}{subsubsection.4.3.3.2}%
+\contentsline {section}{\numberline {4.4}فناوری های استفاده شده}{75}{section.4.4}%
+\contentsline {chapter}{\numberline {5}ارزیابی روش پیشنهادی}{76}{chapter.5}%
+\contentsline {section}{\numberline {5.1}مقدمه}{77}{section.5.1}%
+\contentsline {section}{\numberline {5.2}معیار ارزیابی}{77}{section.5.2}%
+\contentsline {section}{\numberline {5.3}مجموعه داده}{78}{section.5.3}%
+\contentsline {subsection}{\numberline {5.3.1}مجموعه داده‌های آموزش}{78}{subsection.5.3.1}%
+\contentsline {subsubsection}{\numberline {5.3.1.1}مجموعه داده \lr {CASIA Web-Face}}{78}{subsubsection.5.3.1.1}%
+\contentsline {subsubsection}{\numberline {5.3.1.2}مجموعه داده \lr {MS-Celeb-1M}}{78}{subsubsection.5.3.1.2}%
+\contentsline {subsubsection}{\numberline {5.3.1.3}مجموعه داده \lr {VGGFace2}}{78}{subsubsection.5.3.1.3}%
+\contentsline {subsection}{\numberline {5.3.2}مجموعه داده‌های آزمون}{79}{subsection.5.3.2}%
+\contentsline {subsubsection}{\numberline {5.3.2.1}مجموعه داده \lr {LFW}}{79}{subsubsection.5.3.2.1}%
+\contentsline {subsubsection}{\numberline {5.3.2.2}مجموعه داده \lr {PubFig}}{79}{subsubsection.5.3.2.2}%
+\contentsline {subsubsection}{\numberline {5.3.2.3}مجموعه داده \lr {YouTube Faces}}{79}{subsubsection.5.3.2.3}%
+\contentsline {subsubsection}{\numberline {5.3.2.4}مجموعه داده \lr {CFP}}{79}{subsubsection.5.3.2.4}%
+\contentsline {subsubsection}{\numberline {5.3.2.5}مجموعه داده \lr {CACD}}{80}{subsubsection.5.3.2.5}%
+\contentsline {subsubsection}{\numberline {5.3.2.6}مجموعه داده \lr {MegaFace}}{80}{subsubsection.5.3.2.6}%
+\contentsline {section}{\numberline {5.4}پیکربندی الگوریتم}{80}{section.5.4}%
+\contentsline {section}{\numberline {5.5}نتایج آزمون}{81}{section.5.5}%
+\contentsline {chapter}{\numberline {6}نتیجه‌گیری و پیشنهادات}{83}{chapter.6}%
+\contentsline {section}{\numberline {6.1}مقدمه}{84}{section.6.1}%
+\contentsline {section}{\numberline {6.2}بحث و نتيجه‌گيري}{84}{section.6.2}%
+\contentsline {section}{\numberline {6.3}پیشنهادات}{85}{section.6.3}%
+\contentsline {chapter}{منابع و مآخذ}{86}{chapter*.85}%
