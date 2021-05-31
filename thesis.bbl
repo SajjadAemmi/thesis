@@ -5,6 +5,32 @@
 
 \begin{LTRbibitems}
 \resetlatinfont
+\bibitem{wang2018cosface}
+H.~Wang, Y.~Wang, Z.~Zhou, X.~Ji, D.~Gong, J.~Zhou, Z.~Li, and W.~Liu,
+  ``Cosface: Large margin cosine loss for deep face recognition,'' 2018.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{s18092995}
+S.~W. Cho, N.~R. Baek, M.~C. Kim, J.~H. Koo, J.~H. Kim, and K.~R. Park, ``Face
+  detection in nighttime images using visible-light camera sensors with
+  two-step faster region-based convolutional neural network,'' {\em Sensors},
+  vol.18,  no.9, 2018.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{deng2019retinaface}
+J.~Deng, J.~Guo, Y.~Zhou, J.~Yu, I.~Kotsia, and S.~Zafeiriou, ``Retinaface:
+  Single-stage dense face localisation in the wild,'' 2019.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
 \bibitem{982883}
 {Ming-Hsuan Yang}, D.~J. {Kriegman}, and N.~{Ahuja}, ``Detecting faces in
   images: a survey,'' {\em IEEE Transactions on Pattern Analysis and Machine
@@ -442,32 +468,6 @@ T.~Karras, S.~Laine, and T.~Aila, ``A style-based generator architecture for
 J.~{Cao}, Y.~{Hu}, B.~{Yu}, R.~{He}, and Z.~{Sun}, ``3d aided duet gans for
   multi-view face image synthesis,'' {\em IEEE Transactions on Information
   Forensics and Security},  vol.14,  no.8,  pp.2028--2042, 2019.
-
-\end{LTRbibitems}
-
-\begin{LTRbibitems}
-\resetlatinfont
-\bibitem{wang2018cosface}
-H.~Wang, Y.~Wang, Z.~Zhou, X.~Ji, D.~Gong, J.~Zhou, Z.~Li, and W.~Liu,
-  ``Cosface: Large margin cosine loss for deep face recognition,'' 2018.
-
-\end{LTRbibitems}
-
-\begin{LTRbibitems}
-\resetlatinfont
-\bibitem{s18092995}
-S.~W. Cho, N.~R. Baek, M.~C. Kim, J.~H. Koo, J.~H. Kim, and K.~R. Park, ``Face
-  detection in nighttime images using visible-light camera sensors with
-  two-step faster region-based convolutional neural network,'' {\em Sensors},
-  vol.18,  no.9, 2018.
-
-\end{LTRbibitems}
-
-\begin{LTRbibitems}
-\resetlatinfont
-\bibitem{deng2019retinaface}
-J.~Deng, J.~Guo, Y.~Zhou, J.~Yu, I.~Kotsia, and S.~Zafeiriou, ``Retinaface:
-  Single-stage dense face localisation in the wild,'' 2019.
 
 \end{LTRbibitems}
 
