@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2021.1.28)  31 MAY 2021 23:21
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2021.1.28)  1 JUN 2021 10:00
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1580,89 +1580,9 @@ an-tex-text;"
 LaTeX Warning: Unused global option(s):
     [withpage,printonlyused,fontsize=13pt].
 
-(./thesis.aux (./symbols.aux) (./chapter1.aux) (./chapter2.aux
-
-LaTeX Warning: Label `eq2-3' multiply defined.
-
-
-LaTeX Warning: Label `image2-15' multiply defined.
-
-) (./chapter3.aux
-
-LaTeX Warning: Label `image2-1' multiply defined.
-
-
-LaTeX Warning: Label `image2-1' multiply defined.
-
-
-LaTeX Warning: Label `image2-1' multiply defined.
-
-
-LaTeX Warning: Label `image2-1' multiply defined.
-
-
-LaTeX Warning: Label `image2-1' multiply defined.
-
-
-LaTeX Warning: Label `image2-1' multiply defined.
-
-
-LaTeX Warning: Label `image2-1' multiply defined.
-
-
-LaTeX Warning: Label `image2-1' multiply defined.
-
-
-LaTeX Warning: Label `eq2-10' multiply defined.
-
-
-LaTeX Warning: Label `image2-1' multiply defined.
-
-
-LaTeX Warning: Label `image2-1' multiply defined.
-
-
-LaTeX Warning: Label `image2-1' multiply defined.
-
-
-LaTeX Warning: Label `image2-1' multiply defined.
-
-
-LaTeX Warning: Label `image2-1' multiply defined.
-
-
-LaTeX Warning: Label `image2-1' multiply defined.
-
-
-LaTeX Warning: Label `image2-1' multiply defined.
-
-
-LaTeX Warning: Label `image2-1' multiply defined.
-
-
-LaTeX Warning: Label `image2-1' multiply defined.
-
-
-LaTeX Warning: Label `image2-1' multiply defined.
-
-
-LaTeX Warning: Label `image2-1' multiply defined.
-
-) (./chapter4.aux
+(./thesis.aux (./symbols.aux) (./chapter4.aux
 
 LaTeX Warning: Label `eq3-2' multiply defined.
-
-
-LaTeX Warning: Label `eq3-2' multiply defined.
-
-
-LaTeX Warning: Label `eq4-2' multiply defined.
-
-
-LaTeX Warning: Label `image2-1' multiply defined.
-
-
-LaTeX Warning: Label `image2-1' multiply defined.
 
 
 LaTeX Warning: Label `image2-1' multiply defined.
@@ -1854,259 +1774,46 @@ Overfull \hbox (12.79996pt too wide) in paragraph at lines 77--77
 
 
 
-]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [3]
-[4])
+])
 \tf@toc=\write10
 \openout10 = `thesis.toc'.
 
- [5] (./thesis.lot)
+ [3] (./thesis.lot)
 \tf@lot=\write11
 \openout11 = `thesis.lot'.
 
- [6
+ [4
 
 
 ] (./thesis.lof
 
-LaTeX Warning: Citation `ref20' on page چ undefined on input line 2.
+LaTeX Warning: Citation `ref1' on page ث undefined on input line 2.
 
 
-LaTeX Warning: Citation `ref20' on page چ undefined on input line 3.
+LaTeX Warning: Citation `yang2021sanet' on page ث undefined on input line 8.
 
 
-LaTeX Warning: Citation `ref19' on page چ undefined on input line 4.
+LaTeX Warning: Citation `ref1' on page ث undefined on input line 9.
 
 
-LaTeX Warning: Citation `ref13' on page چ undefined on input line 5.
+LaTeX Warning: Citation `ref1' on page ث undefined on input line 10.
 
 
-LaTeX Warning: Citation `ref13' on page چ undefined on input line 6.
+LaTeX Warning: Citation `ref1' on page ث undefined on input line 12.
 
 
-LaTeX Warning: Citation `ref13' on page چ undefined on input line 7.
-
-
-LaTeX Warning: Citation `ref13' on page چ undefined on input line 8.
-
-
-LaTeX Warning: Citation `ref13' on page چ undefined on input line 9.
-
-
-LaTeX Warning: Citation `ref13' on page چ undefined on input line 10.
-
-
-LaTeX Warning: Citation `ref1' on page چ undefined on input line 12.
-
-
-LaTeX Warning: Citation `ref1' on page چ undefined on input line 13.
-
-
-LaTeX Warning: Citation `ref1' on page چ undefined on input line 14.
-
-
-LaTeX Warning: Citation `ref1' on page چ undefined on input line 15.
-
-
-LaTeX Warning: Citation `ref1' on page چ undefined on input line 16.
-
-
-LaTeX Warning: Citation `ref1' on page چ undefined on input line 17.
-
-
-LaTeX Warning: Citation `ref1' on page چ undefined on input line 18.
-
-
-LaTeX Warning: Citation `ref1' on page چ undefined on input line 19.
-
-
-LaTeX Warning: Citation `ref1' on page چ undefined on input line 20.
-
-
-LaTeX Warning: Citation `ref1' on page چ undefined on input line 21.
-
-
-Underfull \vbox (badness 2990) has occurred while \output is active []
-
- [7
-
-]
-
-LaTeX Warning: Citation `ref1' on page ح undefined on input line 22.
-
-
-LaTeX Warning: Citation `ref1' on page ح undefined on input line 23.
-
-
-LaTeX Warning: Citation `ref1' on page ح undefined on input line 24.
-
-
-LaTeX Warning: Citation `ref1' on page ح undefined on input line 25.
-
-
-LaTeX Warning: Citation `ref1' on page ح undefined on input line 26.
-
-
-LaTeX Warning: Citation `ref1' on page ح undefined on input line 27.
-
-
-LaTeX Warning: Citation `ref1' on page ح undefined on input line 28.
-
-
-LaTeX Warning: Citation `ref1' on page ح undefined on input line 29.
-
-
-LaTeX Warning: Citation `ref1' on page ح undefined on input line 30.
-
-
-LaTeX Warning: Citation `ref1' on page ح undefined on input line 31.
-
-
-LaTeX Warning: Citation `ref1' on page ح undefined on input line 32.
-
-
-LaTeX Warning: Citation `ref1' on page ح undefined on input line 33.
-
-
-LaTeX Warning: Citation `ref1' on page ح undefined on input line 34.
-
-
-LaTeX Warning: Citation `ref1' on page ح undefined on input line 35.
-
-
-LaTeX Warning: Citation `ref1' on page ح undefined on input line 36.
-
-
-LaTeX Warning: Citation `ref1' on page ح undefined on input line 37.
-
-
-LaTeX Warning: Citation `ref1' on page ح undefined on input line 38.
-
-
-LaTeX Warning: Citation `ref1' on page ح undefined on input line 39.
-
-
-LaTeX Warning: Citation `ref1' on page ح undefined on input line 40.
-
-
-LaTeX Warning: Citation `ref1' on page ح undefined on input line 41.
-
-
-LaTeX Warning: Citation `ref1' on page ح undefined on input line 42.
-
-
-LaTeX Warning: Citation `Bianco_2018' on page ح undefined on input line 43.
-
-
-LaTeX Warning: Citation `Bianco_2018' on page ح undefined on input line 44.
-
-[8]
-
-LaTeX Warning: Citation `ref1' on page خ undefined on input line 46.
-
-
-LaTeX Warning: Citation `ref1' on page خ undefined on input line 47.
-
-
-LaTeX Warning: Citation `ref1' on page خ undefined on input line 48.
-
-
-LaTeX Warning: Citation `ref1' on page خ undefined on input line 49.
-
-
-LaTeX Warning: Citation `ref1' on page خ undefined on input line 50.
-
-
-LaTeX Warning: Citation `ref1' on page خ undefined on input line 51.
-
-
-LaTeX Warning: Citation `ref1' on page خ undefined on input line 52.
-
-
-LaTeX Warning: Citation `ref1' on page خ undefined on input line 53.
-
-
-LaTeX Warning: Citation `ref1' on page خ undefined on input line 54.
-
-
-LaTeX Warning: Citation `ref1' on page خ undefined on input line 55.
-
-
-LaTeX Warning: Citation `ref1' on page خ undefined on input line 56.
-
-
-LaTeX Warning: Citation `ref1' on page خ undefined on input line 57.
-
-
-LaTeX Warning: Citation `ref1' on page خ undefined on input line 58.
-
-
-LaTeX Warning: Citation `ref1' on page خ undefined on input line 59.
-
-
-LaTeX Warning: Citation `ref1' on page خ undefined on input line 60.
-
-
-LaTeX Warning: Citation `ref1' on page خ undefined on input line 61.
-
-
-LaTeX Warning: Citation `ref1' on page خ undefined on input line 62.
-
-
-LaTeX Warning: Citation `ref1' on page خ undefined on input line 63.
-
-
-LaTeX Warning: Citation `ref1' on page خ undefined on input line 64.
-
-
-LaTeX Warning: Citation `ref1' on page خ undefined on input line 65.
-
-
-Overfull \hbox (1.19542pt too wide) in paragraph at lines 65--65
- [][][] [][][][]\TU/IRNazanin(0)/b/n/10.95 معماری []\TU/lmroman10-regular(0)/m/
-n/10.95 MOCHA[]\TU/IRNazanin(0)/b/n/10.95 : دستگاه های تلفن همراه از طریق اتصال
- چندگانه با []\TU/lmroman10-regular(0)/m/n/10.95 cloudlet[] \TU/IRNazanin(0)/b/
-n/10.95 و ابر ارتباط برقرار می‌کنند[][][] 
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [9]
-
-LaTeX Warning: Citation `ref1' on page د undefined on input line 66.
-
-
-LaTeX Warning: Citation `ref1' on page د undefined on input line 67.
-
-
-LaTeX Warning: Citation `ref1' on page د undefined on input line 70.
-
-
-LaTeX Warning: Citation `ref1' on page د undefined on input line 75.
-
-
-LaTeX Warning: Citation `ref1' on page د undefined on input line 76.
-
-
-LaTeX Warning: Citation `ref1' on page د undefined on input line 77.
-
-
-LaTeX Warning: Citation `ref1' on page د undefined on input line 79.
-
-
-LaTeX Warning: Citation `ref1' on page د undefined on input line 80.
+LaTeX Warning: Citation `ref1' on page ث undefined on input line 13.
 
 )
 \tf@lof=\write12
 \openout12 = `thesis.lof'.
 
- [10]
+ [5
+
+]
 \openout2 = `symbols.aux'.
 
- (./symbols.tex [11
+ (./symbols.tex [6
 
 
 ])
@@ -2159,86 +1866,103 @@ File: figures/image4-5.png Graphic file (type bmp)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [6]
-File: figures/image3-1.png Graphic file (type bmp)
-<figures/image3-1.png>
-
-Overfull \hbox (28.4709pt too wide) in paragraph at lines 103--104
- [][][][][][] 
- []
+File: figures/image4-6.png Graphic file (type bmp)
+<figures/image4-6.png>
 
 
-LaTeX Warning: Citation `ref1' on page 7 undefined on input line 104.
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+File: figures/image2-32.png Graphic file (type bmp)
+<figures/image2-32.png>
+
+LaTeX Warning: Citation `yang2021sanet' on page 7 undefined on input line 126.
 
 
-LaTeX Warning: Citation `ref1' on page 7 undefined on input line 104.
+LaTeX Warning: Citation `yang2021sanet' on page 7 undefined on input line 126.
 
-[7] [8]
+[7]
+
+LaTeX Warning: Reference `pic3-9' on page 8 undefined on input line 135.
+
+Missing character: There is no … in font cmr10!
+[8]
+
+LaTeX Warning: Citation `ref3-5' on page 9 undefined on input line 150.
+
+
+LaTeX Warning: Reference `pic3-10' on page 9 undefined on input line 151.
+
+[9] [10] [11]
 Missing character: There is no θ in font cmmi10!
 Missing character: There is no θ in font [lmroman10-regular]/OT:script=latn;lan
 guage=dflt;mapping=tex-text;!
 File: figures/image3-1.png Graphic file (type bmp)
 <figures/image3-1.png>
 
-Overfull \hbox (28.4709pt too wide) in paragraph at lines 165--166
+Overfull \hbox (28.4709pt too wide) in paragraph at lines 224--225
  [][][][][][] 
  []
 
 
-LaTeX Warning: Citation `ref1' on page 9 undefined on input line 166.
+LaTeX Warning: Citation `ref1' on page 12 undefined on input line 225.
 
 
-LaTeX Warning: Citation `ref1' on page 9 undefined on input line 166.
+LaTeX Warning: Citation `ref1' on page 12 undefined on input line 225.
 
-[9]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [10]
+[12]
 File: figures/image3-1.png Graphic file (type bmp)
 <figures/image3-1.png>
 
-Overfull \hbox (28.4709pt too wide) in paragraph at lines 179--180
+Overfull \hbox (28.4709pt too wide) in paragraph at lines 238--239
  [][][][][][] 
  []
 
 
-LaTeX Warning: Citation `ref1' on page 11 undefined on input line 180.
+LaTeX Warning: Citation `ref1' on page 13 undefined on input line 239.
 
 
-LaTeX Warning: Citation `ref1' on page 11 undefined on input line 180.
+LaTeX Warning: Citation `ref1' on page 13 undefined on input line 239.
 
-) [11]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [13])
+[14]
 \openout2 = `chapter5.aux'.
 
  (./chapter5.tex
 فصل 2.
-[12
+[15
 
 
 
 ]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [13]
+ [16]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [14]
+ [17]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [15]
+ [18]
 
 Package caption Warning: \label without proper reference on input line 49.
 See the caption package documentation for explanation.
 
 
-LaTeX Warning: Reference `table:5-1' on page 16 undefined on input line 47.
+LaTeX Warning: Reference `table:5-1' on page 19 undefined on input line 47.
 
-[16]
+[19]
 
 Package caption Warning: \label without proper reference on input line 97.
 See the caption package documentation for explanation.
 
 
-LaTeX Warning: Reference `table:5-2' on page 17 undefined on input line 94.
+LaTeX Warning: Reference `table:5-2' on page 20 undefined on input line 94.
 
 File: figures/image3-1.png Graphic file (type bmp)
 <figures/image3-1.png>
@@ -2248,10 +1972,10 @@ Overfull \hbox (28.4709pt too wide) in paragraph at lines 145--146
  []
 
 
-LaTeX Warning: Citation `ref1' on page 17 undefined on input line 146.
+LaTeX Warning: Citation `ref1' on page 20 undefined on input line 146.
 
 
-LaTeX Warning: Citation `ref1' on page 17 undefined on input line 146.
+LaTeX Warning: Citation `ref1' on page 20 undefined on input line 146.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
@@ -2259,10 +1983,10 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 File: figures/image3-2.png Graphic file (type bmp)
 <figures/image3-2.png>
 
-LaTeX Warning: Citation `ref1' on page 17 undefined on input line 153.
+LaTeX Warning: Citation `ref1' on page 20 undefined on input line 153.
 
 
-LaTeX Warning: Citation `ref1' on page 17 undefined on input line 153.
+LaTeX Warning: Citation `ref1' on page 20 undefined on input line 153.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
@@ -2270,24 +1994,24 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 )
 Underfull \vbox (badness 1596) has occurred while \output is active []
 
- [17]
-[18]
+ [20]
+[21]
 \openout2 = `chapter6.aux'.
 
  (./chapter6.tex
 فصل 3.
-[19
+[22
 
 
 
 ]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [20])
-[21] (./thesis.bbl [22
+ [23])
+[24] (./thesis.bbl [25
 
 
-] [23] [24]
+] [26] [27]
 Underfull \hbox (badness 10000) in paragraph at lines 486--489
 [][]\TU/lmroman10-regular(0)/m/n/10.95 “Ms-celeb-1m,” [][]$[][][][][] [] [] [] 
 [][][] [] [][][][][][][][][] [] [][][] [] [][][][][][] [] [][][][][][][][] [] [
@@ -2324,15 +2048,9 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 104.
 x))
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 104.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 104.
+Package rerunfilecheck Info: File `thesis.out' has not changed.
+(rerunfilecheck)             Checksum: A969A77C1B915C9959C94CB672E168D5;1962.
 
-
-Package rerunfilecheck Warning: File `thesis.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `thesis.out':
-(rerunfilecheck)             Before: 9DAD3AF3E129B3A30C46D3A1D3220B0B;5629
-(rerunfilecheck)             After:  157BC66174617D0ED54A250CDB281C88;2041.
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -2344,12 +2062,12 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 34197 strings out of 479418
- 691894 string characters out of 5884585
+ 33785 strings out of 479418
+ 686523 string characters out of 5884585
  1081652 words of memory out of 5000000
- 50908 multiletter control sequences out of 15000+600000
- 542378 words of font info for 116 fonts, out of 8000000 for 9000
+ 50500 multiletter control sequences out of 15000+600000
+ 543924 words of font info for 121 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  67i,25n,83p,4817b,593s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on thesis.pdf (46 pages).
+Output written on thesis.pdf (44 pages).

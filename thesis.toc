@@ -1,6 +1,6 @@
-\contentsline {chapter}{فهرست جداول}{ج}{chapter*.4}%
-\contentsline {chapter}{فهرست تصاویر}{چ}{chapter*.5}%
-\contentsline {chapter}{فهرست نمادها}{ذ}{section*.6}%
+\contentsline {chapter}{فهرست جداول}{ت}{chapter*.4}%
+\contentsline {chapter}{فهرست تصاویر}{ث}{chapter*.5}%
+\contentsline {chapter}{فهرست نمادها}{ج}{section*.6}%
 \contentsline {chapter}{\numberline {1} روش پیشنهادی }{1}{chapter.1}%
 \contentsline {section}{\numberline {1.1}مقدمه}{2}{section.1.1}%
 \contentsline {section}{\numberline {1.2}پیش پردازش}{2}{section.1.2}%
@@ -9,31 +9,33 @@
 \contentsline {subsection}{\numberline {1.2.3}تراز کردن تصویر}{4}{subsection.1.2.3}%
 \contentsline {section}{\numberline {1.3}دسته بندی}{5}{section.1.3}%
 \contentsline {subsection}{\numberline {1.3.1}مدل پيشنهادي پايه}{5}{subsection.1.3.1}%
-\contentsline {subsection}{\numberline {1.3.2}لايه كانولوشن}{7}{subsection.1.3.2}%
-\contentsline {subsection}{\numberline {1.3.3}آموزش شبکه جهت استخراج ویژگی}{7}{subsection.1.3.3}%
-\contentsline {subsection}{\numberline {1.3.4}تابع ضرر}{8}{subsection.1.3.4}%
-\contentsline {subsubsection}{\numberline {1.3.4.1}آموزش‌}{10}{subsubsection.1.3.4.1}%
-\contentsline {subsubsection}{\numberline {1.3.4.2}دسته‌بندی}{11}{subsubsection.1.3.4.2}%
-\contentsline {section}{\numberline {1.4}فناوری های استفاده شده}{11}{section.1.4}%
-\contentsline {chapter}{\numberline {2}ارزیابی روش پیشنهادی}{12}{chapter.2}%
-\contentsline {section}{\numberline {2.1}مقدمه}{13}{section.2.1}%
-\contentsline {section}{\numberline {2.2}معیار ارزیابی}{13}{section.2.2}%
-\contentsline {section}{\numberline {2.3}مجموعه داده}{14}{section.2.3}%
-\contentsline {subsection}{\numberline {2.3.1}مجموعه داده‌های آموزش}{14}{subsection.2.3.1}%
-\contentsline {subsubsection}{\numberline {2.3.1.1}مجموعه داده \lr {CASIA Web-Face}}{14}{subsubsection.2.3.1.1}%
-\contentsline {subsubsection}{\numberline {2.3.1.2}مجموعه داده \lr {MS-Celeb-1M}}{14}{subsubsection.2.3.1.2}%
-\contentsline {subsubsection}{\numberline {2.3.1.3}مجموعه داده \lr {VGGFace2}}{14}{subsubsection.2.3.1.3}%
-\contentsline {subsection}{\numberline {2.3.2}مجموعه داده‌های آزمون}{15}{subsection.2.3.2}%
-\contentsline {subsubsection}{\numberline {2.3.2.1}مجموعه داده \lr {LFW}}{15}{subsubsection.2.3.2.1}%
-\contentsline {subsubsection}{\numberline {2.3.2.2}مجموعه داده \lr {PubFig}}{15}{subsubsection.2.3.2.2}%
-\contentsline {subsubsection}{\numberline {2.3.2.3}مجموعه داده \lr {YouTube Faces}}{15}{subsubsection.2.3.2.3}%
-\contentsline {subsubsection}{\numberline {2.3.2.4}مجموعه داده \lr {CFP}}{15}{subsubsection.2.3.2.4}%
-\contentsline {subsubsection}{\numberline {2.3.2.5}مجموعه داده \lr {CACD}}{16}{subsubsection.2.3.2.5}%
-\contentsline {subsubsection}{\numberline {2.3.2.6}مجموعه داده \lr {MegaFace}}{16}{subsubsection.2.3.2.6}%
-\contentsline {section}{\numberline {2.4}پیکربندی الگوریتم}{16}{section.2.4}%
-\contentsline {section}{\numberline {2.5}نتایج آزمون}{17}{section.2.5}%
-\contentsline {chapter}{\numberline {3}نتیجه‌گیری و پیشنهادات}{19}{chapter.3}%
-\contentsline {section}{\numberline {3.1}مقدمه}{20}{section.3.1}%
-\contentsline {section}{\numberline {3.2}بحث و نتيجه‌گيري}{20}{section.3.2}%
-\contentsline {section}{\numberline {3.3}پیشنهادات}{21}{section.3.3}%
-\contentsline {chapter}{منابع و مآخذ}{22}{chapter*.21}%
+\contentsline {subsubsection}{\numberline {1.3.1.1}لايه كانولوشن}{7}{subsubsection.1.3.1.1}%
+\contentsline {subsubsection}{\numberline {1.3.1.2}لایه تنگنا و واحد باقیمانده}{7}{subsubsection.1.3.1.2}%
+\contentsline {subsubsection}{\numberline {1.3.1.3}واحد توجه}{8}{subsubsection.1.3.1.3}%
+\contentsline {subsection}{\numberline {1.3.2}آموزش شبکه جهت استخراج ویژگی}{10}{subsection.1.3.2}%
+\contentsline {subsection}{\numberline {1.3.3}تابع ضرر}{10}{subsection.1.3.3}%
+\contentsline {subsubsection}{\numberline {1.3.3.1}آموزش‌}{13}{subsubsection.1.3.3.1}%
+\contentsline {subsubsection}{\numberline {1.3.3.2}دسته‌بندی}{13}{subsubsection.1.3.3.2}%
+\contentsline {section}{\numberline {1.4}فناوری های استفاده شده}{14}{section.1.4}%
+\contentsline {chapter}{\numberline {2}ارزیابی روش پیشنهادی}{15}{chapter.2}%
+\contentsline {section}{\numberline {2.1}مقدمه}{16}{section.2.1}%
+\contentsline {section}{\numberline {2.2}معیار ارزیابی}{16}{section.2.2}%
+\contentsline {section}{\numberline {2.3}مجموعه داده}{17}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}مجموعه داده‌های آموزش}{17}{subsection.2.3.1}%
+\contentsline {subsubsection}{\numberline {2.3.1.1}مجموعه داده \lr {CASIA Web-Face}}{17}{subsubsection.2.3.1.1}%
+\contentsline {subsubsection}{\numberline {2.3.1.2}مجموعه داده \lr {MS-Celeb-1M}}{17}{subsubsection.2.3.1.2}%
+\contentsline {subsubsection}{\numberline {2.3.1.3}مجموعه داده \lr {VGGFace2}}{17}{subsubsection.2.3.1.3}%
+\contentsline {subsection}{\numberline {2.3.2}مجموعه داده‌های آزمون}{18}{subsection.2.3.2}%
+\contentsline {subsubsection}{\numberline {2.3.2.1}مجموعه داده \lr {LFW}}{18}{subsubsection.2.3.2.1}%
+\contentsline {subsubsection}{\numberline {2.3.2.2}مجموعه داده \lr {PubFig}}{18}{subsubsection.2.3.2.2}%
+\contentsline {subsubsection}{\numberline {2.3.2.3}مجموعه داده \lr {YouTube Faces}}{18}{subsubsection.2.3.2.3}%
+\contentsline {subsubsection}{\numberline {2.3.2.4}مجموعه داده \lr {CFP}}{18}{subsubsection.2.3.2.4}%
+\contentsline {subsubsection}{\numberline {2.3.2.5}مجموعه داده \lr {CACD}}{19}{subsubsection.2.3.2.5}%
+\contentsline {subsubsection}{\numberline {2.3.2.6}مجموعه داده \lr {MegaFace}}{19}{subsubsection.2.3.2.6}%
+\contentsline {section}{\numberline {2.4}پیکربندی الگوریتم}{19}{section.2.4}%
+\contentsline {section}{\numberline {2.5}نتایج آزمون}{20}{section.2.5}%
+\contentsline {chapter}{\numberline {3}نتیجه‌گیری و پیشنهادات}{22}{chapter.3}%
+\contentsline {section}{\numberline {3.1}مقدمه}{23}{section.3.1}%
+\contentsline {section}{\numberline {3.2}بحث و نتيجه‌گيري}{23}{section.3.2}%
+\contentsline {section}{\numberline {3.3}پیشنهادات}{24}{section.3.3}%
+\contentsline {chapter}{منابع و مآخذ}{25}{chapter*.22}%
