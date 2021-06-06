@@ -1,27 +1,42 @@
 \BOOKMARK [0][-]{chapter*.4}{فهرست جداول}{}% 1
 \BOOKMARK [0][-]{chapter*.5}{فهرست تصاویر}{}% 2
 \BOOKMARK [0][-]{section*.6}{فهرست نمادها}{}% 3
-\BOOKMARK [0][-]{chapter.1}{ روش پیشنهادی }{}% 4
+\BOOKMARK [0][-]{chapter.1}{مقدمه}{}% 4
 \BOOKMARK [1][-]{section.1.1}{مقدمه}{chapter.1}% 5
-\BOOKMARK [1][-]{section.1.2}{پیش پردازش}{chapter.1}% 6
-\BOOKMARK [2][-]{subsection.1.2.1}{همسان سازی بافت‌نگار}{section.1.2}% 7
-\BOOKMARK [2][-]{subsection.1.2.2}{یافتن چهره}{section.1.2}% 8
-\BOOKMARK [2][-]{subsection.1.2.3}{تراز کردن تصویر}{section.1.2}% 9
-\BOOKMARK [1][-]{section.1.3}{دسته بندی}{chapter.1}% 10
-\BOOKMARK [2][-]{subsection.1.3.1}{مدل پيشنهادي پايه}{section.1.3}% 11
-\BOOKMARK [2][-]{subsection.1.3.2}{آموزش شبکه جهت استخراج ویژگی}{section.1.3}% 12
-\BOOKMARK [2][-]{subsection.1.3.3}{تابع ضرر}{section.1.3}% 13
-\BOOKMARK [1][-]{section.1.4}{فناوری های استفاده شده}{chapter.1}% 14
-\BOOKMARK [0][-]{chapter.2}{ارزیابی روش پیشنهادی}{}% 15
-\BOOKMARK [1][-]{section.2.1}{مقدمه}{chapter.2}% 16
-\BOOKMARK [1][-]{section.2.2}{معیار ارزیابی}{chapter.2}% 17
-\BOOKMARK [1][-]{section.2.3}{مجموعه داده}{chapter.2}% 18
-\BOOKMARK [2][-]{subsection.2.3.1}{مجموعه داده‌های آموزش}{section.2.3}% 19
-\BOOKMARK [2][-]{subsection.2.3.2}{مجموعه داده‌های آزمون}{section.2.3}% 20
-\BOOKMARK [1][-]{section.2.4}{پیکربندی الگوریتم}{chapter.2}% 21
-\BOOKMARK [1][-]{section.2.5}{نتایج آزمون}{chapter.2}% 22
-\BOOKMARK [0][-]{chapter.3}{نتیجه‌گیری و پیشنهادات}{}% 23
-\BOOKMARK [1][-]{section.3.1}{مقدمه}{chapter.3}% 24
-\BOOKMARK [1][-]{section.3.2}{بحث و نتيجه‌گيري}{chapter.3}% 25
-\BOOKMARK [1][-]{section.3.3}{پیشنهادات}{chapter.3}% 26
-\BOOKMARK [0][-]{chapter*.22}{منابع و مآخذ}{}% 27
+\BOOKMARK [1][-]{section.1.2}{ویژگی‌های بیومتریک}{chapter.1}% 6
+\BOOKMARK [2][-]{subsection.1.2.1}{ارزیابی ویژگی‌های بیومتریک انسان}{section.1.2}% 7
+\BOOKMARK [1][-]{section.1.3}{سامانه تشخیص چهره}{chapter.1}% 8
+\BOOKMARK [2][-]{subsection.1.3.1}{کاربردها و ویژگی‌های مهم سامانه تشخیص چهره}{section.1.3}% 9
+\BOOKMARK [2][-]{subsection.1.3.2}{نمای کلی یک سامانه تشخیص چهره}{section.1.3}% 10
+\BOOKMARK [1][-]{section.1.4}{ الگوریتم‌های استخراج ویژگی و برچسب گذاری تصاویر }{chapter.1}% 11
+\BOOKMARK [2][-]{subsection.1.4.1}{ خوشه بندی }{section.1.4}% 12
+\BOOKMARK [2][-]{subsection.1.4.2}{طبقه‌بندی}{section.1.4}% 13
+\BOOKMARK [1][-]{section.1.5}{مسئله تشخیص بی‌درنگ چهره در محیط‌های کنترل نشده}{chapter.1}% 14
+\BOOKMARK [2][-]{subsection.1.5.1}{چالش‌های سامانه تشخیص چهره}{section.1.5}% 15
+\BOOKMARK [0][-]{chapter.2}{ مروری بر کارهای گذشته}{}% 16
+\BOOKMARK [1][-]{section.2.1}{مقدمه}{chapter.2}% 17
+\BOOKMARK [1][-]{section.2.2}{یافتن چهره}{chapter.2}% 18
+\BOOKMARK [2][-]{subsection.2.2.1}{ رویکردهای مبتنی بر دانش و تطبیق کلیشه}{section.2.2}% 19
+\BOOKMARK [2][-]{subsection.2.2.2}{رویکردهای مبتنی بر ویژگی}{section.2.2}% 20
+\BOOKMARK [2][-]{subsection.2.2.3}{رویکرد مبتنی بر عامل‌های آماری}{section.2.2}% 21
+\BOOKMARK [2][-]{subsection.2.2.4}{رویکردهای مبتنی بر تصویر}{section.2.2}% 22
+\BOOKMARK [1][-]{section.2.3}{شناسایی چهره}{chapter.2}% 23
+\BOOKMARK [2][-]{subsection.2.3.1}{رویکرد‌های سنتی}{section.2.3}% 24
+\BOOKMARK [2][-]{subsection.2.3.2}{رویکرد مبتنی بر فیلتر گابور ‌}{section.2.3}% 25
+\BOOKMARK [2][-]{subsection.2.3.3}{رویکرد‌های سه بعدی}{section.2.3}% 26
+\BOOKMARK [2][-]{subsection.2.3.4}{رویکرد‌های تجزیه و تحلیل بافت پوست}{section.2.3}% 27
+\BOOKMARK [2][-]{subsection.2.3.5}{رویکرد‌های مبتنی بر دوربین حرارتی}{section.2.3}% 28
+\BOOKMARK [2][-]{subsection.2.3.6}{تشخیص چهره مبتنی بر ویدیو}{section.2.3}% 29
+\BOOKMARK [2][-]{subsection.2.3.7}{رویکرد مبتنی بر چهره ویژه}{section.2.3}% 30
+\BOOKMARK [2][-]{subsection.2.3.8}{رویکردهای مبتنی بر شبکه عصبی}{section.2.3}% 31
+\BOOKMARK [2][-]{subsection.2.3.9}{رویکردهای مبتنی بر نقاط راهنما}{section.2.3}% 32
+\BOOKMARK [1][-]{section.2.4}{نتیجه گیری}{chapter.2}% 33
+\BOOKMARK [0][-]{chapter.3}{مروری بر کارهای گذشته در شرایط کنترل نشده}{}% 34
+\BOOKMARK [1][-]{section.3.1}{مقدمه}{chapter.3}% 35
+\BOOKMARK [1][-]{section.3.2}{چالش حالت}{chapter.3}% 36
+\BOOKMARK [1][-]{section.3.3}{چالش روشنایی}{chapter.3}% 37
+\BOOKMARK [1][-]{section.3.4}{چالش انسداد}{chapter.3}% 38
+\BOOKMARK [1][-]{section.3.5}{چالش کمبود تصاویر آموزشی}{chapter.3}% 39
+\BOOKMARK [1][-]{section.3.6}{چالش منابع محدود}{chapter.3}% 40
+\BOOKMARK [1][-]{section.3.7}{نتیجه گیری}{chapter.3}% 41
+\BOOKMARK [0][-]{chapter*.77}{منابع و مآخذ}{}% 42

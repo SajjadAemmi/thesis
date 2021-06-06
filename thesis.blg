@@ -4,61 +4,55 @@ The top-level auxiliary file: thesis.aux
 A level-1 auxiliary file: symbols.aux
 A level-1 auxiliary file: chapter1.aux
 A level-1 auxiliary file: chapter2.aux
-A level-1 auxiliary file: chapter3.aux
-A level-1 auxiliary file: chapter4.aux
-A level-1 auxiliary file: chapter5.aux
-A level-1 auxiliary file: chapter6.aux
 The style file: ieeetr-fa.bst
 Database file #1: MyReferences.bib
 Warning--I didn't find a database entry for "ref20"
-Warning--I didn't find a database entry for "ref19"
 Warning--I didn't find a database entry for "ref13"
 Warning--I didn't find a database entry for "ref1"
-Warning--I didn't find a database entry for ""
 -- ieeetr-fa.bst version 0.9 (2015/05/09) 
 -- This is a BibTeX style for XePersian: http://www.parsilatex.com
 Warning--empty journal in parkhi2015deep
 
 Done.
-You've used 58 entries,
+You've used 26 entries,
             2349 wiz_defined-function locations,
-            930 strings with 15211 characters,
-and the built_in function-call counts, 18881 in all, are:
-= -- 1558
-> -- 769
+            766 strings with 9561 characters,
+and the built_in function-call counts, 9045 in all, are:
+= -- 746
+> -- 378
 < -- 0
-+ -- 278
-- -- 220
-* -- 1212
-:= -- 2323
-add.period$ -- 67
-call.type$ -- 58
-change.case$ -- 59
++ -- 135
+- -- 109
+* -- 587
+:= -- 1123
+add.period$ -- 28
+call.type$ -- 26
+change.case$ -- 26
 chr.to.int$ -- 0
-cite$ -- 59
-duplicate$ -- 812
-empty$ -- 1608
-format.name$ -- 220
-if$ -- 5278
+cite$ -- 27
+duplicate$ -- 397
+empty$ -- 743
+format.name$ -- 109
+if$ -- 2524
 int.to.chr$ -- 0
-int.to.str$ -- 58
-missing$ -- 589
-newline$ -- 421
-num.names$ -- 51
-pop$ -- 253
+int.to.str$ -- 26
+missing$ -- 284
+newline$ -- 190
+num.names$ -- 26
+pop$ -- 104
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 619
+skip$ -- 317
 stack$ -- 0
-substring$ -- 1098
-swap$ -- 348
+substring$ -- 525
+swap$ -- 182
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 4
 type$ -- 0
 warning$ -- 1
-while$ -- 132
-width$ -- 60
-write$ -- 725
-(There were 6 warnings)
+while$ -- 66
+width$ -- 28
+write$ -- 333
+(There were 4 warnings)
