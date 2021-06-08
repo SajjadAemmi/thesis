@@ -43,28 +43,30 @@
 \contentsline {figure}{\numberline {2.32}{\ignorespaces معماری ماژول Shuffle Attention \cite {yang2021sanet}.\relax }}{40}{figure.caption.49}%
 \contentsline {figure}{\numberline {2.33}{\ignorespaces مقایسه چگالی دقت در معماری‌های مختلف شبکه عصبی پیچشی \cite {Bianco_2018}.\relax }}{41}{figure.caption.50}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {3.1}{\ignorespaces رویکردهای مختلف هم ترازی چهره \cite {ref1}.\relax }}{45}{figure.caption.52}%
+\contentsline {figure}{\numberline {3.1}{\ignorespaces رویکردهای مختلف هم ترازی چهره \cite {Masi2018DeepFR}.\relax }}{45}{figure.caption.52}%
 \contentsline {figure}{\numberline {3.2}{\ignorespaces تبدیل هم نسبی \lr {OpenFace} براساس نقاط ویژه آبی \cite {amos2016openface}.\relax }}{46}{figure.caption.53}%
 \contentsline {figure}{\numberline {3.3}{\ignorespaces معماری \lr {OpenFace} \cite {amos2016openface}.\relax }}{47}{figure.caption.54}%
 \contentsline {figure}{\numberline {3.4}{\ignorespaces جریان یادگیری در معماری \lr {OpenFace} \cite {amos2016openface}.\relax }}{47}{figure.caption.55}%
 \contentsline {figure}{\numberline {3.5}{\ignorespaces رویکرد کلی الگوریتم مبتنی بر \lr {AAM} برای رو به رو سازی چهره \cite {HAGHIGHAT201623}.\relax }}{48}{figure.caption.56}%
-\contentsline {figure}{\numberline {3.6}{\ignorespaces مقدار دهی اولیه و بهینه سازی \lr {AAM} \cite {ref1}.\relax }}{48}{figure.caption.57}%
-\contentsline {figure}{\numberline {3.7}{\ignorespaces نتیجه آزمایش بر روی مجموعه داده \lr {FERET} در زاویه های متفاوت \cite {ref1}.\relax }}{49}{figure.caption.58}%
+\contentsline {figure}{\numberline {3.6}{\ignorespaces مقدار دهی اولیه و بهینه سازی \lr {AAM} \cite {HAGHIGHAT201623}.\relax }}{48}{figure.caption.57}%
+\contentsline {figure}{\numberline {3.7}{\ignorespaces نتیجه آزمایش بر روی مجموعه داده \lr {FERET} در زاویه های متفاوت \cite {HAGHIGHAT201623}.\relax }}{49}{figure.caption.58}%
 \contentsline {figure}{\numberline {3.8}{\ignorespaces معماری شبکه پیشنهادی \lr {VS2VI} \cite {7532959}.\relax }}{50}{figure.caption.59}%
 \contentsline {figure}{\numberline {3.9}{\ignorespaces \lr {(a)} معماری مدل یادگیری موقعیت چهره و \lr {(b)} معماری مدل یادگیری بازسازی چهره از رو به رو \cite {7532959}.\relax }}{50}{figure.caption.60}%
-\contentsline {figure}{\numberline {3.10}{\ignorespaces مقایسه روش ارائه شده با سایر روش ها \lr {(a)} تصویر آزمایشی \lr {(b)} و \lr {(c)} خروجی نادرست روش های دیگر \lr {(d)} خروجی روش ارائه شده \cite {ref1}.\relax }}{52}{figure.caption.61}%
-\contentsline {figure}{\numberline {3.11}{\ignorespaces 6 مرحله اصلی در فرایند هنجارسازی حالت و روشنایی چهره \cite {ref1}.\relax }}{52}{figure.caption.62}%
-\contentsline {figure}{\numberline {3.12}{\ignorespaces اندازه گیری روشنایی و بافت نگار 8 نقطه خاص \cite {ref1}.\relax }}{54}{figure.caption.63}%
+\contentsline {figure}{\numberline {3.10}{\ignorespaces مقایسه روش ارائه شده با سایر روش ها \lr {(a)} تصویر آزمایشی \lr {(b)} و \lr {(c)} خروجی نادرست روش های دیگر \lr {(d)} خروجی روش ارائه شده \cite {SAVCHENKO2018170}.\relax }}{51}{figure.caption.61}%
+\contentsline {figure}{\numberline {3.11}{\ignorespaces 6 مرحله اصلی در فرایند هنجارسازی حالت و روشنایی چهره \cite {6196234}.\relax }}{52}{figure.caption.62}%
+\contentsline {figure}{\numberline {3.12}{\ignorespaces اندازه گیری روشنایی و بافت نگار 8 نقطه خاص \cite {6196234}.\relax }}{54}{figure.caption.63}%
 \contentsline {figure}{\numberline {3.13}{\ignorespaces تصویر انسداد از ترکیب خطی تمام چهره های آموزشی در مجموعه داده و یک تصویر \lr {L} که نشان دهنده انسداد است، تشکیل شده است \cite {WU2018256}.\relax }}{56}{figure.caption.64}%
-\contentsline {figure}{\numberline {3.14}{\ignorespaces رویکرد کلی الگوریتم \lr {GD-HASLR} \cite {ref1}.\relax }}{57}{figure.caption.65}%
-\contentsline {figure}{\numberline {3.15}{\ignorespaces ردیابی، یافتن چهره ها و برچسب زنی \cite {ref1}.\relax }}{58}{figure.caption.66}%
-\contentsline {figure}{\numberline {3.16}{\ignorespaces تصاویر با حاشیه قرمز رنگ، به اشتباه برچسب زنی شده اند \cite {ref1}.\relax }}{58}{figure.caption.67}%
-\contentsline {figure}{\numberline {3.17}{\ignorespaces استفاده از روش خوشه بندی گراف و تعیین تصویر شاخص \cite {ref1}.\relax }}{59}{figure.caption.68}%
-\contentsline {figure}{\numberline {3.18}{\ignorespaces تولید تصاویر چهره از زوایای مختلف با استفاده از درونیابی بردارهای تصاویر چپ و راست \cite {ref1}.\relax }}{60}{figure.caption.69}%
-\contentsline {figure}{\numberline {3.19}{\ignorespaces ساختار شبکه \lr {AD GAN} - شبکه \lr {GN} برای رو به رو سازی چهره و شبکه \lr {GE} برای تولید چهره از زوایای مختلف \cite {ref1}.\relax }}{61}{figure.caption.70}%
-\contentsline {figure}{\numberline {3.20}{\ignorespaces معماری \lr {MOCHA}: دستگاه های تلفن همراه از طریق اتصال چندگانه با \lr {cloudlet} و ابر ارتباط برقرار می‌کنند \cite {ref1}.\relax }}{62}{figure.caption.71}%
-\contentsline {figure}{\numberline {3.21}{\ignorespaces نمای کلی سامانه تشخیص چهره مبتنی بر رایانش ابری \cite {ref1}.\relax }}{63}{figure.caption.72}%
-\contentsline {figure}{\numberline {3.22}{\ignorespaces چارچوب سامانه شناسایی چهره مبتنی بر رایانش ابری \cite {ref1}.\relax }}{64}{figure.caption.73}%
-\contentsline {figure}{\numberline {3.23}{\ignorespaces تابع ضرر \lr {CosFace} حاشیه بیشتری نسبت به \lr {SoftMax} در مرز بین دسته ها ایجاد می‌نماید \cite {wang2018cosface}.\relax }}{64}{figure.caption.74}%
-\contentsline {figure}{\numberline {3.24}{\ignorespaces رویکردهای مختلف هم ترازی چهره \cite {ref1}.\relax }}{67}{figure.caption.75}%
-\contentsline {figure}{\numberline {3.25}{\ignorespaces رویکردهای مختلف هم ترازی چهره \cite {ref1}.\relax }}{68}{figure.caption.76}%
+\contentsline {figure}{\numberline {3.14}{\ignorespaces رویکرد کلی الگوریتم \lr {GD-HASLR} \cite {WU2018256}.\relax }}{57}{figure.caption.65}%
+\contentsline {figure}{\numberline {3.15}{\ignorespaces ردیابی، یافتن چهره ها و برچسب زنی \cite {7984553}.\relax }}{58}{figure.caption.66}%
+\contentsline {figure}{\numberline {3.16}{\ignorespaces تصاویر با حاشیه قرمز رنگ، به اشتباه برچسب زنی شده اند \cite {7984553}.\relax }}{58}{figure.caption.67}%
+\contentsline {figure}{\numberline {3.17}{\ignorespaces استفاده از روش خوشه بندی گراف و تعیین تصویر شاخص \cite {7984553}.\relax }}{59}{figure.caption.68}%
+\contentsline {figure}{\numberline {3.18}{\ignorespaces تولید تصاویر چهره از زوایای مختلف با استفاده از درونیابی بردارهای تصاویر چپ و راست \cite {radford2016unsupervised}.\relax }}{60}{figure.caption.69}%
+\contentsline {figure}{\numberline {3.19}{\ignorespaces تولید تصویر با وضوح بالا از روی تصاویر با وضوح پایین در 4 مجموعه داده مختلف. موارد با حاشیه قرمز خروجی اشتباه هستند \cite {BANERJEE2018246}.\relax }}{61}{figure.caption.70}%
+\contentsline {figure}{\numberline {3.20}{\ignorespaces تصاویر هر ردیف و هر ستون دارای برخی ویژگی‌های دیداری مشابه هستند \cite {karras2019stylebased}.\relax }}{62}{figure.caption.71}%
+\contentsline {figure}{\numberline {3.21}{\ignorespaces ساختار شبکه \lr {AD GAN} - شبکه \lr {GN} برای رو به رو سازی چهره و شبکه \lr {GE} برای تولید چهره از زوایای مختلف \cite {8603840}.\relax }}{63}{figure.caption.72}%
+\contentsline {figure}{\numberline {3.22}{\ignorespaces معماری \lr {MOCHA}: دستگاه های تلفن همراه از طریق اتصال چندگانه با \lr {cloudlet} و ابر ارتباط برقرار می‌کنند \cite {6249269}.\relax }}{63}{figure.caption.73}%
+\contentsline {figure}{\numberline {3.23}{\ignorespaces نمای کلی سامانه تشخیص چهره مبتنی بر رایانش ابری \cite {HU2018582}.\relax }}{64}{figure.caption.74}%
+\contentsline {figure}{\numberline {3.24}{\ignorespaces چارچوب سامانه شناسایی چهره مبتنی بر رایانش ابری \cite {HU2018582}.\relax }}{65}{figure.caption.75}%
+\contentsline {figure}{\numberline {3.25}{\ignorespaces تابع ضرر \lr {CosFace} حاشیه بیشتری نسبت به \lr {SoftMax} در مرز بین دسته ها ایجاد می‌نماید \cite {wang2018cosface}.\relax }}{66}{figure.caption.76}%
+\contentsline {figure}{\numberline {3.26}{\ignorespaces رویکردهای مختلف هم ترازی چهره \cite {deng2019arcface}.\relax }}{68}{figure.caption.77}%
+\contentsline {figure}{\numberline {3.27}{\ignorespaces رویکردهای مختلف هم ترازی چهره \cite {deng2019arcface}.\relax }}{68}{figure.caption.78}%

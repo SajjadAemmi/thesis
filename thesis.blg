@@ -4,6 +4,7 @@ The top-level auxiliary file: thesis.aux
 A level-1 auxiliary file: symbols.aux
 A level-1 auxiliary file: chapter1.aux
 A level-1 auxiliary file: chapter2.aux
+A level-1 auxiliary file: chapter3.aux
 The style file: ieeetr-fa.bst
 Database file #1: MyReferences.bib
 Warning--I didn't find a database entry for "ref20"
@@ -14,45 +15,45 @@ Warning--I didn't find a database entry for "ref1"
 Warning--empty journal in parkhi2015deep
 
 Done.
-You've used 26 entries,
+You've used 54 entries,
             2349 wiz_defined-function locations,
-            766 strings with 9561 characters,
-and the built_in function-call counts, 9045 in all, are:
-= -- 746
-> -- 378
+            910 strings with 14875 characters,
+and the built_in function-call counts, 18840 in all, are:
+= -- 1548
+> -- 800
 < -- 0
-+ -- 135
-- -- 109
-* -- 587
-:= -- 1123
-add.period$ -- 28
-call.type$ -- 26
-change.case$ -- 26
++ -- 285
+- -- 231
+* -- 1219
+:= -- 2337
+add.period$ -- 56
+call.type$ -- 54
+change.case$ -- 55
 chr.to.int$ -- 0
-cite$ -- 27
-duplicate$ -- 397
-empty$ -- 743
-format.name$ -- 109
-if$ -- 2524
+cite$ -- 55
+duplicate$ -- 824
+empty$ -- 1553
+format.name$ -- 231
+if$ -- 5255
 int.to.chr$ -- 0
-int.to.str$ -- 26
-missing$ -- 284
-newline$ -- 190
-num.names$ -- 26
-pop$ -- 104
+int.to.str$ -- 54
+missing$ -- 588
+newline$ -- 386
+num.names$ -- 54
+pop$ -- 221
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 317
+skip$ -- 652
 stack$ -- 0
-substring$ -- 525
-swap$ -- 182
+substring$ -- 1132
+swap$ -- 376
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 4
 type$ -- 0
 warning$ -- 1
-while$ -- 66
-width$ -- 28
-write$ -- 333
+while$ -- 136
+width$ -- 56
+write$ -- 676
 (There were 4 warnings)

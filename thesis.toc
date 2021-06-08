@@ -46,6 +46,6 @@
 \contentsline {section}{\numberline {3.3}چالش روشنایی}{53}{section.3.3}%
 \contentsline {section}{\numberline {3.4}چالش انسداد}{55}{section.3.4}%
 \contentsline {section}{\numberline {3.5}چالش کمبود تصاویر آموزشی}{57}{section.3.5}%
-\contentsline {section}{\numberline {3.6}چالش منابع محدود}{61}{section.3.6}%
-\contentsline {section}{\numberline {3.7}نتیجه گیری}{67}{section.3.7}%
-\contentsline {chapter}{منابع و مآخذ}{70}{chapter*.77}%
+\contentsline {section}{\numberline {3.6}چالش منابع محدود}{62}{section.3.6}%
+\contentsline {section}{\numberline {3.7}نتیجه گیری}{68}{section.3.7}%
+\contentsline {chapter}{منابع و مآخذ}{71}{chapter*.79}%

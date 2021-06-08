@@ -165,6 +165,51 @@ S.~Bianco, R.~Cadene, L.~Celona, and P.~Napoletano, ``Benchmark analysis of
 
 \begin{LTRbibitems}
 \resetlatinfont
+\bibitem{amos2016openface}
+B.~Amos, B.~Ludwiczuk, and M.~Satyanarayanan, ``Openface: A general-purpose
+  face recognition library with mobile applications,''  tech. rep.,
+  CMU-CS-16-118, CMU School of Computer Science, 2016.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{HAGHIGHAT201623}
+M.~Haghighat, M.~Abdel-Mottaleb, and W.~Alhalabi, ``Fully automatic face
+  normalization and single sample face recognition in unconstrained
+  environments,'' {\em Expert Systems with Applications},  vol.47,  pp.23--34,
+  2016.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{7532959}
+T.~{Zhang}, Q.~{Dong}, and Z.~{Hu}, ``Pursuing face identity from view-specific
+  representation to view-invariant representation,''  in {\em 2016 IEEE
+  International Conference on Image Processing (ICIP)},  pp.3244--3248, 2016.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{WU2018256}
+C.~Y. Wu and J.~J. Ding, ``Occluded face recognition using low-rank regression
+  with generalized gradient direction,'' {\em Pattern Recognition},  vol.80,
+  pp.256--268, 2018.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{wang2018cosface}
+H.~Wang, Y.~Wang, Z.~Zhou, X.~Ji, D.~Gong, J.~Zhou, Z.~Li, and W.~Liu,
+  ``Cosface: Large margin cosine loss for deep face recognition,'' 2018.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
 \bibitem{982883}
 {Ming-Hsuan Yang}, D.~J. {Kriegman}, and N.~{Ahuja}, ``Detecting faces in
   images: a survey,'' {\em IEEE Transactions on Pattern Analysis and Machine
@@ -235,6 +280,218 @@ Y.~Wu, T.~Hassner, K.~Kim, G.~Medioni, and P.~Natarajan, ``Facial landmark
 A.~Howard, M.~Sandler, G.~Chu, L.-C. Chen, B.~Chen, M.~Tan, W.~Wang, Y.~Zhu,
   R.~Pang, V.~Vasudevan, Q.~V. Le, and H.~Adam, ``Searching for mobilenetv3,''
   2019.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{LV2016465}
+J.-J. Lv, C.~Cheng, G.-D. Tian, X.-D. Zhou, and X.~Zhou, ``Landmark
+  perturbation-based data augmentation for unconstrained face recognition,''
+  {\em Signal Processing: Image Communication},  vol.47,  pp.465--475, 2016.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{6196234}
+M.~{De Marsico}, M.~{Nappi}, D.~{Riccio}, and H.~{Wechsler}, ``Robust face
+  recognition for uncontrolled pose and illumination changes,'' {\em IEEE
+  Transactions on Systems, Man, and Cybernetics: Systems},  vol.43,  no.1,
+  pp.149--163, 2013.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{7477555}
+W.~{AbdAlmageed}, Y.~{Wu}, S.~{Rawls}, S.~{Harel}, T.~{Hassner}, I.~{Masi},
+  J.~{Choi}, J.~{Lekust}, J.~{Kim}, P.~{Natarajan}, R.~{Nevatia}, and
+  G.~{Medioni}, ``Face recognition using deep multi-pose representations,''  in
+  {\em 2016 IEEE Winter Conference on Applications of Computer Vision (WACV)},
+  pp.1--9, 2016.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{7780892}
+I.~{Masi}, S.~{Rawls}, G.~{Medioni}, and P.~{Natarajan}, ``Pose-aware face
+  recognition in the wild,''  in {\em 2016 IEEE Conference on Computer Vision
+  and Pattern Recognition (CVPR)},  pp.4838--4846, 2016.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{7298667}
+{Junho Yim}, {Heechul Jung}, {ByungIn Yoo}, {Changkyu Choi}, {Dusik Park}, and
+  {Junmo Kim}, ``Rotating your face using multi-task deep neural network,''  in
+  {\em 2015 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+   pp.676--684, 2015.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{hassner2014effective}
+T.~Hassner, S.~Harel, E.~Paz, and R.~Enbar, ``Effective face frontalization in
+  unconstrained images,'' 2014.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{7298679}
+{Xiangyu Zhu}, Z.~{Lei}, {Junjie Yan}, D.~{Yi}, and S.~Z. {Li}, ``High-fidelity
+  pose and expression normalization for face recognition in the wild,''  in
+  {\em 2015 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+   pp.787--796, 2015.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{7006757}
+C.~{Ding}, C.~{Xu}, and D.~{Tao}, ``Multi-task pose-invariant face
+  recognition,'' {\em IEEE Transactions on Image Processing},  vol.24,  no.3,
+  pp.980--993, 2015.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{6905796}
+L.~{Best-Rowden}, H.~{Han}, C.~{Otto}, B.~F. {Klare}, and A.~K. {Jain},
+  ``Unconstrained face recognition: Identifying a person of interest from a
+  media collection,'' {\em IEEE Transactions on Information Forensics and
+  Security},  vol.9,  no.12,  pp.2144--2157, 2014.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{DING2017144}
+C.~Ding and D.~Tao, ``Pose-invariant face recognition with homography-based
+  normalization,'' {\em Pattern Recognition},  vol.66,  pp.144--152, 2017.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{HUSSAINSHAH201597}
+J.~{Hussain Shah}, M.~Sharif, M.~Raza, M.~Murtaza, and Saeed-Ur-Rehman,
+  ``Robust face recognition technique under varying illumination,'' {\em
+  Journal of Applied Research and Technology},  vol.13,  no.1,  pp.97--105,
+  2015.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{7015448}
+J.~{Li}, B.~{Li}, Y.~{Xu}, K.~{Lu}, K.~{Yan}, and L.~{Fei}, ``Disguised face
+  detection and recognition under the complex background,''  in {\em 2014 IEEE
+  Symposium on Computational Intelligence in Biometrics and Identity Management
+  (CIBIM)},  pp.87--93, 2014.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{7984553}
+{Ya Wang}, {Tianlong Bao}, {Chunhui Ding}, and {Ming Zhu}, ``Face recognition
+  in real-world surveillance videos with deep learning method,''  in {\em 2017
+  2nd International Conference on Image, Vision and Computing (ICIVC)},
+  pp.239--243, 2017.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{6249269}
+T.~{Soyata}, R.~{Muraleedharan}, C.~{Funai}, M.~{Kwon}, and W.~{Heinzelman},
+  ``Cloud-vision: Real-time face recognition using a mobile-cloudlet-cloud
+  acceleration architecture,''  in {\em 2012 IEEE Symposium on Computers and
+  Communications (ISCC)},  pp.000059--000066, 2012.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{HU2018582}
+P.~Hu, H.~Ning, T.~Qiu, Y.~Xu, X.~Luo, and A.~K. Sangaiah, ``A unified face
+  identification and resolution scheme using cloud computing in internet of
+  things,'' {\em Future Generation Computer Systems},  vol.81,  pp.582--592,
+  2018.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{Martino2015}
+L.~Di~Martino, J.~Preciozzi, F.~Lecumberry, and A.~Fernández, ``Face matching
+  with an a contrario false detection control,'' {\em Neurocomputing},
+  vol.173, 08 2015.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{Masi2018DeepFR}
+I.~Masi, Y.~Wu, T.~Hassner, and P.~Natarajan, ``Deep face recognition: A
+  survey,'' {\em 2018 31st SIBGRAPI Conference on Graphics, Patterns and Images
+  (SIBGRAPI)},  pp.471--478, 2018.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{SAVCHENKO2018170}
+A.~V. Savchenko and N.~S. Belova, ``Unconstrained face identification using
+  maximum likelihood of distances between deep off-the-shelf features,'' {\em
+  Expert Systems with Applications},  vol.108,  pp.170--182, 2018.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{radford2016unsupervised}
+A.~Radford, L.~Metz, and S.~Chintala, ``Unsupervised representation learning
+  with deep convolutional generative adversarial networks,'' 2016.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{BANERJEE2018246}
+S.~Banerjee and S.~Das, ``Lr-gan for degraded face recognition,'' {\em Pattern
+  Recognition Letters},  vol.116,  pp.246--253, 2018.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{karras2019stylebased}
+T.~Karras, S.~Laine, and T.~Aila, ``A style-based generator architecture for
+  generative adversarial networks,'' 2019.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{8603840}
+J.~{Cao}, Y.~{Hu}, B.~{Yu}, R.~{He}, and Z.~{Sun}, ``3d aided duet gans for
+  multi-view face image synthesis,'' {\em IEEE Transactions on Information
+  Forensics and Security},  vol.14,  no.8,  pp.2028--2042, 2019.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{deng2019arcface}
+J.~Deng, J.~Guo, N.~Xue, and S.~Zafeiriou, ``Arcface: Additive angular margin
+  loss for deep face recognition,'' 2019.
 
 \end{LTRbibitems}
 

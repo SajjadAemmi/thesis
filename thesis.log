@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2021.1.28)  7 JUN 2021 00:59
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2021.1.28)  9 JUN 2021 00:14
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1587,45 +1587,6 @@ LaTeX Warning: Label `eq3-2' multiply defined.
 
 LaTeX Warning: Label `image2-1' multiply defined.
 
-
-LaTeX Warning: Label `image2-1' multiply defined.
-
-
-LaTeX Warning: Label `eq2-10' multiply defined.
-
-
-LaTeX Warning: Label `image2-1' multiply defined.
-
-
-LaTeX Warning: Label `image2-1' multiply defined.
-
-
-LaTeX Warning: Label `image2-1' multiply defined.
-
-
-LaTeX Warning: Label `image2-1' multiply defined.
-
-
-LaTeX Warning: Label `image2-1' multiply defined.
-
-
-LaTeX Warning: Label `image3-1' multiply defined.
-
-
-LaTeX Warning: Label `image2-1' multiply defined.
-
-
-LaTeX Warning: Label `image2-1' multiply defined.
-
-
-LaTeX Warning: Label `image2-1' multiply defined.
-
-
-LaTeX Warning: Label `eq4-2' multiply defined.
-
-
-LaTeX Warning: Label `image2-1' multiply defined.
-
 ))
 \openout1 = `thesis.aux'.
 
@@ -1855,97 +1816,15 @@ Underfull \vbox (badness 2990) has occurred while \output is active []
 LaTeX Warning: Citation `ref1' on page چ undefined on input line 40.
 
 [7]
-
-LaTeX Warning: Citation `ref1' on page ح undefined on input line 46.
-
-
-LaTeX Warning: Citation `amos2016openface' on page ح undefined on input line 47
-.
-
-
-LaTeX Warning: Citation `amos2016openface' on page ح undefined on input line 48
-.
-
-
-LaTeX Warning: Citation `amos2016openface' on page ح undefined on input line 49
-.
-
-
-LaTeX Warning: Citation `HAGHIGHAT201623' on page ح undefined on input line 50.
-
-
-
-LaTeX Warning: Citation `ref1' on page ح undefined on input line 51.
-
-
-LaTeX Warning: Citation `ref1' on page ح undefined on input line 52.
-
-
-LaTeX Warning: Citation `7532959' on page ح undefined on input line 53.
-
-
-LaTeX Warning: Citation `7532959' on page ح undefined on input line 54.
-
-
-LaTeX Warning: Citation `ref1' on page ح undefined on input line 55.
-
-
-LaTeX Warning: Citation `ref1' on page ح undefined on input line 56.
-
-
-LaTeX Warning: Citation `ref1' on page ح undefined on input line 57.
-
-
-LaTeX Warning: Citation `WU2018256' on page ح undefined on input line 58.
-
-
-LaTeX Warning: Citation `ref1' on page ح undefined on input line 59.
-
-
-LaTeX Warning: Citation `ref1' on page ح undefined on input line 60.
-
-
-LaTeX Warning: Citation `ref1' on page ح undefined on input line 61.
-
-
-LaTeX Warning: Citation `ref1' on page ح undefined on input line 62.
-
-
-LaTeX Warning: Citation `ref1' on page ح undefined on input line 63.
-
-
-LaTeX Warning: Citation `ref1' on page ح undefined on input line 64.
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [8]
-
-LaTeX Warning: Citation `ref1' on page خ undefined on input line 65.
-
-
-Overfull \hbox (1.19542pt too wide) in paragraph at lines 65--65
+Overfull \hbox (1.19542pt too wide) in paragraph at lines 67--67
  [][][] [][][][]\TU/IRNazanin(0)/b/n/10.95 معماری []\TU/lmroman10-regular(0)/m/
 n/10.95 MOCHA[]\TU/IRNazanin(0)/b/n/10.95 : دستگاه های تلفن همراه از طریق اتصال
  چندگانه با []\TU/lmroman10-regular(0)/m/n/10.95 cloudlet[] \TU/IRNazanin(0)/b/
 n/10.95 و ابر ارتباط برقرار می‌کنند[][][] 
  []
-
-
-LaTeX Warning: Citation `ref1' on page خ undefined on input line 66.
-
-
-LaTeX Warning: Citation `ref1' on page خ undefined on input line 67.
-
-
-LaTeX Warning: Citation `wang2018cosface' on page خ undefined on input line 68.
-
-
-
-LaTeX Warning: Citation `ref1' on page خ undefined on input line 69.
-
-
-LaTeX Warning: Citation `ref1' on page خ undefined on input line 70.
 
 )
 \tf@lof=\write12
@@ -2329,171 +2208,23 @@ Package caption Warning: \label without proper reference on input line 7.
 See the caption package documentation for explanation.
 
 
-LaTeX Warning: Reference `table:3-1' on page 43 undefined on input line 4.
+LaTeX Warning: Reference `table3-1' on page 43 undefined on input line 4.
 
-
-LaTeX Warning: Citation `HAGHIGHAT201623' on page 43 undefined on input line 48
-.
-
-
-LaTeX Warning: Citation `LV2016465' on page 43 undefined on input line 48.
-
-
-LaTeX Warning: Citation `amos2016openface' on page 43 undefined on input line 4
-8.
-
-
-LaTeX Warning: Citation `6196234' on page 43 undefined on input line 48.
-
-
-LaTeX Warning: Citation `7477555' on page 43 undefined on input line 48.
-
-
-LaTeX Warning: Citation `7780892' on page 43 undefined on input line 48.
-
-
-LaTeX Warning: Citation `7532959' on page 43 undefined on input line 48.
-
-
-LaTeX Warning: Citation `7298667' on page 43 undefined on input line 48.
-
-
-LaTeX Warning: Citation `hassner2014effective' on page 43 undefined on input li
-ne 48.
-
-
-LaTeX Warning: Citation `7298679' on page 43 undefined on input line 48.
-
-
-LaTeX Warning: Citation `7006757' on page 43 undefined on input line 48.
-
-
-LaTeX Warning: Citation `6905796' on page 43 undefined on input line 48.
-
-
-LaTeX Warning: Citation `DING2017144' on page 43 undefined on input line 48.
-
-
-LaTeX Warning: Citation `6196234' on page 43 undefined on input line 48.
-
-
-LaTeX Warning: Citation `HUSSAINSHAH201597' on page 43 undefined on input line 
-48.
-
-
-LaTeX Warning: Citation `7015448' on page 43 undefined on input line 48.
-
-
-LaTeX Warning: Citation `WU2018256' on page 43 undefined on input line 48.
-
-
-LaTeX Warning: Citation `7984553' on page 43 undefined on input line 48.
-
-
-LaTeX Warning: Citation `6249269' on page 43 undefined on input line 48.
-
-
-LaTeX Warning: Citation `HU2018582' on page 43 undefined on input line 48.
-
-
-LaTeX Warning: Citation `HAGHIGHAT201623' on page 43 undefined on input line 58
-.
-
-
-LaTeX Warning: Citation `LV2016465' on page 43 undefined on input line 58.
-
-
-LaTeX Warning: Citation `amos2016openface' on page 43 undefined on input line 5
-8.
-
-
-LaTeX Warning: Citation `6196234' on page 43 undefined on input line 58.
-
-
-LaTeX Warning: Citation `HAGHIGHAT201623' on page 43 undefined on input line 61
-.
-
-[43]
-
-LaTeX Warning: Citation `7477555' on page 44 undefined on input line 67.
-
-
-LaTeX Warning: Citation `7780892' on page 44 undefined on input line 67.
-
-
-LaTeX Warning: Citation `7532959' on page 44 undefined on input line 67.
-
-
-LaTeX Warning: Citation `7298667' on page 44 undefined on input line 67.
-
-
-LaTeX Warning: Citation `Martino2015' on page 44 undefined on input line 73.
-
-
-LaTeX Warning: Citation `hassner2014effective' on page 44 undefined on input li
-ne 77.
-
-
-LaTeX Warning: Citation `7298679' on page 44 undefined on input line 77.
-
-
-LaTeX Warning: Citation `7006757' on page 44 undefined on input line 77.
-
-
-LaTeX Warning: Citation `6905796' on page 44 undefined on input line 77.
-
-
-LaTeX Warning: Citation `hassner2014effective' on page 44 undefined on input li
-ne 80.
-
-
-LaTeX Warning: Citation `DING2017144' on page 44 undefined on input line 85.
-
-
-LaTeX Warning: Citation `Masi2018DeepFR' on page 44 undefined on input line 93.
-
-
+[43] [44]
 File: figures/image3-1.png Graphic file (type bmp)
 <figures/image3-1.png>
 
-Overfull \hbox (28.4709pt too wide) in paragraph at lines 96--97
+Overfull \hbox (28.4709pt too wide) in paragraph at lines 97--98
  [][][][][][] 
  []
 
-
-LaTeX Warning: Citation `ref1' on page 44 undefined on input line 97.
-
-
-LaTeX Warning: Citation `ref1' on page 44 undefined on input line 97.
-
-[44]
-
-LaTeX Warning: Citation `amos2016openface' on page 45 undefined on input line 1
-02.
-
 File: figures/image3-2.png Graphic file (type bmp)
 <figures/image3-2.png>
-
-LaTeX Warning: Citation `amos2016openface' on page 45 undefined on input line 1
-09.
-
-
-LaTeX Warning: Citation `amos2016openface' on page 45 undefined on input line 1
-09.
-
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 File: figures/image3-3.png Graphic file (type bmp)
 <figures/image3-3.png>
-
-LaTeX Warning: Citation `amos2016openface' on page 45 undefined on input line 1
-18.
-
-
-LaTeX Warning: Citation `amos2016openface' on page 45 undefined on input line 1
-18.
-
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
@@ -2502,30 +2233,10 @@ File: figures/image3-4.png Graphic file (type bmp)
 <figures/image3-4.png>
 
 
-LaTeX Warning: Citation `amos2016openface' on page 46 undefined on input line 1
-28.
-
-
-LaTeX Warning: Citation `amos2016openface' on page 46 undefined on input line 1
-28.
-
-
 LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-LaTeX Warning: Citation `HAGHIGHAT201623' on page 46 undefined on input line 13
-8.
 
 File: figures/image3-5.png Graphic file (type bmp)
 <figures/image3-5.png>
-
-LaTeX Warning: Citation `HAGHIGHAT201623' on page 46 undefined on input line 14
-3.
-
-
-LaTeX Warning: Citation `HAGHIGHAT201623' on page 46 undefined on input line 14
-3.
-
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
@@ -2536,32 +2247,11 @@ Underfull \vbox (badness 6188) has occurred while \output is active []
 File: figures/image3-6.png Graphic file (type bmp)
 <figures/image3-6.png>
 
-
-LaTeX Warning: Citation `ref1' on page 48 undefined on input line 168.
-
-
-LaTeX Warning: Citation `ref1' on page 48 undefined on input line 168.
-
 [48]
 File: figures/image3-7.png Graphic file (type bmp)
 <figures/image3-7.png>
-
-
-LaTeX Warning: Citation `ref1' on page 49 undefined on input line 178.
-
-
-LaTeX Warning: Citation `ref1' on page 49 undefined on input line 178.
-
-
-LaTeX Warning: Citation `7532959' on page 49 undefined on input line 183.
-
 File: figures/image3-8.png Graphic file (type bmp)
 <figures/image3-8.png>
-
-LaTeX Warning: Citation `7532959' on page 49 undefined on input line 188.
-
-
-LaTeX Warning: Citation `7532959' on page 49 undefined on input line 188.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
@@ -2569,339 +2259,141 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 [49]
 File: figures/image3-9.png Graphic file (type bmp)
 <figures/image3-9.png>
-
-
-LaTeX Warning: Citation `7532959' on page 50 undefined on input line 198.
-
-
-LaTeX Warning: Citation `7532959' on page 50 undefined on input line 198.
-
-
-Underfull \vbox (badness 8075) has occurred while \output is active []
-
  [50]
-
-LaTeX Warning: Citation `SAVCHENKO2018170' on page 51 undefined on input line 2
-13.
-
 File: figures/image3-10.png Graphic file (type bmp)
 <figures/image3-10.png>
 
-LaTeX Warning: Citation `ref1' on page 51 undefined on input line 228.
+Underfull \vbox (badness 1412) has occurred while \output is active []
 
-
-LaTeX Warning: Citation `ref1' on page 51 undefined on input line 228.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-LaTeX Warning: Citation `6196234' on page 51 undefined on input line 233.
-
+ [51]
 File: figures/image3-11.png Graphic file (type bmp)
 <figures/image3-11.png>
+Missing character: There is no 𝑑 in font cmmi10!
+Missing character: There is no 𝑑 in font cmmi10!
 
-LaTeX Warning: Citation `ref1' on page 51 undefined on input line 237.
-
-
-LaTeX Warning: Citation `ref1' on page 51 undefined on input line 237.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-Missing character: There is no 𝜃 in font IRNazanin/OT:script=arab;language=dflt
-;mapping=persian-tex-text;!
-[51]
-Missing character: There is no 𝑑 in font IRNazanin/OT:script=arab;language=dflt
-;mapping=persian-tex-text;!
-Missing character: There is no 𝑑 in font IRNazanin/OT:script=arab;language=dflt
-;mapping=persian-tex-text;!
- [52]
-
-LaTeX Warning: Citation `6196234' on page 53 undefined on input line 283.
-
+[52] [53]
 File: figures/image3-12.png Graphic file (type bmp)
 <figures/image3-12.png>
-
-LaTeX Warning: Citation `ref1' on page 53 undefined on input line 287.
-
-
-LaTeX Warning: Citation `ref1' on page 53 undefined on input line 287.
-
-[53] [54]
-
-LaTeX Warning: Citation `HUSSAINSHAH201597' on page 55 undefined on input line 
-310.
-
-
-LaTeX Warning: Citation `WU2018256' on page 55 undefined on input line 321.
-
+ [54]
 File: figures/image3-13.png Graphic file (type bmp)
 <figures/image3-13.png>
-
-LaTeX Warning: Citation `WU2018256' on page 55 undefined on input line 334.
-
-
-LaTeX Warning: Citation `WU2018256' on page 55 undefined on input line 334.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 Missing character: There is no ≤ in font cmr10!
-Missing character: There is no ϵ in font cmmi10!
 [55]
-Missing character: There is no π in font cmmi10!
-Missing character: There is no λ in font cmmi10!
-Missing character: There is no β in font cmmi10!
-Missing character: There is no β in font [lmroman10-regular]/OT:script=latn;lan
-guage=dflt;mapping=tex-text;!
 Missing character: There is no δ in font cmmi10!
 File: figures/image3-14.png Graphic file (type bmp)
 <figures/image3-14.png>
 
 
-LaTeX Warning: Citation `ref1' on page 56 undefined on input line 364.
-
-
-LaTeX Warning: Citation `ref1' on page 56 undefined on input line 364.
-
-
-LaTeX Warning: Citation `7015448' on page 56 undefined on input line 368.
-
-
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [56]
-
-LaTeX Warning: Citation `7984553' on page 57 undefined on input line 375.
-
-File: figures/image3-15.png Graphic file (type bmp)
-<figures/image3-15.png>
-
-LaTeX Warning: Citation `ref1' on page 57 undefined on input line 381.
-
-
-LaTeX Warning: Citation `ref1' on page 57 undefined on input line 381.
-
-File: figures/image3-16.png Graphic file (type bmp)
-<figures/image3-16.png>
-
-LaTeX Warning: Citation `ref1' on page 57 undefined on input line 389.
-
-
-LaTeX Warning: Citation `ref1' on page 57 undefined on input line 389.
-
-File: figures/image3-17.png Graphic file (type bmp)
-<figures/image3-17.png>
-
-LaTeX Warning: Citation `ref1' on page 57 undefined on input line 397.
-
-
-LaTeX Warning: Citation `ref1' on page 57 undefined on input line 397.
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [57]
+File: figures/image3-15.png Graphic file (type bmp)
+<figures/image3-15.png>
+File: figures/image3-16.png Graphic file (type bmp)
+<figures/image3-16.png>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [58]
+File: figures/image3-17.png Graphic file (type bmp)
+<figures/image3-17.png>
+
+[59]
+File: figures/image3-18.png Graphic file (type bmp)
+<figures/image3-18.png>
+File: figures/image3-19.png Graphic file (type bmp)
+<figures/image3-19.png>
+
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[58]
+[60]
+File: figures/image3-20.png Graphic file (type bmp)
+<figures/image3-20.png>
 
-LaTeX Warning: Citation `radford2016unsupervised' on page 59 undefined on input
- line 406.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
 
 File: figures/image3-21.png Graphic file (type bmp)
 <figures/image3-21.png>
 
-LaTeX Warning: Citation `ref1' on page 59 undefined on input line 410.
+LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-LaTeX Warning: Citation `ref1' on page 59 undefined on input line 410.
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [61]
+File: figures/image3-22.png Graphic file (type bmp)
+<figures/image3-22.png>
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-LaTeX Warning: Citation `BANERJEE2018246' on page 59 undefined on input line 41
-5.
+Underfull \vbox (badness 1762) has occurred while \output is active []
 
+ [62]
+File: figures/image3-23.png Graphic file (type bmp)
+<figures/image3-23.png>
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [59]
+ [63]
+File: figures/image3-24.png Graphic file (type bmp)
+<figures/image3-24.png>
 
-LaTeX Warning: Citation `karras2019stylebased' on page 60 undefined on input li
-ne 422.
 
+LaTeX Warning: `h' float specifier changed to `ht'.
 
-Underfull \vbox (badness 7291) has occurred while \output is active []
+Missing character: There is no θ in font cmmi10!
 
- [60]
+LaTeX Warning: Reference `footdir@255' on page 64 undefined on input line 499.
 
-LaTeX Warning: Citation `8603840' on page 61 undefined on input line 427.
-
+[64]
 File: figures/image3-25.png Graphic file (type bmp)
 <figures/image3-25.png>
 
-Overfull \hbox (85.80022pt too wide) in paragraph at lines 432--433
- [][][][][][] 
- []
-
-
-LaTeX Warning: Citation `ref1' on page 61 undefined on input line 433.
-
-
-LaTeX Warning: Citation `ref1' on page 61 undefined on input line 433.
-
-
-LaTeX Warning: Citation `6249269' on page 61 undefined on input line 438.
-
-File: figures/image3-18.png Graphic file (type bmp)
-<figures/image3-18.png>
-
-LaTeX Warning: Citation `ref1' on page 61 undefined on input line 442.
-
-
-LaTeX Warning: Citation `ref1' on page 61 undefined on input line 442.
-
-
-LaTeX Warning: Citation `HU2018582' on page 61 undefined on input line 453.
-
-File: figures/image3-19.png Graphic file (type bmp)
-<figures/image3-19.png>
-
-Overfull \hbox (28.4709pt too wide) in paragraph at lines 456--457
- [][][][][][] 
- []
-
-
-LaTeX Warning: Citation `ref1' on page 61 undefined on input line 457.
-
-
-LaTeX Warning: Citation `ref1' on page 61 undefined on input line 457.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[61]
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-File: figures/image3-20.png Graphic file (type bmp)
-<figures/image3-20.png>
-
-LaTeX Warning: Citation `ref1' on page 62 undefined on input line 466.
-
-
-LaTeX Warning: Citation `ref1' on page 62 undefined on input line 466.
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [62]
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-LaTeX Warning: Citation `wang2018cosface' on page 63 undefined on input line 47
-1.
+LaTeX Warning: Reference `footdir@256' on page 65 undefined on input line 519.
 
-Missing character: There is no θ in font cmmi10!
-[63]
-File: figures/image3-28.png Graphic file (type bmp)
-<figures/image3-28.png>
-
-
-LaTeX Warning: Citation `wang2018cosface' on page 64 undefined on input line 48
-4.
-
-
-LaTeX Warning: Citation `wang2018cosface' on page 64 undefined on input line 48
-4.
-
-
-LaTeX Warning: Citation `deng2019arcface' on page 64 undefined on input line 48
-9.
-
-
-LaTeX Warning: Citation `wang2018cosface' on page 64 undefined on input line 48
-9.
-
-[64] [65]
+[65] [66]
 Missing character: There is no θ in font cmmi10!
 Missing character: There is no θ in font [lmroman10-regular]/OT:script=latn;lan
 guage=dflt;mapping=tex-text;!
-File: figures/image3-1.png Graphic file (type bmp)
-<figures/image3-1.png>
-
-Overfull \hbox (28.4709pt too wide) in paragraph at lines 538--539
- [][][][][][] 
- []
-
-
-LaTeX Warning: Citation `ref1' on page 66 undefined on input line 539.
-
-
-LaTeX Warning: Citation `ref1' on page 66 undefined on input line 539.
+File: figures/image3-26.png Graphic file (type bmp)
+<figures/image3-26.png>
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-File: figures/image3-29.png Graphic file (type bmp)
-<figures/image3-29.png>
+[67]
+File: figures/image3-27.png Graphic file (type bmp)
+<figures/image3-27.png>
 
-Overfull \hbox (953.43246pt too wide) in paragraph at lines 548--549
- [][][][][][] 
- []
-
-
-LaTeX Warning: Citation `ref1' on page 66 undefined on input line 549.
-
-
-LaTeX Warning: Citation `ref1' on page 66 undefined on input line 549.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-Overfull \hbox (2.84123pt too wide) in paragraph at lines 554--555
+Overfull \hbox (2.84123pt too wide) in paragraph at lines 586--587
 []\TU/IRNazanin(0)/b/n/10.95 بیشتر سامانه‌های تشخیص چهره عملکردهای قابل قبولی ر
 ا در محیط‌های کنترل شده ارائه می‌دهند، اما در محیط‌های بدون محدودیت[]
  []
 
-
-Underfull \vbox (badness 2080) has occurred while \output is active []
-
- [66]
-
-LaTeX Warning: Citation `HAGHIGHAT201623' on page 67 undefined on input line 57
-6.
+[68]) [69] [70] (./thesis.bbl [71
 
 
-LaTeX Warning: Citation `radford2016unsupervised' on page 67 undefined on input
- line 579.
-
-
-LaTeX Warning: Citation `BANERJEE2018246' on page 67 undefined on input line 58
-1.
-
-[67]
-
-LaTeX Warning: Citation `8603840' on page 68 undefined on input line 584.
-
-)
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [68]
-[69] (./thesis.bbl [70
-
-
-]) (./eninfo.tex [2] [2
+] [72] [73]) (./eninfo.tex [2] [2
 
 ] [3
 
-] [4])
+]
+[4])
 \@syc=\write13
 \openout13 = `thesis.syc'.
 
@@ -2910,12 +2402,12 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 104.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 104.
- (./thesis.aux
-(./symbols.aux) (./chapter1.aux) (./chapter2.aux) (./chapter3.aux))
+ (./thesis.aux (./symbols.aux) (./chapter1.aux) (./chapter2.aux)
+(./chapter3.aux))
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 104.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 104.
 Package rerunfilecheck Info: File `thesis.out' has not changed.
-(rerunfilecheck)             Checksum: 314D60B2CD683643523FA71D73D8D746;3678.
+(rerunfilecheck)             Checksum: 2C4D67DB3340B6C9FF819733B18D0814;3678.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
@@ -2928,12 +2420,12 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 34832 strings out of 479418
- 702851 string characters out of 5884585
- 1077651 words of memory out of 5000000
- 51554 multiletter control sequences out of 15000+600000
+ 34875 strings out of 479418
+ 703513 string characters out of 5884585
+ 1078650 words of memory out of 5000000
+ 51597 multiletter control sequences out of 15000+600000
  542370 words of font info for 115 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  67i,25n,83p,4817b,591s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on thesis.pdf (91 pages).
+Output written on thesis.pdf (94 pages).
