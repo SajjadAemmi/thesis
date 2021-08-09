@@ -70,3 +70,14 @@
 \contentsline {figure}{\numberline {3.25}{\ignorespaces تابع ضرر \lr {CosFace} حاشیه بیشتری نسبت به \lr {SoftMax} در مرز بین دسته ها ایجاد می‌نماید \cite {wang2018cosface}.\relax }}{66}{figure.caption.76}%
 \contentsline {figure}{\numberline {3.26}{\ignorespaces رویکردهای مختلف هم ترازی چهره \cite {deng2019arcface}.\relax }}{68}{figure.caption.77}%
 \contentsline {figure}{\numberline {3.27}{\ignorespaces رویکردهای مختلف هم ترازی چهره \cite {deng2019arcface}.\relax }}{68}{figure.caption.78}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces نمای کلی از روش پیشنهادی \cite {ref1}.\relax }}{72}{figure.caption.79}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces نتیجه اعمال یکسان سازی بافت‌نگار بر روی یک تصویر تاریک. تصاویر ورودی در سمت چپ و خروجی در سمت راست می‌باشند \cite {s18092995}.\relax }}{73}{figure.caption.80}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces نمونه از خروجی الگوریتم یافتن چهره retina \cite {deng2019retinaface}.\relax }}{74}{figure.caption.81}%
+\contentsline {figure}{\numberline {4.4}{\ignorespaces به منظور افزایش دقت شبکه، پس از یافتن چهره باید آن را تراز کرد \cite {}.\relax }}{75}{figure.caption.82}%
+\contentsline {figure}{\numberline {4.5}{\ignorespaces مدل پايه مبتني بر لايه‌هاي كانولوشن و لايه توجه.\relax }}{76}{figure.caption.84}%
+\contentsline {figure}{\numberline {4.6}{\ignorespaces یک لایه تنگنا با واحد باقیمانده که با استفاده از کانولوشن های 1×1 اقدام به کاهش ابعاد نگاشت ویژگی می‌کند.‌.\relax }}{78}{figure.caption.85}%
+\contentsline {figure}{\numberline {4.7}{\ignorespaces معماری ماژول Shuffle Attention \cite {yang2021sanet}.\relax }}{78}{figure.caption.86}%
+\contentsline {figure}{\numberline {4.8}{\ignorespaces تابع ضرر ArcFace در مقایسه با توابع ضرر مشهور دیگر \cite {deng2019arcface}.\relax }}{82}{figure.caption.87}%
+\addvspace {10\p@ }
+\addvspace {10\p@ }
