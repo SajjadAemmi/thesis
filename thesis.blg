@@ -1,4 +1,4 @@
-This is BibTeX, Version 0.99d (TeX Live 2020)
+This is BibTeX, Version 0.99d (TeX Live 2019/Debian)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: thesis.aux
 A level-1 auxiliary file: symbols.aux
@@ -10,8 +10,6 @@ A level-1 auxiliary file: chapter5.aux
 A level-1 auxiliary file: chapter6.aux
 The style file: ieeetr-fa.bst
 Database file #1: MyReferences.bib
-Warning--I didn't find a database entry for "ref20"
-Warning--I didn't find a database entry for "ref13"
 Warning--I didn't find a database entry for "ref1"
 Warning--I didn't find a database entry for ""
 -- ieeetr-fa.bst version 0.9 (2015/05/09) 
@@ -19,45 +17,45 @@ Warning--I didn't find a database entry for ""
 Warning--empty journal in parkhi2015deep
 
 Done.
-You've used 62 entries,
+You've used 67 entries,
             2349 wiz_defined-function locations,
-            947 strings with 15977 characters,
-and the built_in function-call counts, 19990 in all, are:
-= -- 1646
-> -- 827
+            965 strings with 16597 characters,
+and the built_in function-call counts, 21045 in all, are:
+= -- 1739
+> -- 852
 < -- 0
-+ -- 299
-- -- 237
-* -- 1262
-:= -- 2453
-add.period$ -- 71
-call.type$ -- 62
-change.case$ -- 63
++ -- 310
+- -- 243
+* -- 1311
+:= -- 2567
+add.period$ -- 79
+call.type$ -- 67
+change.case$ -- 68
 chr.to.int$ -- 0
-cite$ -- 63
-duplicate$ -- 861
-empty$ -- 1696
-format.name$ -- 237
-if$ -- 5590
+cite$ -- 68
+duplicate$ -- 907
+empty$ -- 1811
+format.name$ -- 243
+if$ -- 5894
 int.to.chr$ -- 0
-int.to.str$ -- 62
-missing$ -- 622
-newline$ -- 449
-num.names$ -- 55
-pop$ -- 279
+int.to.str$ -- 67
+missing$ -- 651
+newline$ -- 487
+num.names$ -- 57
+pop$ -- 312
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 674
+skip$ -- 707
 stack$ -- 0
-substring$ -- 1132
-swap$ -- 377
+substring$ -- 1172
+swap$ -- 391
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 4
 type$ -- 0
 warning$ -- 1
-while$ -- 137
-width$ -- 64
-write$ -- 766
-(There were 5 warnings)
+while$ -- 143
+width$ -- 69
+write$ -- 824
+(There were 3 warnings)

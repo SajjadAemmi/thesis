@@ -103,28 +103,17 @@
 \includegraphics[scale=0.9]{logou}\hspace{10cm} &\includegraphics[scale=0.3]{logom}
 \end{tabular}
 \newline
-{\huge \bfseries
-دانــــشگاه فردوسی مشهد
-}
-\\[10pt]
-{\Large\@faculty
-\\[10pt]
-\@department}
+
 \par
 \vspace{.3\baselineskip}
-{\large\bfseries
-پایان‌نامه برای دریافت درجه
-\if@mscthesis
-کارشناسی ارشد
-\else
-دکتری
-\fi
+{\large\bfseries \fontspec{IRTitr}
+پایان‌نامه کارشناسی ارشد
 }
 \vskip 2ex
 \centerline{\large \bfseries
 \@field}
 \vskip 6ex
-{\huge\bfseries {\fontspec{B Titr}{\@title}}}
+{\huge\bfseries {\fontspec{IRTitr}{\@title}}}
 \baselineskip=1.5cm\par
 \vskip 4ex
  \baselineskip=.5cm
@@ -134,7 +123,12 @@
 \else\fi
 \else
 \ifx\@secondsupervisor\undefined%
-{\large\bfseries
+
+{\large\bfseries \fontspec{IRTitr}{
+پژوهش و نگارش: 
+\@name\  \@surname}}\par
+
+{\large\bfseries \fontspec{IRTitr}
 استاد راهنما:
 \@firstsupervisor}
 \else
@@ -157,10 +151,7 @@
 \@firstadvisor{} و \@secondadvisor}
 \fi\fi}
 
-{\large\bfseries%
-پژوهش و نگارش: 
-\@name\  \@surname}\par
-{\large \@thesisdate}
+{\large \fontspec{IRTitr} \@thesisdate}
 
 
 

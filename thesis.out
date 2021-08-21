@@ -13,25 +13,25 @@
 \BOOKMARK [2][-]{subsection.1.4.2}{طبقه‌بندی}{section.1.4}% 13
 \BOOKMARK [1][-]{section.1.5}{مسئله تشخیص بی‌درنگ چهره در محیط‌های کنترل نشده}{chapter.1}% 14
 \BOOKMARK [2][-]{subsection.1.5.1}{چالش‌های سامانه تشخیص چهره}{section.1.5}% 15
-\BOOKMARK [0][-]{chapter.2}{ مروری بر کارهای گذشته}{}% 16
-\BOOKMARK [1][-]{section.2.1}{مقدمه}{chapter.2}% 17
-\BOOKMARK [1][-]{section.2.2}{یافتن چهره}{chapter.2}% 18
-\BOOKMARK [2][-]{subsection.2.2.1}{ رویکردهای مبتنی بر دانش و تطبیق کلیشه}{section.2.2}% 19
-\BOOKMARK [2][-]{subsection.2.2.2}{رویکردهای مبتنی بر ویژگی}{section.2.2}% 20
-\BOOKMARK [2][-]{subsection.2.2.3}{رویکرد مبتنی بر عامل‌های آماری}{section.2.2}% 21
-\BOOKMARK [2][-]{subsection.2.2.4}{رویکردهای مبتنی بر تصویر}{section.2.2}% 22
-\BOOKMARK [1][-]{section.2.3}{شناسایی چهره}{chapter.2}% 23
-\BOOKMARK [2][-]{subsection.2.3.1}{رویکرد‌های سنتی}{section.2.3}% 24
-\BOOKMARK [2][-]{subsection.2.3.2}{رویکرد مبتنی بر فیلتر گابور ‌}{section.2.3}% 25
-\BOOKMARK [2][-]{subsection.2.3.3}{رویکرد‌های سه بعدی}{section.2.3}% 26
-\BOOKMARK [2][-]{subsection.2.3.4}{رویکرد‌های تجزیه و تحلیل بافت پوست}{section.2.3}% 27
-\BOOKMARK [2][-]{subsection.2.3.5}{رویکرد‌های مبتنی بر دوربین حرارتی}{section.2.3}% 28
-\BOOKMARK [2][-]{subsection.2.3.6}{تشخیص چهره مبتنی بر ویدیو}{section.2.3}% 29
-\BOOKMARK [2][-]{subsection.2.3.7}{رویکرد مبتنی بر چهره ویژه}{section.2.3}% 30
-\BOOKMARK [2][-]{subsection.2.3.8}{رویکردهای مبتنی بر شبکه عصبی}{section.2.3}% 31
-\BOOKMARK [2][-]{subsection.2.3.9}{رویکردهای مبتنی بر نقاط راهنما}{section.2.3}% 32
+\BOOKMARK [2][-]{subsection.1.5.2}{نوآوری‌های پایان‌نامه}{section.1.5}% 16
+\BOOKMARK [2][-]{subsection.1.5.3}{ساختار پایان‌نامه}{section.1.5}% 17
+\BOOKMARK [0][-]{chapter.2}{ مروری بر کارهای گذشته}{}% 18
+\BOOKMARK [1][-]{section.2.1}{مقدمه}{chapter.2}% 19
+\BOOKMARK [1][-]{section.2.2}{یافتن چهره}{chapter.2}% 20
+\BOOKMARK [2][-]{subsection.2.2.1}{ رویکردهای مبتنی بر دانش و تطبیق کلیشه}{section.2.2}% 21
+\BOOKMARK [2][-]{subsection.2.2.2}{رویکردهای مبتنی بر ویژگی}{section.2.2}% 22
+\BOOKMARK [2][-]{subsection.2.2.3}{رویکرد مبتنی بر عامل‌های آماری}{section.2.2}% 23
+\BOOKMARK [2][-]{subsection.2.2.4}{رویکردهای مبتنی بر یادگیری}{section.2.2}% 24
+\BOOKMARK [1][-]{section.2.3}{شناسایی چهره}{chapter.2}% 25
+\BOOKMARK [2][-]{subsection.2.3.1}{رویکرد‌های سنتی}{section.2.3}% 26
+\BOOKMARK [2][-]{subsection.2.3.2}{رویکرد مبتنی بر فیلتر گابور ‌}{section.2.3}% 27
+\BOOKMARK [2][-]{subsection.2.3.3}{رویکرد‌های سه بعدی}{section.2.3}% 28
+\BOOKMARK [2][-]{subsection.2.3.4}{رویکرد‌های مبتنی بر دوربین حرارتی}{section.2.3}% 29
+\BOOKMARK [2][-]{subsection.2.3.5}{تشخیص چهره مبتنی بر ویدیو}{section.2.3}% 30
+\BOOKMARK [2][-]{subsection.2.3.6}{رویکرد مبتنی بر چهره ویژه}{section.2.3}% 31
+\BOOKMARK [2][-]{subsection.2.3.7}{رویکردهای مبتنی بر یادگیری عمیق}{section.2.3}% 32
 \BOOKMARK [1][-]{section.2.4}{نتیجه گیری}{chapter.2}% 33
-\BOOKMARK [0][-]{chapter.3}{مروری بر کارهای گذشته در شرایط کنترل نشده}{}% 34
+\BOOKMARK [0][-]{chapter.3}{مروری بر روش‌های ارائه شده برای مواجهه با شرایط کنترل نشده}{}% 34
 \BOOKMARK [1][-]{section.3.1}{مقدمه}{chapter.3}% 35
 \BOOKMARK [1][-]{section.3.2}{چالش حالت}{chapter.3}% 36
 \BOOKMARK [1][-]{section.3.3}{چالش روشنایی}{chapter.3}% 37
@@ -62,4 +62,4 @@
 \BOOKMARK [1][-]{section.6.1}{مقدمه}{chapter.6}% 62
 \BOOKMARK [1][-]{section.6.2}{بحث و نتيجه‌گيري}{chapter.6}% 63
 \BOOKMARK [1][-]{section.6.3}{پیشنهادات}{chapter.6}% 64
-\BOOKMARK [0][-]{chapter*.91}{منابع و مآخذ}{}% 65
+\BOOKMARK [0][-]{chapter*.83}{منابع و مآخذ}{}% 65

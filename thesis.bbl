@@ -5,6 +5,53 @@
 
 \begin{LTRbibitems}
 \resetlatinfont
+\bibitem{Glasses}
+``Smart glasses led the blind,''
+  \url{https://www.neotaos365.top/ProductDetail.aspx?iid=246782895&pr=58.99}.
+\newblock Accessed: 2021-04-24.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{6196234}
+M.~{De Marsico}, M.~{Nappi}, D.~{Riccio}, and H.~{Wechsler}, ``Robust face
+  recognition for uncontrolled pose and illumination changes,'' {\em IEEE
+  Transactions on Systems, Man, and Cybernetics: Systems},  vol.43,  no.1,
+  pp.149--163, 2013.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{6475017}
+B.~Y.~L. {Li}, A.~S. {Mian}, W.~{Liu}, and A.~{Krishna}, ``Using kinect for
+  face recognition under varying poses, expressions, illumination and
+  disguise,''  in {\em 2013 IEEE Workshop on Applications of Computer Vision
+  (WACV)},  pp.186--192, 2013.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{7477452}
+M.~J. {Wilber}, V.~{Shmatikov}, and S.~{Belongie}, ``Can we still avoid
+  automatic face detection?,''  in {\em 2016 IEEE Winter Conference on
+  Applications of Computer Vision (WACV)},  pp.1--9, 2016.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{CHAUDHRY2017168}
+S.~Chaudhry and R.~Chandra, ``Face detection and recognition in an
+  unconstrained environment for mobile visual assistive system,'' {\em Applied
+  Soft Computing},  vol.53,  pp.168--180, 2017.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
 \bibitem{HJELMAS2001236}
 E.~Hjelmås and B.~K. Low, ``Face detection: A survey,'' {\em Computer Vision
   and Image Understanding},  vol.83,  no.3,  pp.236--274, 2001.
@@ -44,15 +91,6 @@ S.~{Liao}, A.~K. {Jain}, and S.~Z. {Li}, ``A fast and accurate unconstrained
 \bibitem{deng2019retinaface}
 J.~Deng, J.~Guo, Y.~Zhou, J.~Yu, I.~Kotsia, and S.~Zafeiriou, ``Retinaface:
   Single-stage dense face localisation in the wild,'' 2019.
-
-\end{LTRbibitems}
-
-\begin{LTRbibitems}
-\resetlatinfont
-\bibitem{254061}
-R.~{Brunelli} and T.~{Poggio}, ``Face recognition: features versus templates,''
-  {\em IEEE Transactions on Pattern Analysis and Machine Intelligence},
-  vol.15,  no.10,  pp.1042--1052, 1993.
 
 \end{LTRbibitems}
 
@@ -211,16 +249,6 @@ A.~V. Savchenko and N.~S. Belova, ``Unconstrained face identification using
 
 \begin{LTRbibitems}
 \resetlatinfont
-\bibitem{6196234}
-M.~{De Marsico}, M.~{Nappi}, D.~{Riccio}, and H.~{Wechsler}, ``Robust face
-  recognition for uncontrolled pose and illumination changes,'' {\em IEEE
-  Transactions on Systems, Man, and Cybernetics: Systems},  vol.43,  no.1,
-  pp.149--163, 2013.
-
-\end{LTRbibitems}
-
-\begin{LTRbibitems}
-\resetlatinfont
 \bibitem{WU2018256}
 C.~Y. Wu and J.~J. Ding, ``Occluded face recognition using low-rank regression
   with generalized gradient direction,'' {\em Pattern Recognition},  vol.80,
@@ -319,6 +347,15 @@ S.~W. Cho, N.~R. Baek, M.~C. Kim, J.~H. Koo, J.~H. Kim, and K.~R. Park, ``Face
 
 \begin{LTRbibitems}
 \resetlatinfont
+\bibitem{Biometrics}
+``Evaluation of human biometric features,''
+  \url{https://en.wikipedia.org/wiki/Biometrics}.
+\newblock Accessed: 2021-04-24.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
 \bibitem{982883}
 {Ming-Hsuan Yang}, D.~J. {Kriegman}, and N.~{Ahuja}, ``Detecting faces in
   images: a survey,'' {\em IEEE Transactions on Pattern Analysis and Machine
@@ -338,11 +375,10 @@ R.~{Ranjan}, S.~{Sankaranarayanan}, A.~{Bansal}, N.~{Bodla}, J.~{Chen}, V.~M.
 
 \begin{LTRbibitems}
 \resetlatinfont
-\bibitem{609310}
-E.~{Osuna}, R.~{Freund}, and F.~{Girosit}, ``Training support vector machines:
-  an application to face detection,''  in {\em Proceedings of IEEE Computer
-  Society Conference on Computer Vision and Pattern Recognition},  pp.130--136,
-  1997.
+\bibitem{254061}
+R.~{Brunelli} and T.~{Poggio}, ``Face recognition: features versus templates,''
+  {\em IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  vol.15,  no.10,  pp.1042--1052, 1993.
 
 \end{LTRbibitems}
 
@@ -372,6 +408,15 @@ K.~R. {Sreelakshmi}, R.~{Anitha}, and K.~R. {Rebitha}, ``Multiple media based
   face recognition in unconstrained environments using eigenfaces,''  in {\em
   2016 International Conference on Next Generation Intelligent Systems
   (ICNGIS)},  pp.1--6, 2016.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{cnn}
+``Facial expression recognition,''
+  \url{http://www.sfu.ca/~llockhar/projects/facial-expression-recognition}.
+\newblock Accessed: 2021-04-24.
 
 \end{LTRbibitems}
 

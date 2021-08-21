@@ -4,84 +4,85 @@
 \contentsline {chapter}{\numberline {1}مقدمه}{1}{chapter.1}%
 \contentsline {section}{\numberline {1.1}مقدمه}{2}{section.1.1}%
 \contentsline {section}{\numberline {1.2}ویژگی‌های بیومتریک}{2}{section.1.2}%
-\contentsline {subsection}{\numberline {1.2.1}ارزیابی ویژگی‌های بیومتریک انسان}{3}{subsection.1.2.1}%
+\contentsline {subsection}{\numberline {1.2.1}ارزیابی ویژگی‌های بیومتریک انسان}{2}{subsection.1.2.1}%
 \contentsline {section}{\numberline {1.3}سامانه تشخیص چهره}{3}{section.1.3}%
 \contentsline {subsection}{\numberline {1.3.1}کاربردها و ویژگی‌های مهم سامانه تشخیص چهره}{4}{subsection.1.3.1}%
 \contentsline {subsection}{\numberline {1.3.2}نمای کلی یک سامانه تشخیص چهره}{5}{subsection.1.3.2}%
 \contentsline {section}{\numberline {1.4} الگوریتم‌های استخراج ویژگی و برچسب گذاری تصاویر }{6}{section.1.4}%
 \contentsline {subsection}{\numberline {1.4.1} خوشه بندی }{6}{subsection.1.4.1}%
 \contentsline {subsection}{\numberline {1.4.2}طبقه‌بندی}{7}{subsection.1.4.2}%
-\contentsline {section}{\numberline {1.5}مسئله تشخیص بی‌درنگ چهره در محیط‌های کنترل نشده}{8}{section.1.5}%
+\contentsline {section}{\numberline {1.5}مسئله تشخیص بی‌درنگ چهره در محیط‌های کنترل نشده}{7}{section.1.5}%
 \contentsline {subsection}{\numberline {1.5.1}چالش‌های سامانه تشخیص چهره}{8}{subsection.1.5.1}%
-\contentsline {chapter}{\numberline {2} مروری بر کارهای گذشته}{12}{chapter.2}%
-\contentsline {section}{\numberline {2.1}مقدمه}{13}{section.2.1}%
-\contentsline {section}{\numberline {2.2}یافتن چهره}{13}{section.2.2}%
-\contentsline {subsection}{\numberline {2.2.1} رویکردهای مبتنی بر دانش و تطبیق کلیشه}{13}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {1.5.2}نوآوری‌های پایان‌نامه}{11}{subsection.1.5.2}%
+\contentsline {subsection}{\numberline {1.5.3}ساختار پایان‌نامه}{12}{subsection.1.5.3}%
+\contentsline {chapter}{\numberline {2} مروری بر کارهای گذشته}{13}{chapter.2}%
+\contentsline {section}{\numberline {2.1}مقدمه}{14}{section.2.1}%
+\contentsline {section}{\numberline {2.2}یافتن چهره}{14}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1} رویکردهای مبتنی بر دانش و تطبیق کلیشه}{14}{subsection.2.2.1}%
 \contentsline {subsection}{\numberline {2.2.2}رویکردهای مبتنی بر ویژگی}{15}{subsection.2.2.2}%
-\contentsline {subsubsection}{\numberline {2.2.2.1}رویکرد مبتنی بر لبه}{15}{subsubsection.2.2.2.1}%
-\contentsline {subsubsection}{\numberline {2.2.2.2}رویکرد مبتنی بر اطلاعات سطح خاکستری}{15}{subsubsection.2.2.2.2}%
-\contentsline {subsubsection}{\numberline {2.2.2.3}رویکرد مبتنی بر اطلاعات رنگی}{16}{subsubsection.2.2.2.3}%
-\contentsline {subsection}{\numberline {2.2.3}رویکرد مبتنی بر عامل‌های آماری}{17}{subsection.2.2.3}%
-\contentsline {subsection}{\numberline {2.2.4}رویکردهای مبتنی بر تصویر}{23}{subsection.2.2.4}%
-\contentsline {subsubsection}{\numberline {2.2.4.1}رویکرد مبتنی بر ماشین بردار پشتیبان}{24}{subsubsection.2.2.4.1}%
-\contentsline {subsubsection}{\numberline {2.2.4.2}رویکرد مبتنی بر شبکه‌ عصبی}{24}{subsubsection.2.2.4.2}%
-\contentsline {section}{\numberline {2.3}شناسایی چهره}{25}{section.2.3}%
-\contentsline {subsection}{\numberline {2.3.1}رویکرد‌های سنتی}{25}{subsection.2.3.1}%
-\contentsline {subsection}{\numberline {2.3.2}رویکرد مبتنی بر فیلتر گابور ‌}{26}{subsection.2.3.2}%
-\contentsline {subsection}{\numberline {2.3.3}رویکرد‌های سه بعدی}{26}{subsection.2.3.3}%
-\contentsline {subsection}{\numberline {2.3.4}رویکرد‌های تجزیه و تحلیل بافت پوست}{27}{subsection.2.3.4}%
-\contentsline {subsection}{\numberline {2.3.5}رویکرد‌های مبتنی بر دوربین حرارتی}{28}{subsection.2.3.5}%
-\contentsline {subsection}{\numberline {2.3.6}تشخیص چهره مبتنی بر ویدیو}{28}{subsection.2.3.6}%
-\contentsline {subsection}{\numberline {2.3.7}رویکرد مبتنی بر چهره ویژه}{30}{subsection.2.3.7}%
-\contentsline {subsection}{\numberline {2.3.8}رویکردهای مبتنی بر شبکه عصبی}{31}{subsection.2.3.8}%
-\contentsline {subsubsection}{\numberline {2.3.8.1} شبکه \lr {FaceNet}}{32}{subsubsection.2.3.8.1}%
-\contentsline {subsubsection}{\numberline {2.3.8.2} شبکه \lr {SplitNet}}{33}{subsubsection.2.3.8.2}%
-\contentsline {subsubsection}{\numberline {2.3.8.3} شبکه \lr {GoogLeNet}}{34}{subsubsection.2.3.8.3}%
-\contentsline {subsubsection}{\numberline {2.3.8.4} شبکه \lr {VGGFace}}{35}{subsubsection.2.3.8.4}%
-\contentsline {subsection}{\numberline {2.3.9}رویکردهای مبتنی بر نقاط راهنما}{36}{subsection.2.3.9}%
-\contentsline {section}{\numberline {2.4}نتیجه گیری}{40}{section.2.4}%
-\contentsline {chapter}{\numberline {3}مروری بر کارهای گذشته در شرایط کنترل نشده}{42}{chapter.3}%
-\contentsline {section}{\numberline {3.1}مقدمه}{43}{section.3.1}%
-\contentsline {section}{\numberline {3.2}چالش حالت}{43}{section.3.2}%
-\contentsline {section}{\numberline {3.3}چالش روشنایی}{53}{section.3.3}%
-\contentsline {section}{\numberline {3.4}چالش انسداد}{55}{section.3.4}%
-\contentsline {section}{\numberline {3.5}چالش کمبود تصاویر آموزشی}{57}{section.3.5}%
-\contentsline {section}{\numberline {3.6}چالش منابع محدود}{62}{section.3.6}%
-\contentsline {section}{\numberline {3.7}نتیجه گیری}{68}{section.3.7}%
-\contentsline {chapter}{\numberline {4} روش پیشنهادی }{71}{chapter.4}%
-\contentsline {section}{\numberline {4.1}مقدمه}{72}{section.4.1}%
-\contentsline {section}{\numberline {4.2}پیش پردازش}{72}{section.4.2}%
-\contentsline {subsection}{\numberline {4.2.1}همسان سازی بافت‌نگار}{73}{subsection.4.2.1}%
-\contentsline {subsection}{\numberline {4.2.2}یافتن چهره}{73}{subsection.4.2.2}%
-\contentsline {subsection}{\numberline {4.2.3}تراز کردن تصویر}{74}{subsection.4.2.3}%
-\contentsline {section}{\numberline {4.3}دسته بندی}{75}{section.4.3}%
-\contentsline {subsection}{\numberline {4.3.1}مدل پيشنهادي پايه}{75}{subsection.4.3.1}%
-\contentsline {subsubsection}{\numberline {4.3.1.1}لايه كانولوشن}{77}{subsubsection.4.3.1.1}%
-\contentsline {subsubsection}{\numberline {4.3.1.2}لایه تنگنا و واحد باقیمانده}{77}{subsubsection.4.3.1.2}%
-\contentsline {subsubsection}{\numberline {4.3.1.3}واحد توجه}{78}{subsubsection.4.3.1.3}%
-\contentsline {subsection}{\numberline {4.3.2}تابع ضرر}{80}{subsection.4.3.2}%
-\contentsline {subsection}{\numberline {4.3.3}آموزش مدل و استخراج ویژگی}{82}{subsection.4.3.3}%
-\contentsline {subsubsection}{\numberline {4.3.3.1}دسته‌بندی}{83}{subsubsection.4.3.3.1}%
-\contentsline {section}{\numberline {4.4}فناوری های استفاده شده}{83}{section.4.4}%
-\contentsline {chapter}{\numberline {5}ارزیابی روش پیشنهادی}{84}{chapter.5}%
-\contentsline {section}{\numberline {5.1}مقدمه}{85}{section.5.1}%
-\contentsline {section}{\numberline {5.2}معیار ارزیابی}{85}{section.5.2}%
-\contentsline {section}{\numberline {5.3}مجموعه داده}{86}{section.5.3}%
-\contentsline {subsection}{\numberline {5.3.1}مجموعه داده‌های آموزش}{86}{subsection.5.3.1}%
-\contentsline {subsubsection}{\numberline {5.3.1.1}مجموعه داده \lr {CASIA Web-Face}}{86}{subsubsection.5.3.1.1}%
-\contentsline {subsubsection}{\numberline {5.3.1.2}مجموعه داده \lr {MS-Celeb-1M}}{86}{subsubsection.5.3.1.2}%
-\contentsline {subsubsection}{\numberline {5.3.1.3}مجموعه داده \lr {VGGFace2}}{86}{subsubsection.5.3.1.3}%
-\contentsline {subsection}{\numberline {5.3.2}مجموعه داده‌های آزمون}{87}{subsection.5.3.2}%
-\contentsline {subsubsection}{\numberline {5.3.2.1}مجموعه داده \lr {LFW}}{87}{subsubsection.5.3.2.1}%
-\contentsline {subsubsection}{\numberline {5.3.2.2}مجموعه داده \lr {PubFig}}{87}{subsubsection.5.3.2.2}%
-\contentsline {subsubsection}{\numberline {5.3.2.3}مجموعه داده \lr {YouTube Faces}}{87}{subsubsection.5.3.2.3}%
-\contentsline {subsubsection}{\numberline {5.3.2.4}مجموعه داده \lr {CFP}}{87}{subsubsection.5.3.2.4}%
-\contentsline {subsubsection}{\numberline {5.3.2.5}مجموعه داده \lr {CACD}}{88}{subsubsection.5.3.2.5}%
-\contentsline {subsubsection}{\numberline {5.3.2.6}مجموعه داده \lr {MegaFace}}{88}{subsubsection.5.3.2.6}%
-\contentsline {section}{\numberline {5.4}پیکربندی الگوریتم}{88}{section.5.4}%
-\contentsline {section}{\numberline {5.5}نتایج آزمون}{89}{section.5.5}%
-\contentsline {chapter}{\numberline {6}نتیجه‌گیری و پیشنهادات}{91}{chapter.6}%
-\contentsline {section}{\numberline {6.1}مقدمه}{92}{section.6.1}%
-\contentsline {section}{\numberline {6.2}بحث و نتيجه‌گيري}{92}{section.6.2}%
-\contentsline {section}{\numberline {6.3}پیشنهادات}{93}{section.6.3}%
-\contentsline {chapter}{منابع و مآخذ}{94}{chapter*.91}%
+\contentsline {subsubsection}{\numberline {2.2.2.1}رویکرد مبتنی بر لبه}{16}{subsubsection.2.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.2.2.2}رویکرد مبتنی بر اطلاعات سطح خاکستری}{16}{subsubsection.2.2.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.2.3}رویکرد مبتنی بر اطلاعات رنگی}{17}{subsubsection.2.2.2.3}%
+\contentsline {subsection}{\numberline {2.2.3}رویکرد مبتنی بر عامل‌های آماری}{18}{subsection.2.2.3}%
+\contentsline {subsection}{\numberline {2.2.4}رویکردهای مبتنی بر یادگیری}{23}{subsection.2.2.4}%
+\contentsline {section}{\numberline {2.3}شناسایی چهره}{23}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}رویکرد‌های سنتی}{24}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}رویکرد مبتنی بر فیلتر گابور ‌}{24}{subsection.2.3.2}%
+\contentsline {subsection}{\numberline {2.3.3}رویکرد‌های سه بعدی}{25}{subsection.2.3.3}%
+\contentsline {subsection}{\numberline {2.3.4}رویکرد‌های مبتنی بر دوربین حرارتی}{26}{subsection.2.3.4}%
+\contentsline {subsection}{\numberline {2.3.5}تشخیص چهره مبتنی بر ویدیو}{26}{subsection.2.3.5}%
+\contentsline {subsection}{\numberline {2.3.6}رویکرد مبتنی بر چهره ویژه}{28}{subsection.2.3.6}%
+\contentsline {subsection}{\numberline {2.3.7}رویکردهای مبتنی بر یادگیری عمیق}{29}{subsection.2.3.7}%
+\contentsline {subsubsection}{\numberline {2.3.7.1} شبکه \lr {FaceNet}}{30}{subsubsection.2.3.7.1}%
+\contentsline {subsubsection}{\numberline {2.3.7.2} شبکه \lr {SplitNet}}{31}{subsubsection.2.3.7.2}%
+\contentsline {subsubsection}{\numberline {2.3.7.3} شبکه \lr {GoogLeNet}}{32}{subsubsection.2.3.7.3}%
+\contentsline {subsubsection}{\numberline {2.3.7.4} شبکه \lr {VGGFace}}{32}{subsubsection.2.3.7.4}%
+\contentsline {subsubsection}{\numberline {2.3.7.5}نقاط راهنما}{33}{subsubsection.2.3.7.5}%
+\contentsline {subsubsection}{\numberline {2.3.7.6} شبکه \lr {MobileNet}}{35}{subsubsection.2.3.7.6}%
+\contentsline {subsubsection}{\numberline {2.3.7.7}لایه توجه}{37}{subsubsection.2.3.7.7}%
+\contentsline {section}{\numberline {2.4}نتیجه گیری}{38}{section.2.4}%
+\contentsline {chapter}{\numberline {3}مروری بر روش‌های ارائه شده برای مواجهه با شرایط کنترل نشده}{39}{chapter.3}%
+\contentsline {section}{\numberline {3.1}مقدمه}{40}{section.3.1}%
+\contentsline {section}{\numberline {3.2}چالش حالت}{40}{section.3.2}%
+\contentsline {section}{\numberline {3.3}چالش روشنایی}{50}{section.3.3}%
+\contentsline {section}{\numberline {3.4}چالش انسداد}{52}{section.3.4}%
+\contentsline {section}{\numberline {3.5}چالش کمبود تصاویر آموزشی}{54}{section.3.5}%
+\contentsline {section}{\numberline {3.6}چالش منابع محدود}{59}{section.3.6}%
+\contentsline {section}{\numberline {3.7}نتیجه گیری}{65}{section.3.7}%
+\contentsline {chapter}{\numberline {4} روش پیشنهادی }{68}{chapter.4}%
+\contentsline {section}{\numberline {4.1}مقدمه}{69}{section.4.1}%
+\contentsline {section}{\numberline {4.2}پیش پردازش}{69}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}همسان سازی بافت‌نگار}{70}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.2}یافتن چهره}{70}{subsection.4.2.2}%
+\contentsline {subsection}{\numberline {4.2.3}تراز کردن تصویر}{71}{subsection.4.2.3}%
+\contentsline {section}{\numberline {4.3}دسته بندی}{72}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}مدل پيشنهادي پايه}{72}{subsection.4.3.1}%
+\contentsline {subsubsection}{\numberline {4.3.1.1}لايه كانولوشن}{74}{subsubsection.4.3.1.1}%
+\contentsline {subsubsection}{\numberline {4.3.1.2}لایه تنگنا و واحد باقیمانده}{74}{subsubsection.4.3.1.2}%
+\contentsline {subsubsection}{\numberline {4.3.1.3}واحد توجه}{75}{subsubsection.4.3.1.3}%
+\contentsline {subsection}{\numberline {4.3.2}تابع ضرر}{77}{subsection.4.3.2}%
+\contentsline {subsection}{\numberline {4.3.3}آموزش مدل و استخراج ویژگی}{79}{subsection.4.3.3}%
+\contentsline {subsubsection}{\numberline {4.3.3.1}دسته‌بندی}{80}{subsubsection.4.3.3.1}%
+\contentsline {section}{\numberline {4.4}فناوری های استفاده شده}{80}{section.4.4}%
+\contentsline {chapter}{\numberline {5}ارزیابی روش پیشنهادی}{81}{chapter.5}%
+\contentsline {section}{\numberline {5.1}مقدمه}{82}{section.5.1}%
+\contentsline {section}{\numberline {5.2}معیار ارزیابی}{82}{section.5.2}%
+\contentsline {section}{\numberline {5.3}مجموعه داده}{83}{section.5.3}%
+\contentsline {subsection}{\numberline {5.3.1}مجموعه داده‌های آموزش}{83}{subsection.5.3.1}%
+\contentsline {subsubsection}{\numberline {5.3.1.1}مجموعه داده \lr {CASIA Web-Face}}{83}{subsubsection.5.3.1.1}%
+\contentsline {subsubsection}{\numberline {5.3.1.2}مجموعه داده \lr {MS-Celeb-1M}}{83}{subsubsection.5.3.1.2}%
+\contentsline {subsubsection}{\numberline {5.3.1.3}مجموعه داده \lr {VGGFace2}}{83}{subsubsection.5.3.1.3}%
+\contentsline {subsection}{\numberline {5.3.2}مجموعه داده‌های آزمون}{84}{subsection.5.3.2}%
+\contentsline {subsubsection}{\numberline {5.3.2.1}مجموعه داده \lr {LFW}}{84}{subsubsection.5.3.2.1}%
+\contentsline {subsubsection}{\numberline {5.3.2.2}مجموعه داده \lr {PubFig}}{84}{subsubsection.5.3.2.2}%
+\contentsline {subsubsection}{\numberline {5.3.2.3}مجموعه داده \lr {YouTube Faces}}{84}{subsubsection.5.3.2.3}%
+\contentsline {subsubsection}{\numberline {5.3.2.4}مجموعه داده \lr {CFP}}{84}{subsubsection.5.3.2.4}%
+\contentsline {subsubsection}{\numberline {5.3.2.5}مجموعه داده \lr {CACD}}{85}{subsubsection.5.3.2.5}%
+\contentsline {subsubsection}{\numberline {5.3.2.6}مجموعه داده \lr {MegaFace}}{85}{subsubsection.5.3.2.6}%
+\contentsline {section}{\numberline {5.4}پیکربندی الگوریتم}{85}{section.5.4}%
+\contentsline {section}{\numberline {5.5}نتایج آزمون}{86}{section.5.5}%
+\contentsline {chapter}{\numberline {6}نتیجه‌گیری و پیشنهادات}{88}{chapter.6}%
+\contentsline {section}{\numberline {6.1}مقدمه}{89}{section.6.1}%
+\contentsline {section}{\numberline {6.2}بحث و نتيجه‌گيري}{89}{section.6.2}%
+\contentsline {section}{\numberline {6.3}پیشنهادات}{90}{section.6.3}%
+\contentsline {chapter}{منابع و مآخذ}{91}{chapter*.83}%
