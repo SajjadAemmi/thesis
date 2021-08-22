@@ -38,28 +38,29 @@
 \BOOKMARK [1][-]{section.3.4}{چالش انسداد}{chapter.3}% 38
 \BOOKMARK [1][-]{section.3.5}{چالش کمبود تصاویر آموزشی}{chapter.3}% 39
 \BOOKMARK [1][-]{section.3.6}{چالش منابع محدود}{chapter.3}% 40
-\BOOKMARK [1][-]{section.3.7}{نتیجه گیری}{chapter.3}% 41
-\BOOKMARK [0][-]{chapter.4}{ روش پیشنهادی }{}% 42
-\BOOKMARK [1][-]{section.4.1}{مقدمه}{chapter.4}% 43
-\BOOKMARK [1][-]{section.4.2}{پیش پردازش}{chapter.4}% 44
-\BOOKMARK [2][-]{subsection.4.2.1}{همسان سازی بافت‌نگار}{section.4.2}% 45
-\BOOKMARK [2][-]{subsection.4.2.2}{یافتن چهره}{section.4.2}% 46
-\BOOKMARK [2][-]{subsection.4.2.3}{تراز کردن تصویر}{section.4.2}% 47
-\BOOKMARK [1][-]{section.4.3}{دسته بندی}{chapter.4}% 48
-\BOOKMARK [2][-]{subsection.4.3.1}{مدل پيشنهادي پايه}{section.4.3}% 49
-\BOOKMARK [2][-]{subsection.4.3.2}{تابع ضرر}{section.4.3}% 50
-\BOOKMARK [2][-]{subsection.4.3.3}{آموزش مدل و استخراج ویژگی}{section.4.3}% 51
-\BOOKMARK [1][-]{section.4.4}{فناوری های استفاده شده}{chapter.4}% 52
-\BOOKMARK [0][-]{chapter.5}{ارزیابی روش پیشنهادی}{}% 53
-\BOOKMARK [1][-]{section.5.1}{مقدمه}{chapter.5}% 54
-\BOOKMARK [1][-]{section.5.2}{معیار ارزیابی}{chapter.5}% 55
-\BOOKMARK [1][-]{section.5.3}{مجموعه داده}{chapter.5}% 56
-\BOOKMARK [2][-]{subsection.5.3.1}{مجموعه داده‌های آموزش}{section.5.3}% 57
-\BOOKMARK [2][-]{subsection.5.3.2}{مجموعه داده‌های آزمون}{section.5.3}% 58
-\BOOKMARK [1][-]{section.5.4}{پیکربندی الگوریتم}{chapter.5}% 59
-\BOOKMARK [1][-]{section.5.5}{نتایج آزمون}{chapter.5}% 60
-\BOOKMARK [0][-]{chapter.6}{نتیجه‌گیری و پیشنهادات}{}% 61
-\BOOKMARK [1][-]{section.6.1}{مقدمه}{chapter.6}% 62
-\BOOKMARK [1][-]{section.6.2}{بحث و نتيجه‌گيري}{chapter.6}% 63
-\BOOKMARK [1][-]{section.6.3}{پیشنهادات}{chapter.6}% 64
-\BOOKMARK [0][-]{chapter*.83}{منابع و مآخذ}{}% 65
+\BOOKMARK [1][-]{section.3.7}{توابع ضرر مبتنی بر افزایش حاشیه}{chapter.3}% 41
+\BOOKMARK [1][-]{section.3.8}{نتیجه گیری}{chapter.3}% 42
+\BOOKMARK [0][-]{chapter.4}{ روش پیشنهادی }{}% 43
+\BOOKMARK [1][-]{section.4.1}{مقدمه}{chapter.4}% 44
+\BOOKMARK [1][-]{section.4.2}{پیش پردازش}{chapter.4}% 45
+\BOOKMARK [2][-]{subsection.4.2.1}{همسان سازی بافت‌نگار}{section.4.2}% 46
+\BOOKMARK [2][-]{subsection.4.2.2}{یافتن چهره}{section.4.2}% 47
+\BOOKMARK [2][-]{subsection.4.2.3}{تراز کردن تصویر}{section.4.2}% 48
+\BOOKMARK [1][-]{section.4.3}{دسته بندی}{chapter.4}% 49
+\BOOKMARK [2][-]{subsection.4.3.1}{مدل پيشنهادي پايه}{section.4.3}% 50
+\BOOKMARK [2][-]{subsection.4.3.2}{تابع ضرر}{section.4.3}% 51
+\BOOKMARK [2][-]{subsection.4.3.3}{آموزش مدل و استخراج ویژگی}{section.4.3}% 52
+\BOOKMARK [1][-]{section.4.4}{فناوری های استفاده شده}{chapter.4}% 53
+\BOOKMARK [0][-]{chapter.5}{ارزیابی روش پیشنهادی}{}% 54
+\BOOKMARK [1][-]{section.5.1}{مقدمه}{chapter.5}% 55
+\BOOKMARK [1][-]{section.5.2}{معیار ارزیابی}{chapter.5}% 56
+\BOOKMARK [1][-]{section.5.3}{مجموعه داده}{chapter.5}% 57
+\BOOKMARK [2][-]{subsection.5.3.1}{مجموعه داده‌های آموزش}{section.5.3}% 58
+\BOOKMARK [2][-]{subsection.5.3.2}{مجموعه داده‌های آزمون}{section.5.3}% 59
+\BOOKMARK [1][-]{section.5.4}{پیکربندی الگوریتم}{chapter.5}% 60
+\BOOKMARK [1][-]{section.5.5}{نتایج آزمون}{chapter.5}% 61
+\BOOKMARK [0][-]{chapter.6}{نتیجه‌گیری و پیشنهادات}{}% 62
+\BOOKMARK [1][-]{section.6.1}{مقدمه}{chapter.6}% 63
+\BOOKMARK [1][-]{section.6.2}{بحث و نتيجه‌گيري}{chapter.6}% 64
+\BOOKMARK [1][-]{section.6.3}{پیشنهادات}{chapter.6}% 65
+\BOOKMARK [0][-]{chapter*.81}{منابع و مآخذ}{}% 66
