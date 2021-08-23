@@ -25,44 +25,44 @@
 \contentsline {subsubsection}{\numberline {2.2.2.3}رویکرد مبتنی بر اطلاعات رنگی}{17}{subsubsection.2.2.2.3}%
 \contentsline {subsection}{\numberline {2.2.3}رویکرد مبتنی بر عامل‌های آماری}{18}{subsection.2.2.3}%
 \contentsline {subsection}{\numberline {2.2.4}رویکردهای مبتنی بر یادگیری}{23}{subsection.2.2.4}%
-\contentsline {section}{\numberline {2.3}شناسایی چهره}{23}{section.2.3}%
+\contentsline {section}{\numberline {2.3}شناسایی چهره}{24}{section.2.3}%
 \contentsline {subsection}{\numberline {2.3.1}رویکرد‌های سنتی}{24}{subsection.2.3.1}%
-\contentsline {subsection}{\numberline {2.3.2}رویکرد مبتنی بر فیلتر گابور ‌}{24}{subsection.2.3.2}%
+\contentsline {subsection}{\numberline {2.3.2}رویکرد مبتنی بر فیلتر گابور ‌}{25}{subsection.2.3.2}%
 \contentsline {subsection}{\numberline {2.3.3}رویکرد‌های سه بعدی}{25}{subsection.2.3.3}%
 \contentsline {subsection}{\numberline {2.3.4}رویکرد‌های مبتنی بر دوربین حرارتی}{26}{subsection.2.3.4}%
-\contentsline {subsection}{\numberline {2.3.5}تشخیص چهره مبتنی بر ویدیو}{26}{subsection.2.3.5}%
+\contentsline {subsection}{\numberline {2.3.5}تشخیص چهره مبتنی بر ویدیو}{27}{subsection.2.3.5}%
 \contentsline {subsection}{\numberline {2.3.6}رویکرد مبتنی بر چهره ویژه}{28}{subsection.2.3.6}%
-\contentsline {subsection}{\numberline {2.3.7}رویکردهای مبتنی بر یادگیری عمیق}{29}{subsection.2.3.7}%
+\contentsline {subsection}{\numberline {2.3.7}رویکردهای مبتنی بر یادگیری عمیق}{30}{subsection.2.3.7}%
 \contentsline {subsubsection}{\numberline {2.3.7.1} شبکه \lr {FaceNet}}{30}{subsubsection.2.3.7.1}%
-\contentsline {subsubsection}{\numberline {2.3.7.2} شبکه \lr {SplitNet}}{31}{subsubsection.2.3.7.2}%
+\contentsline {subsubsection}{\numberline {2.3.7.2} شبکه \lr {SplitNet}}{32}{subsubsection.2.3.7.2}%
 \contentsline {subsubsection}{\numberline {2.3.7.3} شبکه \lr {GoogLeNet}}{32}{subsubsection.2.3.7.3}%
-\contentsline {subsubsection}{\numberline {2.3.7.4} شبکه \lr {VGGFace}}{32}{subsubsection.2.3.7.4}%
-\contentsline {subsubsection}{\numberline {2.3.7.5}نقاط راهنما}{33}{subsubsection.2.3.7.5}%
+\contentsline {subsubsection}{\numberline {2.3.7.4} شبکه \lr {VGGFace}}{33}{subsubsection.2.3.7.4}%
+\contentsline {subsubsection}{\numberline {2.3.7.5}نقاط راهنما}{34}{subsubsection.2.3.7.5}%
 \contentsline {subsubsection}{\numberline {2.3.7.6}\lr {OpenFace}}{35}{subsubsection.2.3.7.6}%
-\contentsline {subsubsection}{\numberline {2.3.7.7} شبکه \lr {MobileNet}}{36}{subsubsection.2.3.7.7}%
-\contentsline {subsubsection}{\numberline {2.3.7.8}لایه توجه}{38}{subsubsection.2.3.7.8}%
+\contentsline {subsubsection}{\numberline {2.3.7.7} شبکه \lr {MobileNet}}{38}{subsubsection.2.3.7.7}%
+\contentsline {subsubsection}{\numberline {2.3.7.8}لایه توجه}{39}{subsubsection.2.3.7.8}%
 \contentsline {section}{\numberline {2.4}نتیجه گیری}{40}{section.2.4}%
-\contentsline {chapter}{\numberline {3}مروری بر روش‌های ارائه شده برای مواجهه با شرایط کنترل نشده}{41}{chapter.3}%
-\contentsline {section}{\numberline {3.1}مقدمه}{42}{section.3.1}%
-\contentsline {section}{\numberline {3.2}چالش حالت}{42}{section.3.2}%
-\contentsline {section}{\numberline {3.3}چالش روشنایی}{50}{section.3.3}%
-\contentsline {section}{\numberline {3.4}چالش انسداد}{51}{section.3.4}%
-\contentsline {section}{\numberline {3.5}چالش کمبود تصاویر آموزشی}{54}{section.3.5}%
-\contentsline {section}{\numberline {3.6}چالش منابع محدود}{58}{section.3.6}%
-\contentsline {section}{\numberline {3.7}توابع ضرر مبتنی بر افزایش حاشیه}{61}{section.3.7}%
-\contentsline {section}{\numberline {3.8}نتیجه گیری}{64}{section.3.8}%
-\contentsline {chapter}{\numberline {4} روش پیشنهادی }{67}{chapter.4}%
-\contentsline {section}{\numberline {4.1}مقدمه}{68}{section.4.1}%
-\contentsline {section}{\numberline {4.2}پیش پردازش}{68}{section.4.2}%
-\contentsline {subsection}{\numberline {4.2.1}همسان سازی بافت‌نگار}{69}{subsection.4.2.1}%
-\contentsline {subsection}{\numberline {4.2.2}یافتن چهره}{69}{subsection.4.2.2}%
+\contentsline {chapter}{\numberline {3}مروری بر روش‌های ارائه شده برای مواجهه با شرایط کنترل نشده}{42}{chapter.3}%
+\contentsline {section}{\numberline {3.1}مقدمه}{43}{section.3.1}%
+\contentsline {section}{\numberline {3.2}چالش حالت}{43}{section.3.2}%
+\contentsline {section}{\numberline {3.3}چالش روشنایی}{51}{section.3.3}%
+\contentsline {section}{\numberline {3.4}چالش انسداد}{52}{section.3.4}%
+\contentsline {section}{\numberline {3.5}چالش کمبود تصاویر آموزشی}{55}{section.3.5}%
+\contentsline {section}{\numberline {3.6}چالش منابع محدود}{59}{section.3.6}%
+\contentsline {section}{\numberline {3.7}توابع ضرر مبتنی بر افزایش حاشیه}{62}{section.3.7}%
+\contentsline {section}{\numberline {3.8}نتیجه گیری}{66}{section.3.8}%
+\contentsline {chapter}{\numberline {4} روش پیشنهادی }{68}{chapter.4}%
+\contentsline {section}{\numberline {4.1}مقدمه}{69}{section.4.1}%
+\contentsline {section}{\numberline {4.2}پیش پردازش}{69}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}همسان سازی بافت‌نگار}{70}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.2}یافتن چهره}{70}{subsection.4.2.2}%
 \contentsline {subsection}{\numberline {4.2.3}تراز کردن تصویر}{70}{subsection.4.2.3}%
 \contentsline {section}{\numberline {4.3}دسته بندی}{71}{section.4.3}%
-\contentsline {subsection}{\numberline {4.3.1}مدل پيشنهادي پايه}{71}{subsection.4.3.1}%
-\contentsline {subsubsection}{\numberline {4.3.1.1}لايه كانولوشن}{73}{subsubsection.4.3.1.1}%
-\contentsline {subsubsection}{\numberline {4.3.1.2}لایه تنگنا و واحد باقیمانده}{73}{subsubsection.4.3.1.2}%
-\contentsline {subsubsection}{\numberline {4.3.1.3}واحد توجه}{74}{subsubsection.4.3.1.3}%
-\contentsline {subsection}{\numberline {4.3.2}تابع ضرر}{76}{subsection.4.3.2}%
+\contentsline {subsection}{\numberline {4.3.1}مدل پیشنهادی پایه}{72}{subsection.4.3.1}%
+\contentsline {subsubsection}{\numberline {4.3.1.1}لایه كانولوشن}{73}{subsubsection.4.3.1.1}%
+\contentsline {subsubsection}{\numberline {4.3.1.2}لایه تنگنا و واحد باقیمانده}{74}{subsubsection.4.3.1.2}%
+\contentsline {subsubsection}{\numberline {4.3.1.3}واحد توجه}{75}{subsubsection.4.3.1.3}%
+\contentsline {subsection}{\numberline {4.3.2}تابع ضرر}{77}{subsection.4.3.2}%
 \contentsline {subsection}{\numberline {4.3.3}آموزش مدل و استخراج ویژگی}{78}{subsection.4.3.3}%
 \contentsline {subsubsection}{\numberline {4.3.3.1}دسته‌بندی}{79}{subsubsection.4.3.3.1}%
 \contentsline {section}{\numberline {4.4}فناوری های استفاده شده}{79}{section.4.4}%
