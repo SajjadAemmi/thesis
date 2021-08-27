@@ -37,9 +37,9 @@
 \contentsline {subsubsection}{\numberline {2.3.7.2} شبکه \lr {SplitNet}}{32}{subsubsection.2.3.7.2}%
 \contentsline {subsubsection}{\numberline {2.3.7.3} شبکه \lr {GoogLeNet}}{32}{subsubsection.2.3.7.3}%
 \contentsline {subsubsection}{\numberline {2.3.7.4} شبکه \lr {VGGFace}}{33}{subsubsection.2.3.7.4}%
-\contentsline {subsubsection}{\numberline {2.3.7.5}نقاط راهنما}{34}{subsubsection.2.3.7.5}%
+\contentsline {subsubsection}{\numberline {2.3.7.5}نقاط راهنما}{33}{subsubsection.2.3.7.5}%
 \contentsline {subsubsection}{\numberline {2.3.7.6}\lr {OpenFace}}{35}{subsubsection.2.3.7.6}%
-\contentsline {subsubsection}{\numberline {2.3.7.7} شبکه \lr {MobileNet}}{38}{subsubsection.2.3.7.7}%
+\contentsline {subsubsection}{\numberline {2.3.7.7} شبکه \lr {MobileNet}}{37}{subsubsection.2.3.7.7}%
 \contentsline {subsubsection}{\numberline {2.3.7.8}لایه توجه}{39}{subsubsection.2.3.7.8}%
 \contentsline {section}{\numberline {2.4}نتیجه گیری}{40}{section.2.4}%
 \contentsline {chapter}{\numberline {3}مروری بر روش‌های ارائه شده برای مواجهه با شرایط کنترل نشده}{42}{chapter.3}%
@@ -48,7 +48,7 @@
 \contentsline {section}{\numberline {3.3}چالش روشنایی}{51}{section.3.3}%
 \contentsline {section}{\numberline {3.4}چالش انسداد}{52}{section.3.4}%
 \contentsline {section}{\numberline {3.5}چالش کمبود تصاویر آموزشی}{55}{section.3.5}%
-\contentsline {section}{\numberline {3.6}چالش منابع محدود}{59}{section.3.6}%
+\contentsline {section}{\numberline {3.6}چالش منابع محدود}{60}{section.3.6}%
 \contentsline {section}{\numberline {3.7}توابع ضرر مبتنی بر افزایش حاشیه}{62}{section.3.7}%
 \contentsline {section}{\numberline {3.8}نتیجه گیری}{66}{section.3.8}%
 \contentsline {chapter}{\numberline {4} روش پیشنهادی }{68}{chapter.4}%
@@ -56,16 +56,16 @@
 \contentsline {section}{\numberline {4.2}پیش پردازش}{69}{section.4.2}%
 \contentsline {subsection}{\numberline {4.2.1}همسان سازی بافت‌نگار}{70}{subsection.4.2.1}%
 \contentsline {subsection}{\numberline {4.2.2}یافتن چهره}{70}{subsection.4.2.2}%
-\contentsline {subsection}{\numberline {4.2.3}تراز کردن تصویر}{70}{subsection.4.2.3}%
+\contentsline {subsection}{\numberline {4.2.3}تراز کردن تصویر}{71}{subsection.4.2.3}%
 \contentsline {section}{\numberline {4.3}دسته بندی}{71}{section.4.3}%
 \contentsline {subsection}{\numberline {4.3.1}مدل پیشنهادی پایه}{72}{subsection.4.3.1}%
 \contentsline {subsubsection}{\numberline {4.3.1.1}لایه كانولوشن}{73}{subsubsection.4.3.1.1}%
-\contentsline {subsubsection}{\numberline {4.3.1.2}لایه تنگنا و واحد باقیمانده}{74}{subsubsection.4.3.1.2}%
-\contentsline {subsubsection}{\numberline {4.3.1.3}واحد توجه}{75}{subsubsection.4.3.1.3}%
-\contentsline {subsection}{\numberline {4.3.2}تابع ضرر}{77}{subsection.4.3.2}%
+\contentsline {subsubsection}{\numberline {4.3.1.2}لایه تنگنا و واحد باقیمانده}{73}{subsubsection.4.3.1.2}%
+\contentsline {subsubsection}{\numberline {4.3.1.3}واحد توجه}{74}{subsubsection.4.3.1.3}%
+\contentsline {subsection}{\numberline {4.3.2}تابع ضرر}{76}{subsection.4.3.2}%
 \contentsline {subsection}{\numberline {4.3.3}آموزش مدل و استخراج ویژگی}{78}{subsection.4.3.3}%
-\contentsline {subsubsection}{\numberline {4.3.3.1}دسته‌بندی}{79}{subsubsection.4.3.3.1}%
-\contentsline {section}{\numberline {4.4}فناوری های استفاده شده}{79}{section.4.4}%
+\contentsline {subsubsection}{\numberline {4.3.3.1}دسته‌بندی}{78}{subsubsection.4.3.3.1}%
+\contentsline {section}{\numberline {4.4}فناوری‌های استفاده شده}{79}{section.4.4}%
 \contentsline {chapter}{\numberline {5}ارزیابی روش پیشنهادی}{80}{chapter.5}%
 \contentsline {section}{\numberline {5.1}مقدمه}{81}{section.5.1}%
 \contentsline {section}{\numberline {5.2}معیار ارزیابی}{81}{section.5.2}%
@@ -81,10 +81,12 @@
 \contentsline {subsubsection}{\numberline {5.3.2.4}مجموعه داده \lr {CFP}}{83}{subsubsection.5.3.2.4}%
 \contentsline {subsubsection}{\numberline {5.3.2.5}مجموعه داده \lr {CACD}}{84}{subsubsection.5.3.2.5}%
 \contentsline {subsubsection}{\numberline {5.3.2.6}مجموعه داده \lr {MegaFace}}{84}{subsubsection.5.3.2.6}%
-\contentsline {section}{\numberline {5.4}پیکربندی الگوریتم}{84}{section.5.4}%
+\contentsline {section}{\numberline {5.4}پیکربندی الگوریتم}{85}{section.5.4}%
 \contentsline {section}{\numberline {5.5}نتایج آزمون}{85}{section.5.5}%
-\contentsline {chapter}{\numberline {6}نتیجه‌گیری و پیشنهادات}{87}{chapter.6}%
-\contentsline {section}{\numberline {6.1}مقدمه}{88}{section.6.1}%
-\contentsline {section}{\numberline {6.2}بحث و نتيجه‌گيري}{88}{section.6.2}%
-\contentsline {section}{\numberline {6.3}پیشنهادات}{89}{section.6.3}%
-\contentsline {chapter}{منابع و مآخذ}{90}{chapter*.81}%
+\contentsline {subsection}{\numberline {5.5.1}دقت دسته بندی}{85}{subsection.5.5.1}%
+\contentsline {subsection}{\numberline {5.5.2}سرعت پاسخ‌دهی}{86}{subsection.5.5.2}%
+\contentsline {chapter}{\numberline {6}نتیجه‌گیری و پیشنهادات}{88}{chapter.6}%
+\contentsline {section}{\numberline {6.1}مقدمه}{89}{section.6.1}%
+\contentsline {section}{\numberline {6.2}بحث و نتیجه‌گیری}{89}{section.6.2}%
+\contentsline {section}{\numberline {6.3}پیشنهادات}{90}{section.6.3}%
+\contentsline {chapter}{منابع و مآخذ}{91}{chapter*.83}%

@@ -1,12 +1,14 @@
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {2.1}{\ignorespaces مقایسه شبکه عصبی موبایل نت با گوگل نت و VGG.\relax }}{39}{table.caption.43}%
+\contentsline {table}{\numberline {2.1}{\ignorespaces مقایسه شبکه عصبی موبایل نت با گوگل نت و VGG.\relax }}{38}{table.caption.43}%
 \addvspace {10\p@ }
 \contentsline {table}{\numberline {3.1}{\ignorespaces خلاصه ای از روش های مقابله با شرایط کنترل نشده\relax }}{43}{table.caption.47}%
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {4.1}{\ignorespaces مقایسه و ‌ارزیابی برخی از معماری شبکه های رایج در زمینه بینایی ماشین\relax }}{72}{table.caption.75}%
+\contentsline {table}{\numberline {4.1}{\ignorespaces مقایسه و ‌ارزیابی برخی از معماری شبکه های رایج در زمینه بینایی ماشین\relax }}{72}{table.caption.74}%
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {5.1}{\ignorespaces مجموعه‌داده های ارزیابی رایج در زمینه بازشناسی چهره\relax }}{84}{table.caption.78}%
-\contentsline {table}{\numberline {5.2}{\ignorespaces دقت معماری های مختلف بر روی مجموعه‌داده های ارزیابی رایج در زمینه بازشناسی چهره\relax }}{85}{table.caption.79}%
-\contentsline {table}{\numberline {5.3}{\ignorespaces سرعت معماری های مختلف بر روی مجموعه‌داده های ارزیابی رایج در زمینه بازشناسی چهره\relax }}{85}{table.caption.80}%
+\contentsline {table}{\numberline {5.1}{\ignorespaces مجموعه‌داده های ارزیابی رایج در زمینه بازشناسی چهره\relax }}{84}{table.caption.77}%
+\contentsline {table}{\numberline {5.2}{\ignorespaces دقت معماری‌های مختلف بر روی مجموعه‌داده‌های ارزیابی رایج در زمینه بازشناسی چهره\relax }}{85}{table.caption.78}%
+\contentsline {table}{\numberline {5.3}{\ignorespaces دقت بر روی مجموعه‌داده \lr {LFW} بر حسب تعداد متفاوت دسته‌ها\relax }}{86}{table.caption.79}%
+\contentsline {table}{\numberline {5.4}{\ignorespaces پیچیدگی شبکه و تعداد پارامترهای معماری های مختلف بر روی مجموعه‌داده ImageNet\relax }}{87}{table.caption.81}%
+\contentsline {table}{\numberline {5.5}{\ignorespaces نتایج زمانی بر روی \lr {Raspberry Pi} به ازای هر فریم\relax }}{87}{table.caption.82}%
 \addvspace {10\p@ }

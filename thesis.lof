@@ -55,7 +55,7 @@
 \contentsline {figure}{\numberline {3.14}{\ignorespaces تولید تصاویر چهره از زوایای مختلف با استفاده از درونیابی بردارهای تصاویر چپ و راست \cite {radford2016unsupervised}.\relax }}{57}{figure.caption.61}%
 \contentsline {figure}{\numberline {3.15}{\ignorespaces تولید تصویر با وضوح بالا از روی تصاویر با وضوح پایین. موارد با حاشیه قرمز خروجی اشتباه هستند \cite {BANERJEE2018246}.\relax }}{58}{figure.caption.62}%
 \contentsline {figure}{\numberline {3.16}{\ignorespaces تصاویر هر ردیف و هر ستون دارای برخی ویژگی‌های دیداری مشابه هستند \cite {karras2019stylebased}.\relax }}{59}{figure.caption.63}%
-\contentsline {figure}{\numberline {3.17}{\ignorespaces ساختار شبکه \lr {AD GAN} - شبکه \lr {GN} برای رو به رو سازی چهره و شبکه \lr {GE} برای تولید چهره از زوایای مختلف \cite {8603840}.\relax }}{60}{figure.caption.64}%
+\contentsline {figure}{\numberline {3.17}{\ignorespaces ساختار شبکه \lr {AD GAN} - شبکه \lr {GN} برای رو به رو سازی چهره و شبکه \lr {GE} برای تولید چهره از زوایای مختلف \cite {8603840}.\relax }}{59}{figure.caption.64}%
 \contentsline {figure}{\numberline {3.18}{\ignorespaces معماری \lr {MOCHA}: دستگاه های تلفن همراه از طریق اتصال چندگانه با \lr {cloudlet} و ابر ارتباط برقرار می‌کنند \cite {6249269}.\relax }}{60}{figure.caption.65}%
 \contentsline {figure}{\numberline {3.19}{\ignorespaces نمای کلی سامانه تشخیص چهره مبتنی بر رایانش ابری \cite {HU2018582}.\relax }}{61}{figure.caption.66}%
 \contentsline {figure}{\numberline {3.20}{\ignorespaces چارچوب سامانه شناسایی چهره مبتنی بر رایانش ابری \cite {HU2018582}.\relax }}{62}{figure.caption.67}%
@@ -63,11 +63,11 @@
 \contentsline {figure}{\numberline {3.22}{\ignorespaces خط لوله ساز و کار تابع ضرر arcface \cite {deng2019arcface}.\relax }}{65}{figure.caption.69}%
 \contentsline {figure}{\numberline {3.23}{\ignorespaces تابع ضرر ArcFace در مقایسه با توابع ضرر مشهور دیگر \cite {deng2019arcface}.\relax }}{65}{figure.caption.70}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {4.1}{\ignorespaces نمای کلی از روش پیشنهادی \cite {ref1}.\relax }}{69}{figure.caption.71}%
-\contentsline {figure}{\numberline {4.2}{\ignorespaces نتیجه اعمال یکسان سازی بافت‌نگار بر روی یک تصویر تاریک. تصاویر ورودی در سمت چپ و خروجی در سمت راست می‌باشند \cite {s18092995}.\relax }}{70}{figure.caption.72}%
-\contentsline {figure}{\numberline {4.3}{\ignorespaces نمونه از خروجی الگوریتم یافتن چهره retina \cite {deng2019retinaface}.\relax }}{71}{figure.caption.73}%
-\contentsline {figure}{\numberline {4.4}{\ignorespaces به منظور افزایش دقت شبکه، پس از یافتن چهره باید آن را تراز کرد.\relax }}{72}{figure.caption.74}%
-\contentsline {figure}{\numberline {4.5}{\ignorespaces مدل پایه مبتنی بر لایه‌های كانولوشن و لایه توجه.\relax }}{73}{figure.caption.76}%
-\contentsline {figure}{\numberline {4.6}{\ignorespaces یک لایه تنگنا با واحد باقیمانده که با استفاده از کانولوشن های 1×1 اقدام به کاهش ابعاد نگاشت ویژگی می‌کند.\relax }}{74}{figure.caption.77}%
+\contentsline {figure}{\numberline {4.1}{\ignorespaces نمای کلی از روش پیشنهادی.\relax }}{69}{figure.caption.71}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces نمونه از خروجی الگوریتم یافتن چهره retina \cite {deng2019retinaface}.\relax }}{70}{figure.caption.72}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces به منظور افزایش دقت شبکه، پس از یافتن چهره باید آن را تراز کرد.\relax }}{71}{figure.caption.73}%
+\contentsline {figure}{\numberline {4.4}{\ignorespaces مدل پایه مبتنی بر لایه‌های كانولوشن و لایه توجه.\relax }}{73}{figure.caption.75}%
+\contentsline {figure}{\numberline {4.5}{\ignorespaces یک لایه تنگنا با واحد باقیمانده که با استفاده از کانولوشن های 1×1 اقدام به کاهش ابعاد نگاشت ویژگی می‌کند.\relax }}{74}{figure.caption.76}%
 \addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces دقت روش پیشنهادی در مقایسه با روش \lr {ArcFace}\relax }}{86}{figure.caption.80}%
 \addvspace {10\p@ }

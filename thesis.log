@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2021.8.20)  23 AUG 2021 21:20
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2021.8.20)  27 AUG 2021 22:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1752,11 +1752,14 @@ Underfull \vbox (badness 1377) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [3]
-[4])
+Underfull \vbox (badness 1708) has occurred while \output is active []
+
+ [4])
 \tf@toc=\write10
 \openout10 = `thesis.toc'.
 
- [5] (./thesis.lot)
+
+[5] (./thesis.lot)
 \tf@lot=\write11
 \openout11 = `thesis.lot'.
 
@@ -1782,15 +1785,12 @@ n/10.95 و ابر ارتباط برقرار می‌کنند[][][]
 
 Underfull \vbox (badness 1107) has occurred while \output is active []
 
- [9]
-
-LaTeX Warning: Citation `ref1' on page د undefined on input line 66.
-
-)
+ [9])
 \tf@lof=\write12
 \openout12 = `thesis.lof'.
 
- [10]
+
+[10]
 \openout2 = `symbols.aux'.
 
  (./symbols.tex [11
@@ -1852,7 +1852,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 File: figures/image1-4.png Graphic file (type bmp)
 <figures/image1-4.png>
 
-Underfull \vbox (badness 2608) has occurred while \output is active []
+Underfull \vbox (badness 4279) has occurred while \output is active []
 
  [8]
 File: figures/image1-5.png Graphic file (type bmp)
@@ -1870,9 +1870,6 @@ File: figures/image1-8-a.jpg Graphic file (type bmp)
 <figures/image1-8-a.jpg>
 File: figures/image1-8-b.jpg Graphic file (type bmp)
 <figures/image1-8-b.jpg>
-
-Underfull \vbox (badness 3536) has occurred while \output is active []
-
  [10]
 File: figures/image1-9.png Graphic file (type bmp)
 <figures/image1-9.png>
@@ -1914,7 +1911,7 @@ File: figures/image2-5.png Graphic file (type bmp)
 File: figures/image2-6.png Graphic file (type bmp)
 <figures/image2-6.png>
 
-Underfull \vbox (badness 2600) has occurred while \output is active []
+Underfull \vbox (badness 4266) has occurred while \output is active []
 
  [19]
 File: figures/image2-10.png Graphic file (type bmp)
@@ -1958,7 +1955,10 @@ File: figures/image2-18.png Graphic file (type bmp)
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[25]
+
+Underfull \vbox (badness 1158) has occurred while \output is active []
+
+ [25]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [26]
@@ -1975,7 +1975,7 @@ Overfull \hbox (1.21906pt too wide) in paragraph at lines 277--289
  []
 
 [28]
-Underfull \vbox (badness 6510) has occurred while \output is active []
+Underfull \vbox (badness 7133) has occurred while \output is active []
 
  [29]
 File: figures/image2-21.png Graphic file (type bmp)
@@ -2012,9 +2012,6 @@ File: figures/image2-24.png Graphic file (type bmp)
 [32]
 File: figures/image2-27.png Graphic file (type bmp)
 <figures/image2-27.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
  [33]
 File: figures/image2-28.png Graphic file (type bmp)
 <figures/image2-28.png>
@@ -2022,8 +2019,7 @@ File: figures/image2-29.png Graphic file (type bmp)
 <figures/image2-29.png>
 Missing character: There is no ⁡ in font cmr10!
 Missing character: There is no ⁡ in font cmr10!
-
-[34]
+ [34]
 Missing character: There is no ‖ in font cmr10!
 Missing character: There is no ̂ in font cmmi10!
 Missing character: There is no ‖ in font cmr10!
@@ -2042,21 +2038,24 @@ File: figures/image3-3.png Graphic file (type bmp)
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[36]
 File: figures/image3-4.png Graphic file (type bmp)
 <figures/image3-4.png>
 
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [37]
+ [36]
+[37]
 File: figures/image2-31.png Graphic file (type bmp)
 <figures/image2-31.png>
-
-Underfull \vbox (badness 2119) has occurred while \output is active []
-
- [38]
 File: figures/table2-2.jpg Graphic file (type bmp)
 <figures/table2-2.jpg>
+
+Underfull \vbox (badness 7415) has occurred while \output is active []
+
+ [38]
 File: figures/image2-32.png Graphic file (type bmp)
 <figures/image2-32.png>
 
@@ -2071,10 +2070,12 @@ oman10-regular(0)/m/n/10.95 MobileNetV2[] \TU/IRNazanin(0)/m/n/10.95 و []\TU/lm
 roman10-regular(0)/m/n/10.95 SqueezeNet[][]
  []
 
-[40]
 File: figures/image2-34.png Graphic file (type bmp)
 <figures/image2-34.png>
-) [41]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+) [40] [41]
 \openout2 = `chapter3.aux'.
 
  (./chapter3.tex
@@ -2124,7 +2125,7 @@ Missing character: There is no δ in font cmmi10!
 File: figures/image3-14.png Graphic file (type bmp)
 <figures/image3-14.png>
 
-Underfull \vbox (badness 1286) has occurred while \output is active []
+Underfull \vbox (badness 1642) has occurred while \output is active []
 
  [54]
 File: figures/image3-15.png Graphic file (type bmp)
@@ -2145,9 +2146,6 @@ File: figures/image3-17.png Graphic file (type bmp)
 [56]
 File: figures/image3-18.png Graphic file (type bmp)
 <figures/image3-18.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
  [57]
 File: figures/image3-19.png Graphic file (type bmp)
 <figures/image3-19.png>
@@ -2157,24 +2155,23 @@ File: figures/image3-20.png Graphic file (type bmp)
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[58]
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [58]
 File: figures/image3-21.png Graphic file (type bmp)
 <figures/image3-21.png>
 
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[59]
+ [59]
 File: figures/image3-22.png Graphic file (type bmp)
 <figures/image3-22.png>
 
-Underfull \vbox (badness 1360) has occurred while \output is active []
-
- [60]
+[60]
 File: figures/image3-23.png Graphic file (type bmp)
 <figures/image3-23.png>
-
-[61]
+ [61]
 File: figures/image3-24.png Graphic file (type bmp)
 <figures/image3-24.png>
 Missing character: There is no θ in font cmmi10!
@@ -2198,7 +2195,7 @@ Overfull \hbox (2.84123pt too wide) in paragraph at lines 526--527
  []
 
 
-Underfull \vbox (badness 1038) has occurred while \output is active []
+Underfull \vbox (badness 1400) has occurred while \output is active []
 
  [65]
 [66]) [67]
@@ -2211,64 +2208,52 @@ Underfull \vbox (badness 1038) has occurred while \output is active []
 
 
 ]
-File: figures/image1-1.png Graphic file (type bmp)
-<figures/image1-1.png>
+
+Package caption Warning: \label without proper reference on input line 7.
+See the caption package documentation for explanation.
 
 
-LaTeX Warning: Citation `ref1' on page 69 undefined on input line 8.
+LaTeX Warning: Reference `image4-1' on page 69 undefined on input line 4.
 
-
-LaTeX Warning: Citation `ref1' on page 69 undefined on input line 8.
-
+File: figures/image4-1.png Graphic file (type bmp)
+<figures/image4-1.png>
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [69]
-File: figures/image4-2.png Graphic file (type bmp)
-<figures/image4-2.png>
 File: figures/image4-3.jpg Graphic file (type bmp)
 <figures/image4-3.jpg>
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
 File: figures/image4-4.png Graphic file (type bmp)
 <figures/image4-4.png>
-[70]
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
+ [70]
 
-Package caption Warning: \label without proper reference on input line 49.
+Package caption Warning: \label without proper reference on input line 44.
 See the caption package documentation for explanation.
 
 
-LaTeX Warning: Reference `table4-1' on page 71 undefined on input line 47.
+LaTeX Warning: Reference `table4-1' on page 71 undefined on input line 41.
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [71]
-Underfull \vbox (badness 2057) has occurred while \output is active []
-
- [72]
 File: figures/image4-5.png Graphic file (type bmp)
 <figures/image4-5.png>
 
-[73]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[72] [73]
 File: figures/image4-6.png Graphic file (type bmp)
 <figures/image4-6.png>
+ [74] [75] [76] [77]
+Underfull \vbox (badness 5119) has occurred while \output is active []
 
-Underfull \vbox (badness 6995) has occurred while \output is active []
-
- [74]
-Underfull \vbox (badness 5607) has occurred while \output is active []
-
- [75]
-Underfull \vbox (badness 1400) has occurred while \output is active []
-
- [76]
-[77] [78]) [79]
+ [78])
+[79]
 \openout2 = `chapter5.aux'.
 
  (./chapter5.tex
@@ -2277,10 +2262,7 @@ Underfull \vbox (badness 1400) has occurred while \output is active []
 
 
 
-]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [81]
+] [81]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [82]
@@ -2288,65 +2270,103 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [83]
 
-Package caption Warning: \label without proper reference on input line 50.
+Package caption Warning: \label without proper reference on input line 58.
 See the caption package documentation for explanation.
 
 
-LaTeX Warning: Reference `table:5-1' on page 84 undefined on input line 47.
+LaTeX Warning: Reference `table5-1' on page 84 undefined on input line 55.
 
-[84]
 
-Package caption Warning: \label without proper reference on input line 98.
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [84]
+
+Package caption Warning: \label without proper reference on input line 107.
 See the caption package documentation for explanation.
 
 
-LaTeX Warning: Reference `table:5-2' on page 85 undefined on input line 95.
+LaTeX Warning: Reference `table5-2' on page 85 undefined on input line 104.
 
 
-Package caption Warning: \label without proper reference on input line 128.
+Package caption Warning: \label without proper reference on input line 136.
 See the caption package documentation for explanation.
 
 
-LaTeX Warning: Reference `table:5-3' on page 85 undefined on input line 125.
+LaTeX Warning: Reference `table5-3' on page 85 undefined on input line 133.
 
-) [85] [86]
+
+Underfull \vbox (badness 1527) has occurred while \output is active []
+
+ [85]
+
+Package caption Warning: \label without proper reference on input line 136.
+See the caption package documentation for explanation.
+
+
+LaTeX Warning: Reference `table5-3' on page 86 undefined on input line 177.
+
+
+Package caption Warning: \label without proper reference on input line 180.
+See the caption package documentation for explanation.
+
+
+LaTeX Warning: Reference `image5-1' on page 86 undefined on input line 177.
+
+File: figures/image5-1.png Graphic file (type bmp)
+<figures/image5-1.png>
+
+Package caption Warning: \label without proper reference on input line 190.
+See the caption package documentation for explanation.
+
+
+LaTeX Warning: Reference `table5-4' on page 86 undefined on input line 187.
+
+[86]
+
+Package caption Warning: \label without proper reference on input line 237.
+See the caption package documentation for explanation.
+
+
+LaTeX Warning: Reference `table5-5' on page 87 undefined on input line 234.
+
+) [87]
 \openout2 = `chapter6.aux'.
 
  (./chapter6.tex
 فصل 6.
-[87
+[88
 
 
 
 ]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [88])
-[89] (./thesis.bbl
+ [89])
+[90] (./thesis.bbl
 Underfull \hbox (badness 1184) in paragraph at lines 9--12
 [][]\TU/lmroman10-regular(0)/m/n/10.95 “Smart glasses led the blind,” [][]$[][]
 [][][] [] [] [] [][][] [] [][][][][][][][][][] [] [][][] [] [][][][][][][][][][
 ][][][] []$[][]
  []
 
-[90
+[91
 
 
-] [91]
+] [92]
 Underfull \hbox (badness 1603) in paragraph at lines 351--354
 [][]\TU/lmroman10-regular(0)/m/n/10.95 “Evaluation of human biometric features,
 ” [][]$[][][][][] [] [] [] [][] [] [][][][][][][][][] [] [][][] [] [][][][] []$
 [][]
  []
 
-[92]
+[93]
 Underfull \hbox (badness 10000) in paragraph at lines 417--420
 [][]\TU/lmroman10-regular(0)/m/n/10.95 “Facial expression recognition,” [][]$[]
 [][][] [] [] [] [][][] [] [][][] [] [][] [] [][][][][][][][][] [] [][][][][][][
 ][] []$[][]
  []
 
-[93]
+[94]
 Underfull \hbox (badness 10000) in paragraph at lines 565--568
 [][]\TU/lmroman10-regular(0)/m/n/10.95 “Ms-celeb-1m,” [][]$[][][][][] [] [] [] 
 [][][] [] [][][][][][][][][] [] [][][] [] [][][][][][] [] [][][][][][][][] [] [
@@ -2385,7 +2405,7 @@ x) (./chapter4.aux) (./chapter5.aux)
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 105.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 105.
 Package rerunfilecheck Info: File `thesis.out' has not changed.
-(rerunfilecheck)             Checksum: CFF6CD9FA49680684D0282B067933E9D;5508.
+(rerunfilecheck)             Checksum: 54A2732C7AED868C2C50A469A1CC3F27;5668.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
@@ -2395,12 +2415,12 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 34989 strings out of 479819
- 701686 string characters out of 5895846
- 1077079 words of memory out of 5000000
- 51286 multiletter control sequences out of 15000+600000
- 542426 words of font info for 122 fonts, out of 8000000 for 9000
+ 35032 strings out of 479819
+ 702487 string characters out of 5895846
+ 1076057 words of memory out of 5000000
+ 51326 multiletter control sequences out of 15000+600000
+ 542450 words of font info for 125 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 67i,25n,83p,4817b,593s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 67i,25n,83p,4817b,629s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on thesis.pdf (115 pages).
+Output written on thesis.pdf (116 pages).

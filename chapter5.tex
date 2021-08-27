@@ -56,8 +56,8 @@ Accuracy Density = \frac{Accuracy}{Mparams}
 
 \begin{table}[ht]
 \label{table5-1}
-\begin{center}
 \caption{مجموعه‌داده های ارزیابی رایج در زمینه بازشناسی چهره}
+\begin{center}
 \resizebox{\textwidth}{!}
 {
 \begin{tabular}{|c|c|c|c|}
@@ -106,26 +106,26 @@ Accuracy Density = \frac{Accuracy}{Mparams}
 \begin{table}[ht]
 	\label{table5-2}
 	\begin{center}
-		\caption{دقت معماری های مختلف بر روی مجموعه‌داده های ارزیابی رایج در زمینه بازشناسی چهره}
-		\resizebox{\textwidth}{!}
-		{
-			\begin{tabular}{|c|c|c|c|c|c|c|c|}
-				\hline 
-				\lr{Model} & \lr{Custom Dataset} & \lr{LFW} & \lr{AgeDB-30} & \lr{MegaFace}  & \lr{Mnist} & \lr{Cfar100} & \lr{ImageNet}
-				\\
-				\hline 
-				\hline
-				\lr{ArcFace} & \lr{99.70} & \lr{99.50} & \lr{95.91 &} \lr{93.09} & & &  
-				\\ 
-				\hline
-				\lr{MobileNetV3} & \lr{92.50} & \lr{98.10} & \lr{93.05} & \lr{90.59} & \lr{99.7} & \lr{80.01} & \lr{75.2}
-				\\ 
-				\hline
-				\lr{SA-MobileNetV3} & \lr{99.80} & \lr{99.65} & \lr{96.02} & \lr{93.50} & \lr{99.9} & \lr{82.47} & \lr{79.8}
-				\\
-				\hline
-			\end{tabular}
-		}
+	\caption{دقت معماری‌های مختلف بر روی مجموعه‌داده‌های ارزیابی رایج در زمینه بازشناسی چهره}
+	\resizebox{\textwidth}{!}
+	{
+		\begin{tabular}{|c|c|c|c|c|c|c|c|}
+		\hline 
+		\lr{Model} & \lr{Custom Dataset} & \lr{LFW} & \lr{AgeDB-30} & \lr{MegaFace}  & \lr{Mnist} & \lr{Cfar100} & \lr{ImageNet}
+		\\
+		\hline 
+		\hline
+		\lr{ArcFace} & \lr{99.70} & \lr{99.50} & \lr{95.91} & \lr{93.09} & & &  
+		\\ 
+		\hline
+		\lr{MobileNetV3} & \lr{92.50} & \lr{98.10} & \lr{93.05} & \lr{90.59} & \lr{99.7} & \lr{80.01} & \lr{75.2}
+		\\ 
+		\hline
+		\lr{SA-MobileNetV3} & \lr{99.80} & \lr{99.65} & \lr{96.02} & \lr{93.50} & \lr{99.9} & \lr{82.47} & \lr{79.8}
+		\\
+		\hline
+		\end{tabular}
+	}
 	\end{center} 
 \end{table} 
 
@@ -135,29 +135,53 @@ Accuracy Density = \frac{Accuracy}{Mparams}
 \begin{table}[ht]
 	\label{table5-3}
 	\begin{center}
-		\caption{دقت معماری های مختلف بر روی مجموعه‌داده های ارزیابی رایج در زمینه بازشناسی چهره}
+		\caption{دقت بر روی مجموعه‌داده \lr{LFW} بر حسب تعداد متفاوت دسته‌ها}
 		\resizebox{\textwidth}{!}
 		{
-			\begin{tabular}{|c|c|c|c|c|c|c|c|}
+			\begin{tabular}{|c|c|c|}
 				\hline 
-				\lr{Model} & \lr{Custom Dataset} & \lr{LFW} & \lr{AgeDB-30} & \lr{MegaFace}  & \lr{Mnist} & \lr{Cfar100} & \lr{ImageNet}
+				\lr{Number of identites} & \lr{Accuracy (SA-MobileNetV3)} & \lr{Accuracy (Arcface-Mobilenet)}
 				\\
 				\hline 
 				\hline
-				\lr{ArcFace} & \lr{99.70} & \lr{99.50} & \lr{95.91 &} \lr{93.09} & & &  
+				\lr{32} & \lr{100} & \lr{100}
 				\\ 
 				\hline
-				\lr{MobileNetV3} & \lr{92.50} & \lr{98.10} & \lr{93.05} & \lr{90.59} & \lr{99.7} & \lr{80.01} & \lr{75.2}
+				\lr{64} & \lr{100} & \lr{100}
 				\\ 
 				\hline
-				\lr{SA-MobileNetV3} & \lr{99.80} & \lr{99.65} & \lr{96.02} & \lr{93.50} & \lr{99.9} & \lr{82.47} & \lr{79.8}
-				\\
+				\lr{128} & \lr{100} & \lr{99.97}
+				\\ 
+				\hline
+				\lr{256} & \lr{99.95} & \lr{99.94}
+				\\ 
+				\hline
+				\lr{512} & \lr{99.89} & \lr{99.89}
+				\\ 
+				\hline
+				\lr{1024} & \lr{99.86} & \lr{99.86}
+				\\ 
+				\hline
+				\lr{2048} & \lr{99.72} & \lr{99.69}
+				\\ 
+				\hline
+				\lr{5016} & \lr{99.65} & \lr{99.50}
+				\\ 
 				\hline
 			\end{tabular}
 		}
 	\end{center} 
 \end{table} 
 
+\noindent
+مقادیر بدست آمده در جدول  \ref{table5-3} را به صورت منحنی بر روی نمودار در شکل \ref{image5-1} رسم نمودیم. همانطور که مشاهده می‌شود، روش پیشنهادی در مقایسه با روش ArcFace از بهبود نسبی برخوردار می‌باشد.
+
+\begin{figure}[h]
+	\label{image5-1}
+	\centering
+  	\includegraphics[width=0.5\textwidth]{image5-1}
+  	\caption{دقت روش پیشنهادی در مقایسه با روش \lr{ArcFace}}
+\end{figure}
 
 \subsection{سرعت پاسخ‌دهی}
 با توجه به اینکه هدف اصلی روش پیشنهادی، اجرا بر روی تلفن همراه هوشمند می‌باشد، علاوه بر ارزیابی دقت دسته بندی، از لحاظ پیچیدگی شبکه، تعداد پارامترها، سرعت پاسخ‌دهی و زمان اجرای عملیات پیشرو \LTRfootnote{Forward} نیز روش پیشنهادی را در مقایسه با سایر روش‌ها سنجیده‌ایم. در جدول \ref{table5-4} نتایج حاصل از محاسبه پیچیدگی شبکه و تعداد پارامترها را در معماری‌های مختلف بر روی مجموعه داده‌ ImageNet مشاهده می‌کنید.
@@ -193,7 +217,7 @@ Accuracy Density = \frac{Accuracy}{Mparams}
 \end{table} 
 
 \noindent
-برای مقایسه زمان اجرای الگوریتم روش پیشنهادی با روش ArcFace، آزمایش سرعت را بر روی دستگاه \lr{Raspberry Pi} اجرا کردیم. مشخصات سخت افزاری این دستگاه به شرچ زیر می‌باشد:
+برای مقایسه زمان اجرای الگوریتم روش پیشنهادی با روش ArcFace آزمایش سرعت را بر روی دستگاه \lr{Raspberry Pi} اجرا کردیم. مشخصات سخت افزاری این دستگاه به شرچ زیر می‌باشد:
 
 \begin{itemize}
 	\item
@@ -212,46 +236,30 @@ Accuracy Density = \frac{Accuracy}{Mparams}
 \begin{table}[ht]
 	\label{table5-5}
 	\begin{center}
-		\caption{پیچیدگی شبکه و تعداد پارامترهای معماری های مختلف بر روی مجموعه‌داده ImageNet}
+		\caption{نتایج زمانی بر روی \lr{Raspberry Pi} به ازای هر فریم}
 		\resizebox{\textwidth}{!}
 		{
-			\begin{tabular}{|c|c|c|c|c|c|c|c|}
+			\begin{tabular}{|c|c|c|}
 				\hline 
-				
-				Model & \lr{Accuracy (imageNet)} & \lr{Number of Parameters} & \lr{Accuracy density} & \lr{Madds}   
+				\lr{Model}
+				& 
+				 زمان اجرای کل خط لوله
+				\lr{Detection + Alignment + Recognition}
+				& 
+				 فقط زمان اجرای شبکه
+				\lr{recognition}   
 				\\
 				\hline 
 				\hline
-				\lr{ResNet50} & \lr{83.0} & \lr{25 M} & \lr{3.32} & \lr{8220 M}
+				\lr{SA-MobileNetV3} & \lr{6 fps} & \lr{25 fps}
 				\\
 				\hline 
-				\lr{MobileNetV2} & \lr{72.56} & \lr{3.5 M} & \lr{20.73} & \lr{627.69 M}
+				\lr{Arcface-Mobilenet} & \lr{5 fps} & \lr{20 fps}
 				\\
-				\hline
-				\lr{MobileNetV3} & \lr{75.2} & \lr{5.4 M} & \lr{13.92} & \lr{448.69 M}
-				\\
-				\hline
-				\lr{SA-MobileNetV3} & \lr{79.8} & \lr{3.8 M} & \lr{21.06} & \lr{445.68 M}
-				\\
-				\hline
-				
+				\hline				
 		\end{tabular}}
 	\end{center} 
 \end{table}  
-
-%\begin{figure}[h]
-%\centering
-%  \includegraphics[scale=1]{image3-1}
-%  \caption{منحنی FROC مقالات در مقایسه با روش پیشنهادی برای مجموعه داده E-Ophtha-MA \cite{ref1}.}
-%  \label{image5-1}
-%\end{figure}
-%
-%\begin{figure}[h]
-%\centering
-%  \includegraphics[scale=1]{image3-2}
-%  \caption{منحنی FROC مقالات در مقایسه با روش پیشنهادی برای مجموعه داده DIARETDB1 \cite{ref1}.}
-%  \label{image5-2}
-%\end{figure}
 
 \noindent
 با توجه به نتایجی که در جدول‌ها و شکل‌ها ارائه شد، متوجه می‌شویم که روش پیشنهادی ما از لحاظ دقت دسته بندی و سرعت پردازش نسبت به سایر روش‌های جدید در این زمینه بهتر عمل می‌نماید. ما محدودیت منابع تلفن همراه را در نظر گرفتیم و بر مبنای آن روشی ارائه دادیم که علاوه بر پیچیدگی کم و سرعت مناسب، دارای دقت دسته بندی بسیار بالایی باشد. معماری شبکه عصبی ارائه شده در این پژوهش، علاوه بر مسئله تشخیص چهره، می‌تواند در سایر مسائل و مجموعه داده‌های عمومی نیز کارامد باشد.
