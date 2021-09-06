@@ -5,6 +5,15 @@
 
 \begin{LTRbibitems}
 \resetlatinfont
+\bibitem{facial_recognition_block_diagram}
+``How facial recognition algorithm works,''
+  \url{https://becominghuman.ai/how-facial-recognition-algorithm-works-1c0809309fbb}.
+\newblock Accessed: 2021-04-24.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
 \bibitem{Glasses}
 ``Smart glasses led the blind,''
   \url{https://www.neotaos365.top/ProductDetail.aspx?iid=246782895&pr=58.99}.
@@ -132,6 +141,15 @@ X.~Luan, B.~Fang, L.~Liu, W.~Yang, and J.~Qian, ``Extracting sparse error of
 
 \begin{LTRbibitems}
 \resetlatinfont
+\bibitem{cnn}
+``Facial expression recognition,''
+  \url{http://www.sfu.ca/~llockhar/projects/facial-expression-recognition}.
+\newblock Accessed: 2021-04-24.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
 \bibitem{7298682}
 F.~{Schroff}, D.~{Kalenichenko}, and J.~{Philbin}, ``Facenet: A unified
   embedding for face recognition and clustering,''  in {\em 2015 IEEE
@@ -177,6 +195,23 @@ V.~{Kazemi} and J.~{Sullivan}, ``One millisecond face alignment with an
 
 \begin{LTRbibitems}
 \resetlatinfont
+\bibitem{wu2016facial}
+Y.~Wu, T.~Hassner, K.~Kim, G.~Medioni, and P.~Natarajan, ``Facial landmark
+  detection with tweaked convolutional neural networks,'' 2016.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{amos2016openface}
+B.~Amos, B.~Ludwiczuk, and M.~Satyanarayanan, ``Openface: A general-purpose
+  face recognition library with mobile applications,''  tech. rep.,
+  CMU-CS-16-118, CMU School of Computer Science, 2016.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
 \bibitem{howard2017mobilenets}
 A.~G. Howard, M.~Zhu, B.~Chen, D.~Kalenichenko, W.~Wang, T.~Weyand,
   M.~Andreetto, and H.~Adam, ``Mobilenets: Efficient convolutional neural
@@ -203,24 +238,6 @@ S.~Bianco, R.~Cadene, L.~Celona, and P.~Napoletano, ``Benchmark analysis of
 
 \begin{LTRbibitems}
 \resetlatinfont
-\bibitem{Masi2018DeepFR}
-I.~Masi, Y.~Wu, T.~Hassner, and P.~Natarajan, ``Deep face recognition: A
-  survey,'' {\em 2018 31st SIBGRAPI Conference on Graphics, Patterns and Images
-  (SIBGRAPI)},  pp.471--478, 2018.
-
-\end{LTRbibitems}
-
-\begin{LTRbibitems}
-\resetlatinfont
-\bibitem{amos2016openface}
-B.~Amos, B.~Ludwiczuk, and M.~Satyanarayanan, ``Openface: A general-purpose
-  face recognition library with mobile applications,''  tech. rep.,
-  CMU-CS-16-118, CMU School of Computer Science, 2016.
-
-\end{LTRbibitems}
-
-\begin{LTRbibitems}
-\resetlatinfont
 \bibitem{HAGHIGHAT201623}
 M.~Haghighat, M.~Abdel-Mottaleb, and W.~Alhalabi, ``Fully automatic face
   normalization and single sample face recognition in unconstrained
@@ -235,15 +252,6 @@ M.~Haghighat, M.~Abdel-Mottaleb, and W.~Alhalabi, ``Fully automatic face
 T.~{Zhang}, Q.~{Dong}, and Z.~{Hu}, ``Pursuing face identity from view-specific
   representation to view-invariant representation,''  in {\em 2016 IEEE
   International Conference on Image Processing (ICIP)},  pp.3244--3248, 2016.
-
-\end{LTRbibitems}
-
-\begin{LTRbibitems}
-\resetlatinfont
-\bibitem{SAVCHENKO2018170}
-A.~V. Savchenko and N.~S. Belova, ``Unconstrained face identification using
-  maximum likelihood of distances between deep off-the-shelf features,'' {\em
-  Expert Systems with Applications},  vol.108,  pp.170--182, 2018.
 
 \end{LTRbibitems}
 
@@ -337,16 +345,6 @@ J.~Deng, J.~Guo, N.~Xue, and S.~Zafeiriou, ``Arcface: Additive angular margin
 
 \begin{LTRbibitems}
 \resetlatinfont
-\bibitem{s18092995}
-S.~W. Cho, N.~R. Baek, M.~C. Kim, J.~H. Koo, J.~H. Kim, and K.~R. Park, ``Face
-  detection in nighttime images using visible-light camera sensors with
-  two-step faster region-based convolutional neural network,'' {\em Sensors},
-  vol.18,  no.9, 2018.
-
-\end{LTRbibitems}
-
-\begin{LTRbibitems}
-\resetlatinfont
 \bibitem{Biometrics}
 ``Evaluation of human biometric features,''
   \url{https://en.wikipedia.org/wiki/Biometrics}.
@@ -408,23 +406,6 @@ K.~R. {Sreelakshmi}, R.~{Anitha}, and K.~R. {Rebitha}, ``Multiple media based
   face recognition in unconstrained environments using eigenfaces,''  in {\em
   2016 International Conference on Next Generation Intelligent Systems
   (ICNGIS)},  pp.1--6, 2016.
-
-\end{LTRbibitems}
-
-\begin{LTRbibitems}
-\resetlatinfont
-\bibitem{cnn}
-``Facial expression recognition,''
-  \url{http://www.sfu.ca/~llockhar/projects/facial-expression-recognition}.
-\newblock Accessed: 2021-04-24.
-
-\end{LTRbibitems}
-
-\begin{LTRbibitems}
-\resetlatinfont
-\bibitem{wu2016facial}
-Y.~Wu, T.~Hassner, K.~Kim, G.~Medioni, and P.~Natarajan, ``Facial landmark
-  detection with tweaked convolutional neural networks,'' 2016.
 
 \end{LTRbibitems}
 
@@ -547,6 +528,25 @@ J.~{Li}, B.~{Li}, Y.~{Xu}, K.~{Lu}, K.~{Yan}, and L.~{Fei}, ``Disguised face
 L.~Di~Martino, J.~Preciozzi, F.~Lecumberry, and A.~Fernández, ``Face matching
   with an a contrario false detection control,'' {\em Neurocomputing},
   vol.173, 08 2015.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{SAVCHENKO2018170}
+A.~V. Savchenko and N.~S. Belova, ``Unconstrained face identification using
+  maximum likelihood of distances between deep off-the-shelf features,'' {\em
+  Expert Systems with Applications},  vol.108,  pp.170--182, 2018.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{s18092995}
+S.~W. Cho, N.~R. Baek, M.~C. Kim, J.~H. Koo, J.~H. Kim, and K.~R. Park, ``Face
+  detection in nighttime images using visible-light camera sensors with
+  two-step faster region-based convolutional neural network,'' {\em Sensors},
+  vol.18,  no.9, 2018.
 
 \end{LTRbibitems}
 
