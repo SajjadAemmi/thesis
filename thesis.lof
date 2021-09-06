@@ -64,7 +64,7 @@
 \contentsline {figure}{\numberline {3.23}{\ignorespaces تابع ضرر ArcFace در مقایسه با توابع ضرر مشهور دیگر \cite {deng2019arcface}.\relax }}{65}{figure.caption.70}%
 \addvspace {10\p@ }
 \contentsline {figure}{\numberline {4.1}{\ignorespaces نمای کلی از روش پیشنهادی.\relax }}{69}{figure.caption.71}%
-\contentsline {figure}{\numberline {4.2}{\ignorespaces نمونه از خروجی الگوریتم یافتن چهره retina \cite {deng2019retinaface}.\relax }}{70}{figure.caption.72}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces نمونه ای از خروجی الگوریتم یافتن چهره\relax }}{70}{figure.caption.72}%
 \contentsline {figure}{\numberline {4.3}{\ignorespaces به منظور افزایش دقت شبکه، پس از یافتن چهره باید آن را تراز کرد.\relax }}{71}{figure.caption.73}%
 \contentsline {figure}{\numberline {4.4}{\ignorespaces مدل پایه مبتنی بر لایه‌های كانولوشن و لایه توجه.\relax }}{73}{figure.caption.75}%
 \contentsline {figure}{\numberline {4.5}{\ignorespaces یک لایه تنگنا با واحد باقیمانده که با استفاده از کانولوشن های 1×1 اقدام به کاهش ابعاد نگاشت ویژگی می‌کند.\relax }}{74}{figure.caption.76}%
