@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2021.8.20)  6 SEP 2021 15:22
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2021.8.20)  6 SEP 2021 19:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2234,14 +2234,6 @@ File: figures/image4-4.png Graphic file (type bmp)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [69]
-
-Package caption Warning: \label without proper reference on input line 44.
-See the caption package documentation for explanation.
-
-
-LaTeX Warning: Reference `table4-1' on page 70 undefined on input line 41.
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [70]
@@ -2278,42 +2270,10 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [81]
 [82]
-
-Package caption Warning: \label without proper reference on input line 61.
-See the caption package documentation for explanation.
-
-
-LaTeX Warning: Reference `table5-1' on page 83 undefined on input line 58.
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [83]
-
-Package caption Warning: \label without proper reference on input line 110.
-See the caption package documentation for explanation.
-
-
-LaTeX Warning: Reference `table5-2' on page 84 undefined on input line 107.
-
-
-Package caption Warning: \label without proper reference on input line 139.
-See the caption package documentation for explanation.
-
-
-LaTeX Warning: Reference `table5-3' on page 84 undefined on input line 136.
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [84]
-
-Package caption Warning: \label without proper reference on input line 139.
-See the caption package documentation for explanation.
-
-
-LaTeX Warning: Reference `table5-3' on page 85 undefined on input line 180.
-
+[84]
 
 Package caption Warning: \label without proper reference on input line 183.
 See the caption package documentation for explanation.
@@ -2324,23 +2284,9 @@ LaTeX Warning: Reference `image5-1' on page 85 undefined on input line 180.
 File: figures/image5-1.png Graphic file (type bmp)
 <figures/image5-1.png>
 
-Package caption Warning: \label without proper reference on input line 193.
-See the caption package documentation for explanation.
-
-
-LaTeX Warning: Reference `table5-4' on page 85 undefined on input line 190.
-
-
-Underfull \vbox (badness 6708) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [85]
-
-Package caption Warning: \label without proper reference on input line 240.
-See the caption package documentation for explanation.
-
-
-LaTeX Warning: Reference `table5-5' on page 86 undefined on input line 237.
-
 [86]) [87]
 \openout2 = `chapter6.aux'.
 

@@ -41,34 +41,34 @@
 در این بخش ابتدا باید معماری مناسب شبکه پایه برای مسئله را به دست آوریم. با بررسی شبکه‌های متداول و مقایسه دقت و زمان پاسخگویی آن‌ها به کمک یادگیری انتقال، به این نتیجه می‌رسیم که شبکه \lr{MobileNetV3} دارای چگالی دقت بالاتری در مقایسه با شبکه های دیگر می‌باشد و نسبت دقت دسته بندی به تعداد پارامترهای شبکه در آن‌ بیشتر می‌باشد. بنابرین می‌توان سرعت اجرای مناسب و همچنین دقت مناسب را از این شبکه‌ انتظار داشت. از نتایج در می‌یابیم که بهترین معماری شبکه برای مسئله ما معماری \lr{MobileNetV3} است. نتایج آزمایش در جدول \ref{table4-1} آمده است. آزمایش‌هایی بر روی معماری‌های مطرح دیگر نیز انجام شد که به علت ضعیف بودن نتایج یا بالا بودن زمان پاسخ دهی در جدول درج نشده اند.
 
 \begin{table}[ht]
-\label{table4-1}
-\begin{center}
-\caption{مقایسه و ‌ارزیابی برخی از معماری شبکه های رایج در زمینه بینایی ماشین}
-\resizebox{\textwidth}{!}
-{
-\begin{tabular}{|c|c|c|c|}
-\hline 
-نام شبکه & تعداد پارامترها & دقت بر روی مجموعه داده LFW
-\\
-\hline 
-\lr{MobileNetV2} & \lr{3.53M} & \lr{93.50}
-\\
-\hline
-\lr{MobileNetV3} & \lr{2.5M} & \lr{95.8} 	 
-\\
-\hline
-\lr{SqueezeNet} & \lr{1.25M} & \lr{89.2}
-\\
-\hline 
-\lr{NASNetMobile} & \lr{5.32M} & \lr{90.60}
-\\
-\hline
-\lr{EfficientNetB0} & \lr{5.3M} & \lr{85.50}
-\\
-\hline
-\end{tabular}
-}
-\end{center} 
+	\begin{center}
+	\caption{مقایسه و ‌ارزیابی برخی از معماری شبکه های رایج در زمینه بینایی ماشین}
+	\label{table4-1}
+	\resizebox{\textwidth}{!}
+	{
+	\begin{tabular}{|c|c|c|c|}
+	\hline 
+	نام شبکه & تعداد پارامترها & دقت بر روی مجموعه داده LFW
+	\\
+	\hline 
+	\lr{MobileNetV2} & \lr{3.53M} & \lr{93.50}
+	\\
+	\hline
+	\lr{MobileNetV3} & \lr{2.5M} & \lr{95.8} 	 
+	\\
+	\hline
+	\lr{SqueezeNet} & \lr{1.25M} & \lr{89.2}
+	\\
+	\hline 
+	\lr{NASNetMobile} & \lr{5.32M} & \lr{90.60}
+	\\
+	\hline
+	\lr{EfficientNetB0} & \lr{5.3M} & \lr{85.50}
+	\\
+	\hline
+	\end{tabular}
+	}
+	\end{center} 
 \end{table}
 
 \noindent
