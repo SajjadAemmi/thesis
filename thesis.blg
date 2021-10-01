@@ -1,4 +1,4 @@
-This is BibTeX, Version 0.99d (TeX Live 2020)
+This is BibTeX, Version 0.99d (TeX Live 2019/Debian)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: thesis.aux
 A level-1 auxiliary file: symbols.aux
@@ -13,47 +13,48 @@ Database file #1: MyReferences.bib
 -- ieeetr-fa.bst version 0.9 (2015/05/09) 
 -- This is a BibTeX style for XePersian: http://www.parsilatex.com
 Warning--empty journal in parkhi2015deep
+Warning--can't use both volume and number fields in moschoglou2017agedb
 
 Done.
 You've used 67 entries,
             2349 wiz_defined-function locations,
-            961 strings with 16548 characters,
-and the built_in function-call counts, 20801 in all, are:
-= -- 1718
-> -- 839
+            961 strings with 16750 characters,
+and the built_in function-call counts, 20988 in all, are:
+= -- 1723
+> -- 858
 < -- 0
-+ -- 306
-- -- 239
-* -- 1291
-:= -- 2532
-add.period$ -- 80
++ -- 312
+- -- 245
+* -- 1314
+:= -- 2563
+add.period$ -- 79
 call.type$ -- 67
 change.case$ -- 68
 chr.to.int$ -- 0
-cite$ -- 68
-duplicate$ -- 894
-empty$ -- 1799
-format.name$ -- 239
-if$ -- 5829
+cite$ -- 69
+duplicate$ -- 904
+empty$ -- 1807
+format.name$ -- 245
+if$ -- 5879
 int.to.chr$ -- 0
 int.to.str$ -- 67
-missing$ -- 644
-newline$ -- 488
-num.names$ -- 56
-pop$ -- 317
+missing$ -- 655
+newline$ -- 487
+num.names$ -- 57
+pop$ -- 315
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 696
+skip$ -- 699
 stack$ -- 0
-substring$ -- 1144
-swap$ -- 382
+substring$ -- 1146
+swap$ -- 386
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 4
 type$ -- 0
-warning$ -- 1
-while$ -- 140
+warning$ -- 2
+while$ -- 142
 width$ -- 69
-write$ -- 823
-(There was 1 warning)
+write$ -- 825
+(There were 2 warnings)

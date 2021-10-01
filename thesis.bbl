@@ -595,9 +595,11 @@ S.~W. Cho, N.~R. Baek, M.~C. Kim, J.~H. Koo, J.~H. Kim, and K.~R. Park, ``Face
 
 \begin{LTRbibitems}
 \resetlatinfont
-\bibitem{CACD_dataset}
-``Cross-age celebrity dataset,'' \url{https://paperswithcode.com/dataset/cacd}.
-\newblock Accessed: 2021-04-24.
+\bibitem{moschoglou2017agedb}
+S.~Moschoglou, A.~Papaioannou, C.~Sagonas, J.~Deng, I.~Kotsia, and
+  S.~Zafeiriou, ``Agedb: the first manually collected, in-the-wild age
+  database,''  in {\em Proceedings of the IEEE Conference on Computer Vision
+  and Pattern Recognition Workshop},  vol.2,  p.5, 2017.
 
 \end{LTRbibitems}
 
