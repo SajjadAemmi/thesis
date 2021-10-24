@@ -53,7 +53,7 @@
 \contentsline {figure}{\numberline {3.12}{\ignorespaces تصاویر با حاشیه قرمز رنگ، به اشتباه برچسب زنی شده اند \cite {7984553}.\relax }}{54}{figure.caption.59}%
 \contentsline {figure}{\numberline {3.13}{\ignorespaces استفاده از روش خوشه بندی گراف و تعیین تصویر شاخص \cite {7984553}.\relax }}{55}{figure.caption.60}%
 \contentsline {figure}{\numberline {3.14}{\ignorespaces تولید تصاویر چهره از زوایای مختلف با استفاده از درونیابی بردارهای تصاویر چپ و راست \cite {radford2016unsupervised}.\relax }}{56}{figure.caption.61}%
-\contentsline {figure}{\numberline {3.15}{\ignorespaces تولید تصویر با وضوح بالا از روی تصاویر با وضوح پایین. موارد با حاشیه قرمز خروجی اشتباه هستند \cite {BANERJEE2018246}.\relax }}{57}{figure.caption.62}%
+\contentsline {figure}{\numberline {3.15}{\ignorespaces تولید تصویر با وضوح بالا از روی تصاویر با وضوح پایین. موارد با حاشیه قرمز خروجی اشتباه هستند \cite {BANERJEE2018246}.\relax }}{56}{figure.caption.62}%
 \contentsline {figure}{\numberline {3.16}{\ignorespaces تصاویر هر ردیف و هر ستون دارای برخی ویژگی‌های دیداری مشابه هستند \cite {karras2019stylebased}.\relax }}{57}{figure.caption.63}%
 \contentsline {figure}{\numberline {3.17}{\ignorespaces ساختار شبکه \lr {AD GAN} - شبکه \lr {GN} برای رو به رو سازی چهره و شبکه \lr {GE} برای تولید چهره از زوایای مختلف \cite {8603840}.\relax }}{58}{figure.caption.64}%
 \contentsline {figure}{\numberline {3.18}{\ignorespaces معماری \lr {MOCHA}: دستگاه های تلفن همراه از طریق اتصال چندگانه با \lr {cloudlet} و ابر ارتباط برقرار می‌کنند \cite {6249269}.\relax }}{59}{figure.caption.65}%

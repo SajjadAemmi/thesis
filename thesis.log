@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2021.8.20)  2 OCT 2021 00:48
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2021.8.20)  2 OCT 2021 00:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2162,19 +2162,18 @@ File: figures/image3-18.png Graphic file (type bmp)
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [55]
+[55]
 File: figures/image3-19.png Graphic file (type bmp)
 <figures/image3-19.png>
 
+Underfull \vbox (badness 2158) has occurred while \output is active []
 
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[56]
+ [56]
 File: figures/image3-20.png Graphic file (type bmp)
 <figures/image3-20.png>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
  [57]
 File: figures/image3-21.png Graphic file (type bmp)
 <figures/image3-21.png>
@@ -2187,7 +2186,11 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 [58]
 File: figures/image3-23.png Graphic file (type bmp)
 <figures/image3-23.png>
- [59]
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[59]
 File: figures/image3-24.png Graphic file (type bmp)
 <figures/image3-24.png>
 
@@ -2197,7 +2200,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 Missing character: There is no θ in font cmmi10!
 [60]
 
-LaTeX Warning: Reference `image3-25' on page 61 undefined on input line 436.
+LaTeX Warning: Reference `image3-25' on page 61 undefined on input line 434.
 
 File: figures/image3-26.png Graphic file (type bmp)
 <figures/image3-26.png>
@@ -2208,7 +2211,7 @@ File: figures/image3-27.png Graphic file (type bmp)
 File: figures/image4-7.png Graphic file (type bmp)
 <figures/image4-7.png>
  [63]
-Overfull \hbox (2.84123pt too wide) in paragraph at lines 504--505
+Overfull \hbox (2.84123pt too wide) in paragraph at lines 502--503
 []\TU/IRNazanin(0)/m/n/10.95 بیشتر سامانه‌های تشخیص چهره عملکردهای قابل قبولی ر
 ا در محیط‌های کنترل شده ارائه می‌دهند، اما در محیط‌های بدون محدودیت[]
  []
@@ -2223,16 +2226,9 @@ Overfull \hbox (2.84123pt too wide) in paragraph at lines 504--505
 
 
 ]
-
-Package caption Warning: \label without proper reference on input line 7.
-See the caption package documentation for explanation.
-
-
-LaTeX Warning: Reference `image4-2' on page 67 undefined on input line 4.
-
 File: figures/image4-1.png Graphic file (type bmp)
 <figures/image4-1.png>
-[67]
+ [67]
 File: figures/image4-3.jpg Graphic file (type bmp)
 <figures/image4-3.jpg>
 File: figures/image4-4.png Graphic file (type bmp)
@@ -2270,16 +2266,9 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [81]
 [82]
-
-Package caption Warning: \label without proper reference on input line 197.
-See the caption package documentation for explanation.
-
-
-LaTeX Warning: Reference `image5-1' on page 83 undefined on input line 194.
-
 File: figures/image5-1.png Graphic file (type bmp)
 <figures/image5-1.png>
-[83]
+ [83]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [84]
@@ -2384,7 +2373,7 @@ LaTeX Warning: There were undefined references.
 Here is how much of TeX's memory you used:
  35058 strings out of 479819
  702856 string characters out of 5895846
- 1078055 words of memory out of 5000000
+ 1079056 words of memory out of 5000000
  51352 multiletter control sequences out of 15000+600000
  542450 words of font info for 125 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
