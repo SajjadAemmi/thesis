@@ -10,64 +10,60 @@
 \contentsline {figure}{\numberline {1.9}{\ignorespaces نمونه ای از یک سامانه تشخیص چهره بی‌درنگ در محیط کنترل نشده \cite {CHAUDHRY2017168}\relax }}{11}{figure.caption.16}%
 \addvspace {10\p@ }
 \contentsline {figure}{\numberline {2.1}{\ignorespaces اطلاعات سطح خاکستری حتی در وضوح پایین نیز قابل دسترسی می باشند \cite {HJELMAS2001236}.\relax }}{16}{figure.caption.17}%
-\contentsline {figure}{\numberline {2.2}{\ignorespaces نمونه هایی از مستطیل های ویژگی های Haar \cite {990517}.\relax }}{18}{figure.caption.18}%
-\contentsline {figure}{\numberline {2.3}{\ignorespaces مستطیل های ویژگی های Haar متناسب با بخش های چهره می باشند \cite {990517}.\relax }}{18}{figure.caption.19}%
-\contentsline {figure}{\numberline {2.4}{\ignorespaces هر مستطیل در اندازه های مختلف بر روی بخش های مختلف تصویر قرار می گیرد \cite {990517}.\relax }}{19}{figure.caption.20}%
-\contentsline {figure}{\numberline {2.5}{\ignorespaces بخشی از یک تصویر که مراحل آبشاری برای آن محاسبه می‌شود \cite {990517}.\relax }}{20}{figure.caption.21}%
-\contentsline {figure}{\numberline {2.6}{\ignorespaces سطح روشنایی پیکسل های اطراف هر پیکسل بررسی شده و راستای روشن به سمت تاریک برگزیده می شود \cite {1467360}.\relax }}{20}{figure.caption.22}%
-\contentsline {figure}{\numberline {2.7}{\ignorespaces براى یافتن چهره ها، بخش هایى از تصویر كه به الگوى HOG شبیه تر است را پیدا می كنیم \cite {1467360}.\relax }}{21}{figure.caption.23}%
-\contentsline {figure}{\numberline {2.8}{\ignorespaces نتیجه اجرای روش مبتنی بر NPD \cite {7130626}.\relax }}{22}{figure.caption.24}%
-\contentsline {figure}{\numberline {2.9}{\ignorespaces نمای کلی روش یافتن چهره تک مرحله ای و متراکم. \lr {RetinaFace} بر اساس هرم ویژگی طراحی شده است. این رویکرد از تابع ضرر چند کاره استفاده می‌نماید. \cite {deng2019retinaface}.\relax }}{23}{figure.caption.25}%
-\contentsline {figure}{\numberline {2.10}{\ignorespaces نمونه از خروجی الگوریتم یافتن چهره retina \cite {deng2019retinaface}.\relax }}{23}{figure.caption.26}%
-\contentsline {figure}{\numberline {2.11}{\ignorespaces (آ) فیلترهای چندگانه گابور (ب) تاثیر این فیلترها بر روی تصویر چهره \cite {ABATE20071885}.\relax }}{25}{figure.caption.27}%
-\contentsline {figure}{\numberline {2.12}{\ignorespaces مدل سازی سه بعدی چهره با اشعه فرو سرخ \cite {10.3745/JIPS.2009.5.2.041}.\relax }}{25}{figure.caption.28}%
-\contentsline {figure}{\numberline {2.13}{\ignorespaces نمای کلی یک سامانه تشخیص چهره مبتنی بر یافتن چهره و ردیابی آن \cite {wang2009video}.\relax }}{28}{figure.caption.29}%
-\contentsline {figure}{\numberline {2.14}{\ignorespaces (آ) تعدادی چهره و (ب) چهره های ویژه متناظر با آن ها \cite {LUAN2014495}.\relax }}{28}{figure.caption.30}%
-\contentsline {figure}{\numberline {2.15}{\ignorespaces شبکه عصبی عمیق برای شناسایی چهره \cite {cnn}.\relax }}{29}{figure.caption.31}%
-\contentsline {figure}{\numberline {2.16}{\ignorespaces سه گانه تطبیق – عدم تطبیق \cite {7298682}.\relax }}{30}{figure.caption.32}%
-\contentsline {figure}{\numberline {2.17}{\ignorespaces (آ) شبکه عصبی پیچشی \lr {SplitNet} (ب) شبکه عصبی پیچشی معمولی \cite {WEN201894}.\relax }}{32}{figure.caption.33}%
-\contentsline {figure}{\numberline {2.18}{\ignorespaces معماری کلی شبکه \lr {GoogLeNet} \cite {7298594}.\relax }}{32}{figure.caption.34}%
-\contentsline {figure}{\numberline {2.19}{\ignorespaces معماری شبکه \lr {VGGFace} \cite {parkhi2015deep}.\relax }}{33}{figure.caption.35}%
-\contentsline {figure}{\numberline {2.20}{\ignorespaces نتیجه موقعیت 194 شاخص روی چهره \cite {6909637}.\relax }}{33}{figure.caption.36}%
-\contentsline {figure}{\numberline {2.21}{\ignorespaces علامت گذاری خطوط راهنما بر روی چهره که در هر تکرار با کاهش خطا همراه می باشد \cite {6909637}.\relax }}{34}{figure.caption.37}%
-\contentsline {figure}{\numberline {2.22}{\ignorespaces شبکه عصبی پیچشی با معماری \lr {TCNN} \cite {wu2016facial}.\relax }}{35}{figure.caption.38}%
-\contentsline {figure}{\numberline {2.23}{\ignorespaces تبدیل هم نسبی \lr {OpenFace} براساس نقاط ویژه آبی \cite {amos2016openface}.\relax }}{35}{figure.caption.39}%
-\contentsline {figure}{\numberline {2.24}{\ignorespaces معماری \lr {OpenFace} \cite {amos2016openface}.\relax }}{36}{figure.caption.40}%
-\contentsline {figure}{\numberline {2.25}{\ignorespaces جریان یادگیری در معماری \lr {OpenFace} \cite {amos2016openface}.\relax }}{37}{figure.caption.41}%
-\contentsline {figure}{\numberline {2.26}{\ignorespaces کانولوشن DWS که شامل دو کانولوشن depth-wise و point-wise است. \cite {howard2017mobilenets}.\relax }}{38}{figure.caption.42}%
-\contentsline {figure}{\numberline {2.27}{\ignorespaces لایه‌های MobileNet به همراه ماژول‌ \lr { Squeeze-and-Excite} که در بخش پایین سمت چپ قابل مشاهده می‌باشد \cite {yang2021sanet}.\relax }}{39}{figure.caption.44}%
-\contentsline {figure}{\numberline {2.28}{\ignorespaces معماری ماژول \lr {Shuffle Attention} \cite {yang2021sanet}.\relax }}{39}{figure.caption.45}%
-\contentsline {figure}{\numberline {2.29}{\ignorespaces مقایسه چگالی دقت در معماری‌های مختلف شبکه عصبی پیچشی \cite {Bianco_2018}.\relax }}{40}{figure.caption.46}%
+\contentsline {figure}{\numberline {2.2}{\ignorespaces سطح روشنایی پیکسل های اطراف هر پیکسل بررسی شده و راستای روشن به سمت تاریک برگزیده می شود \cite {1467360}.\relax }}{18}{figure.caption.18}%
+\contentsline {figure}{\numberline {2.3}{\ignorespaces براى یافتن چهره ها، بخش هایى از تصویر كه به الگوى HOG شبیه تر است را پیدا می كنیم \cite {1467360}.\relax }}{18}{figure.caption.19}%
+\contentsline {figure}{\numberline {2.4}{\ignorespaces نتیجه اجرای روش مبتنی بر NPD \cite {7130626}.\relax }}{19}{figure.caption.20}%
+\contentsline {figure}{\numberline {2.5}{\ignorespaces نمای کلی روش یافتن چهره تک مرحله ای و متراکم. \lr {RetinaFace} بر اساس هرم ویژگی طراحی شده است. این رویکرد از تابع ضرر چند کاره استفاده می‌نماید. \cite {deng2019retinaface}.\relax }}{20}{figure.caption.21}%
+\contentsline {figure}{\numberline {2.6}{\ignorespaces نمونه از خروجی الگوریتم یافتن چهره retina \cite {deng2019retinaface}.\relax }}{21}{figure.caption.22}%
+\contentsline {figure}{\numberline {2.7}{\ignorespaces (آ) فیلترهای چندگانه گابور (ب) تاثیر این فیلترها بر روی تصویر چهره \cite {ABATE20071885}.\relax }}{22}{figure.caption.23}%
+\contentsline {figure}{\numberline {2.8}{\ignorespaces مدل سازی سه بعدی چهره با اشعه فرو سرخ \cite {10.3745/JIPS.2009.5.2.041}.\relax }}{23}{figure.caption.24}%
+\contentsline {figure}{\numberline {2.9}{\ignorespaces نمای کلی یک سامانه تشخیص چهره مبتنی بر یافتن چهره و ردیابی آن \cite {wang2009video}.\relax }}{25}{figure.caption.25}%
+\contentsline {figure}{\numberline {2.10}{\ignorespaces (آ) تعدادی چهره و (ب) چهره های ویژه متناظر با آن ها \cite {LUAN2014495}.\relax }}{26}{figure.caption.26}%
+\contentsline {figure}{\numberline {2.11}{\ignorespaces شبکه عصبی عمیق برای شناسایی چهره \cite {cnn}.\relax }}{27}{figure.caption.27}%
+\contentsline {figure}{\numberline {2.12}{\ignorespaces سه گانه تطبیق – عدم تطبیق \cite {7298682}.\relax }}{28}{figure.caption.28}%
+\contentsline {figure}{\numberline {2.13}{\ignorespaces (آ) شبکه عصبی پیچشی \lr {SplitNet} (ب) شبکه عصبی پیچشی معمولی \cite {WEN201894}.\relax }}{29}{figure.caption.29}%
+\contentsline {figure}{\numberline {2.14}{\ignorespaces معماری کلی شبکه \lr {GoogLeNet} \cite {7298594}.\relax }}{30}{figure.caption.30}%
+\contentsline {figure}{\numberline {2.15}{\ignorespaces معماری شبکه \lr {VGGFace} \cite {parkhi2015deep}.\relax }}{30}{figure.caption.31}%
+\contentsline {figure}{\numberline {2.16}{\ignorespaces نتیجه موقعیت 194 شاخص روی چهره \cite {6909637}.\relax }}{31}{figure.caption.32}%
+\contentsline {figure}{\numberline {2.17}{\ignorespaces علامت گذاری خطوط راهنما بر روی چهره که در هر تکرار با کاهش خطا همراه می باشد \cite {6909637}.\relax }}{31}{figure.caption.33}%
+\contentsline {figure}{\numberline {2.18}{\ignorespaces شبکه عصبی پیچشی با معماری \lr {TCNN} \cite {wu2016facial}.\relax }}{32}{figure.caption.34}%
+\contentsline {figure}{\numberline {2.19}{\ignorespaces تبدیل هم نسبی \lr {OpenFace} براساس نقاط ویژه آبی \cite {amos2016openface}.\relax }}{33}{figure.caption.35}%
+\contentsline {figure}{\numberline {2.20}{\ignorespaces معماری \lr {OpenFace} \cite {amos2016openface}.\relax }}{34}{figure.caption.36}%
+\contentsline {figure}{\numberline {2.21}{\ignorespaces جریان یادگیری در معماری \lr {OpenFace} \cite {amos2016openface}.\relax }}{34}{figure.caption.37}%
+\contentsline {figure}{\numberline {2.22}{\ignorespaces کانولوشن DWS که شامل دو کانولوشن depth-wise و point-wise است. \cite {howard2017mobilenets}.\relax }}{35}{figure.caption.38}%
+\contentsline {figure}{\numberline {2.23}{\ignorespaces لایه‌های MobileNet به همراه ماژول‌ \lr { Squeeze-and-Excite} که در بخش پایین سمت چپ قابل مشاهده می‌باشد \cite {yang2021sanet}.\relax }}{36}{figure.caption.40}%
+\contentsline {figure}{\numberline {2.24}{\ignorespaces معماری ماژول \lr {Shuffle Attention} \cite {yang2021sanet}.\relax }}{37}{figure.caption.41}%
+\contentsline {figure}{\numberline {2.25}{\ignorespaces مقایسه چگالی دقت در معماری‌های مختلف شبکه عصبی پیچشی \cite {Bianco_2018}.\relax }}{38}{figure.caption.42}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {3.1}{\ignorespaces رویکرد کلی الگوریتم مبتنی بر \lr {AAM} برای رو به رو سازی چهره. (آ) چهره ورودی. (ب) مدل محاسبه شده از روی چهره ورودی. (پ) خروجی تبدیل هم‌نسبی مدل. (ت) چهره خروجی \cite {HAGHIGHAT201623}. \relax }}{44}{figure.caption.48}%
-\contentsline {figure}{\numberline {3.2}{\ignorespaces مقدار دهی اولیه و بهینه سازی \lr {AAM} \cite {HAGHIGHAT201623}.\relax }}{45}{figure.caption.49}%
-\contentsline {figure}{\numberline {3.3}{\ignorespaces نتیجه آزمایش بر روی مجموعه داده \lr {FERET} در زاویه های متفاوت \cite {HAGHIGHAT201623}.\relax }}{46}{figure.caption.50}%
-\contentsline {figure}{\numberline {3.4}{\ignorespaces معماری شبکه پیشنهادی \lr {VS2VI} \cite {7532959}.\relax }}{46}{figure.caption.51}%
-\contentsline {figure}{\numberline {3.5}{\ignorespaces معماری مدل یادگیری موقعیت چهره \cite {7532959}.\relax }}{47}{figure.caption.52}%
-\contentsline {figure}{\numberline {3.6}{\ignorespaces معماری مدل یادگیری بازسازی چهره از رو به رو \cite {7532959}.\relax }}{47}{figure.caption.53}%
-\contentsline {figure}{\numberline {3.7}{\ignorespaces 6 مرحله اصلی در فرایند هنجارسازی حالت و روشنایی چهره: الف) محاسبه زاویه بین راستای دو چشم. ب) محاسبه فاصله چشم‌ها از بینی. پ) یافتن خط میانی چهره. ت) رو به رو سازی نیم رخ. ث) تکمیل نیمه دوم چهره از روی نیمه اول. ج) نتیجه نهایی پس از پس‌پردازش. \cite {6196234}.\relax }}{48}{figure.caption.54}%
-\contentsline {figure}{\numberline {3.8}{\ignorespaces اندازه گیری روشنایی و بافت نگار 8 نقطه خاص: آ) نقاط مختلف روی چهره انسان. ب) بافت نگار متناظر با نقاط مختلف روی چهره. \cite {6196234}.\relax }}{50}{figure.caption.55}%
-\contentsline {figure}{\numberline {3.9}{\ignorespaces تصویر انسداد از ترکیب خطی چهره‌های آموزشی مجموعه داده و یک تصویر \lr {L} که نشان دهنده انسداد است، تشکیل شده است \cite {WU2018256}.\relax }}{52}{figure.caption.56}%
-\contentsline {figure}{\numberline {3.10}{\ignorespaces رویکرد کلی الگوریتم \lr {GD-HASLR} \cite {WU2018256}.\relax }}{53}{figure.caption.57}%
-\contentsline {figure}{\numberline {3.11}{\ignorespaces ردیابی، یافتن چهره ها و برچسب زنی \cite {7984553}.\relax }}{54}{figure.caption.58}%
-\contentsline {figure}{\numberline {3.12}{\ignorespaces تصاویر با حاشیه قرمز رنگ، به اشتباه برچسب زنی شده اند \cite {7984553}.\relax }}{54}{figure.caption.59}%
-\contentsline {figure}{\numberline {3.13}{\ignorespaces استفاده از روش خوشه بندی گراف و تعیین تصویر شاخص \cite {7984553}.\relax }}{55}{figure.caption.60}%
-\contentsline {figure}{\numberline {3.14}{\ignorespaces تولید تصاویر چهره از زوایای مختلف با استفاده از درونیابی بردارهای تصاویر چپ و راست \cite {radford2016unsupervised}.\relax }}{56}{figure.caption.61}%
-\contentsline {figure}{\numberline {3.15}{\ignorespaces تولید تصویر با وضوح بالا از روی تصاویر با وضوح پایین. موارد با حاشیه قرمز خروجی اشتباه هستند \cite {BANERJEE2018246}.\relax }}{56}{figure.caption.62}%
-\contentsline {figure}{\numberline {3.16}{\ignorespaces تصاویر هر ردیف و هر ستون دارای برخی ویژگی‌های دیداری مشابه هستند \cite {karras2019stylebased}.\relax }}{57}{figure.caption.63}%
-\contentsline {figure}{\numberline {3.17}{\ignorespaces ساختار شبکه \lr {AD GAN} - شبکه \lr {GN} برای رو به رو سازی چهره و شبکه \lr {GE} برای تولید چهره از زوایای مختلف \cite {8603840}.\relax }}{58}{figure.caption.64}%
-\contentsline {figure}{\numberline {3.18}{\ignorespaces معماری \lr {MOCHA}: دستگاه های تلفن همراه از طریق اتصال چندگانه با \lr {cloudlet} و ابر ارتباط برقرار می‌کنند \cite {6249269}.\relax }}{59}{figure.caption.65}%
-\contentsline {figure}{\numberline {3.19}{\ignorespaces نمای کلی سامانه تشخیص چهره مبتنی بر رایانش ابری \cite {HU2018582}.\relax }}{60}{figure.caption.66}%
-\contentsline {figure}{\numberline {3.20}{\ignorespaces چارچوب سامانه شناسایی چهره مبتنی بر رایانش ابری \cite {HU2018582}.\relax }}{61}{figure.caption.67}%
-\contentsline {figure}{\numberline {3.21}{\ignorespaces تابع ضرر \lr {CosFace} حاشیه بیشتری نسبت به \lr {SoftMax} در مرز بین دسته ها ایجاد می‌نماید \cite {wang2018cosface}.\relax }}{61}{figure.caption.68}%
-\contentsline {figure}{\numberline {3.22}{\ignorespaces خط لوله ساز و کار تابع ضرر arcface \cite {deng2019arcface}.\relax }}{63}{figure.caption.69}%
-\contentsline {figure}{\numberline {3.23}{\ignorespaces تابع ضرر ArcFace در مقایسه با توابع ضرر مشهور دیگر \cite {deng2019arcface}.\relax }}{64}{figure.caption.70}%
+\contentsline {figure}{\numberline {3.1}{\ignorespaces رویکرد کلی الگوریتم مبتنی بر \lr {AAM} برای رو به رو سازی چهره. (آ) چهره ورودی. (ب) مدل محاسبه شده از روی چهره ورودی. (پ) خروجی تبدیل هم‌نسبی مدل. (ت) چهره خروجی \cite {HAGHIGHAT201623}. \relax }}{42}{figure.caption.44}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces مقدار دهی اولیه و بهینه سازی \lr {AAM} \cite {HAGHIGHAT201623}.\relax }}{43}{figure.caption.45}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces نتیجه آزمایش بر روی مجموعه داده \lr {FERET} در زاویه های متفاوت \cite {HAGHIGHAT201623}.\relax }}{44}{figure.caption.46}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces معماری شبکه پیشنهادی \lr {VS2VI} \cite {7532959}.\relax }}{44}{figure.caption.47}%
+\contentsline {figure}{\numberline {3.5}{\ignorespaces معماری مدل یادگیری موقعیت چهره \cite {7532959}.\relax }}{45}{figure.caption.48}%
+\contentsline {figure}{\numberline {3.6}{\ignorespaces معماری مدل یادگیری بازسازی چهره از رو به رو \cite {7532959}.\relax }}{45}{figure.caption.49}%
+\contentsline {figure}{\numberline {3.7}{\ignorespaces 6 مرحله اصلی در فرایند هنجارسازی حالت و روشنایی چهره: الف) محاسبه زاویه بین راستای دو چشم. ب) محاسبه فاصله چشم‌ها از بینی. پ) یافتن خط میانی چهره. ت) رو به رو سازی نیم رخ. ث) تکمیل نیمه دوم چهره از روی نیمه اول. ج) نتیجه نهایی پس از پس‌پردازش. \cite {6196234}.\relax }}{46}{figure.caption.50}%
+\contentsline {figure}{\numberline {3.8}{\ignorespaces اندازه گیری روشنایی و بافت نگار 8 نقطه خاص: آ) نقاط مختلف روی چهره انسان. ب) بافت نگار متناظر با نقاط مختلف روی چهره. \cite {6196234}.\relax }}{48}{figure.caption.51}%
+\contentsline {figure}{\numberline {3.9}{\ignorespaces تصویر انسداد از ترکیب خطی چهره‌های آموزشی مجموعه داده و یک تصویر \lr {L} که نشان دهنده انسداد است، تشکیل شده است \cite {WU2018256}.\relax }}{50}{figure.caption.52}%
+\contentsline {figure}{\numberline {3.10}{\ignorespaces رویکرد کلی الگوریتم \lr {GD-HASLR} \cite {WU2018256}.\relax }}{51}{figure.caption.53}%
+\contentsline {figure}{\numberline {3.11}{\ignorespaces ردیابی، یافتن چهره ها و برچسب زنی \cite {7984553}.\relax }}{52}{figure.caption.54}%
+\contentsline {figure}{\numberline {3.12}{\ignorespaces تصاویر با حاشیه قرمز رنگ، به اشتباه برچسب زنی شده اند \cite {7984553}.\relax }}{52}{figure.caption.55}%
+\contentsline {figure}{\numberline {3.13}{\ignorespaces استفاده از روش خوشه بندی گراف و تعیین تصویر شاخص \cite {7984553}.\relax }}{53}{figure.caption.56}%
+\contentsline {figure}{\numberline {3.14}{\ignorespaces تولید تصاویر چهره از زوایای مختلف با استفاده از درونیابی بردارهای تصاویر چپ و راست \cite {radford2016unsupervised}.\relax }}{54}{figure.caption.57}%
+\contentsline {figure}{\numberline {3.15}{\ignorespaces تولید تصویر با وضوح بالا از روی تصاویر با وضوح پایین. موارد با حاشیه قرمز خروجی اشتباه هستند \cite {BANERJEE2018246}.\relax }}{54}{figure.caption.58}%
+\contentsline {figure}{\numberline {3.16}{\ignorespaces تصاویر هر ردیف و هر ستون دارای برخی ویژگی‌های دیداری مشابه هستند \cite {karras2019stylebased}.\relax }}{55}{figure.caption.59}%
+\contentsline {figure}{\numberline {3.17}{\ignorespaces ساختار شبکه \lr {AD GAN} - شبکه \lr {GN} برای رو به رو سازی چهره و شبکه \lr {GE} برای تولید چهره از زوایای مختلف \cite {8603840}.\relax }}{56}{figure.caption.60}%
+\contentsline {figure}{\numberline {3.18}{\ignorespaces معماری \lr {MOCHA}: دستگاه های تلفن همراه از طریق اتصال چندگانه با \lr {cloudlet} و ابر ارتباط برقرار می‌کنند \cite {6249269}.\relax }}{57}{figure.caption.61}%
+\contentsline {figure}{\numberline {3.19}{\ignorespaces نمای کلی سامانه تشخیص چهره مبتنی بر رایانش ابری \cite {HU2018582}.\relax }}{58}{figure.caption.62}%
+\contentsline {figure}{\numberline {3.20}{\ignorespaces چارچوب سامانه شناسایی چهره مبتنی بر رایانش ابری \cite {HU2018582}.\relax }}{59}{figure.caption.63}%
+\contentsline {figure}{\numberline {3.21}{\ignorespaces تابع ضرر \lr {CosFace} حاشیه بیشتری نسبت به \lr {SoftMax} در مرز بین دسته ها ایجاد می‌نماید \cite {wang2018cosface}.\relax }}{59}{figure.caption.64}%
+\contentsline {figure}{\numberline {3.22}{\ignorespaces خط لوله ساز و کار تابع ضرر arcface \cite {deng2019arcface}.\relax }}{61}{figure.caption.65}%
+\contentsline {figure}{\numberline {3.23}{\ignorespaces تابع ضرر ArcFace در مقایسه با توابع ضرر مشهور دیگر \cite {deng2019arcface}.\relax }}{62}{figure.caption.66}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {4.1}{\ignorespaces نمای کلی روش پیشنهادی\relax }}{67}{figure.caption.71}%
-\contentsline {figure}{\numberline {4.2}{\ignorespaces نمونه از خروجی الگوریتم یافتن چهره RetinaFace\relax }}{68}{figure.caption.72}%
-\contentsline {figure}{\numberline {4.3}{\ignorespaces به منظور افزایش دقت شبکه، پس از یافتن چهره باید آن را تراز کرد.\relax }}{69}{figure.caption.73}%
-\contentsline {figure}{\numberline {4.4}{\ignorespaces معماری مدل پیشنهادی مبتنی بر لایه‌های كانولوشن و لایه توجه\relax }}{70}{figure.caption.75}%
-\contentsline {figure}{\numberline {4.5}{\ignorespaces یک لایه تنگنا با واحد باقیمانده که با استفاده از کانولوشن‌های 1×1 اقدام به کاهش ابعاد نگاشت ویژگی می‌کند.\relax }}{72}{figure.caption.76}%
+\contentsline {figure}{\numberline {4.1}{\ignorespaces نمای کلی روش پیشنهادی\relax }}{65}{figure.caption.67}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces نمونه از خروجی الگوریتم یافتن چهره RetinaFace\relax }}{66}{figure.caption.68}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces به منظور افزایش دقت شبکه، پس از یافتن چهره باید آن را تراز کرد.\relax }}{67}{figure.caption.69}%
+\contentsline {figure}{\numberline {4.4}{\ignorespaces معماری مدل پیشنهادی مبتنی بر لایه‌های كانولوشن و لایه توجه\relax }}{68}{figure.caption.71}%
+\contentsline {figure}{\numberline {4.5}{\ignorespaces یک لایه تنگنا با واحد باقیمانده که با استفاده از کانولوشن‌های 1×1 اقدام به کاهش ابعاد نگاشت ویژگی می‌کند.\relax }}{70}{figure.caption.72}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {5.1}{\ignorespaces دقت روش پیشنهادی در مقایسه با روش \lr {ArcFace}\relax }}{84}{figure.caption.80}%
+\contentsline {figure}{\numberline {5.1}{\ignorespaces دقت روش پیشنهادی در مقایسه با روش \lr {ArcFace}\relax }}{82}{figure.caption.76}%
 \addvspace {10\p@ }
