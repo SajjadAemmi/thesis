@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/Debian) (preloaded format=xelatex 2021.10.18)  26 OCT 2021 00:39
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/Debian) (preloaded format=xelatex 2021.10.18)  2 JAN 2022 23:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1045,45 +1045,66 @@ Package caption Info: Standard document class detected.
 Package caption Info: hyperref package is loaded.
 )
 Package caption Info: Option `declare type' requires the `newfloat' package on 
-input line 42.
+input line 38.
 
 (/usr/share/texlive/texmf-dist/tex/latex/newfloat/newfloat.sty
 Package: newfloat 2019/09/02 v1.1l Defining new floating environments (AR)
 Package newfloat Info: Document class `book' detected (Hy).
 )
 Package newfloat Info: New float `diagram' with options `fileext=los,placement=
-{!ht}' on input line 42.
+{!ht}' on input line 38.
 \c@diagram=\count325
 \newfloat@ftype=\count326
-Package newfloat Info: float type `diagram'=8 on input line 42.
+Package newfloat Info: float type `diagram'=8 on input line 38.
 
 
-Package array Warning: Column P is already defined on input line 48.
+Package array Warning: Column P is already defined on input line 44.
 
-(/usr/share/texlive/texmf-dist/tex/latex/caption/subcaption.sty
-Package: subcaption 2020/10/07 v1.3j Sub-captions (AR)
-\c@subfigure=\count327
-\c@subtable=\count328
-\c@subdiagram=\count329
-)
-(/usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty
-Package: multirow 2021/01/29 v2.7 Span multiple rows of a table
-\multirow@colwidth=\skip73
-\multirow@cntb=\count330
-\multirow@dima=\skip74
-\bigstrutjot=\dimen302
-)
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/rotating.sty
-Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
+(/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2021/01/09 v0.5r Insert pages of external PDF documents (AM)
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 )
-\c@r@tfl@t=\count331
+(/usr/share/texlive/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2020/10/14 v3.0a eso-pic (RN)
+\ESO@tempdima=\dimen302
+\ESO@tempdimb=\dimen303
+)
+\AM@pagewidth=\dimen304
+\AM@pageheight=\dimen305
+
+(/usr/share/texlive/texmf-dist/tex/latex/pdfpages/ppxetex.def
+File: ppxetex.def 2021/01/09 v0.5r Pdfpages driver for XeTeX (AM)
+)
+\pdfpages@includegraphics@status=\count327
+\AM@pagebox=\box137
+\AM@global@opts=\toks46
+\AM@pagecnt=\count328
+\AM@toc@title=\toks47
+\c@AM@survey=\count329
+\AM@templatesizebox=\box138
+)
+(/usr/share/texlive/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2020/10/07 v1.3j Sub-captions (AR)
+\c@subfigure=\count330
+\c@subtable=\count331
+\c@subdiagram=\count332
+)
+(/usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty
+Package: multirow 2021/01/29 v2.7 Span multiple rows of a table
+\multirow@colwidth=\skip73
+\multirow@cntb=\count333
+\multirow@dima=\skip74
+\bigstrutjot=\dimen306
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/rotating.sty
+Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
+\c@r@tfl@t=\count334
 \rotFPtop=\skip75
 \rotFPbot=\skip76
-\rot@float@box=\box137
-\rot@mess@toks=\toks46
+\rot@float@box=\box139
+\rot@mess@toks=\toks48
 )
 (/usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty
 Package: setspace 2011/12/19 v6.7a set line spacing
@@ -1103,13 +1124,13 @@ Package: expl3 2021-01-09 L3 programming layer (loader)
 File: l3backend-xetex.def 2020-01-29 L3 backend support: XeTeX
 
 (|extractbb --version)
-\c__kernel_sys_dvipdfmx_version_int=\count332
-\l__color_backend_stack_int=\count333
-\g__graphics_track_int=\count334
-\l__pdf_internal_box=\box138
-\g__pdf_backend_object_int=\count335
-\g__pdf_backend_annotation_int=\count336
-\g__pdf_backend_link_int=\count337
+\c__kernel_sys_dvipdfmx_version_int=\count335
+\l__color_backend_stack_int=\count336
+\g__graphics_track_int=\count337
+\l__pdf_internal_box=\box140
+\g__pdf_backend_object_int=\count338
+\g__pdf_backend_annotation_int=\count339
+\g__pdf_backend_link_int=\count340
 ))
 Package: xparse 2020-10-27 L3 Experimental document command parser
 
@@ -1118,20 +1139,20 @@ Package: fontspec 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTeX
 (/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
 Package: fontspec-xetex 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTe
 X
-\l__fontspec_script_int=\count338
-\l__fontspec_language_int=\count339
-\l__fontspec_strnum_int=\count340
-\l__fontspec_tmp_int=\count341
-\l__fontspec_tmpa_int=\count342
-\l__fontspec_tmpb_int=\count343
-\l__fontspec_tmpc_int=\count344
-\l__fontspec_em_int=\count345
-\l__fontspec_emdef_int=\count346
-\l__fontspec_strong_int=\count347
-\l__fontspec_strongdef_int=\count348
-\l__fontspec_tmpa_dim=\dimen303
-\l__fontspec_tmpb_dim=\dimen304
-\l__fontspec_tmpc_dim=\dimen305
+\l__fontspec_script_int=\count341
+\l__fontspec_language_int=\count342
+\l__fontspec_strnum_int=\count343
+\l__fontspec_tmp_int=\count344
+\l__fontspec_tmpa_int=\count345
+\l__fontspec_tmpb_int=\count346
+\l__fontspec_tmpc_int=\count347
+\l__fontspec_em_int=\count348
+\l__fontspec_emdef_int=\count349
+\l__fontspec_strong_int=\count350
+\l__fontspec_strongdef_int=\count351
+\l__fontspec_tmpa_dim=\dimen307
+\l__fontspec_tmpb_dim=\dimen308
+\l__fontspec_tmpc_dim=\dimen309
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2020/08/10 v2.0s Standard LaTeX package
@@ -1139,43 +1160,43 @@ Package: fontenc 2020/08/10 v2.0s Standard LaTeX package
 (/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
 (/usr/share/texlive/texmf-dist/tex/xelatex/xepersian/xepersian-persiancal.sty
 Package: xepersian-persiancal 2012/07/25 v0.2 provides Persian calendar
-\XePersian@i=\count349
-\XePersian@y=\count350
-\XePersian@m=\count351
-\XePersian@d=\count352
-\XePersian@latini=\count353
-\XePersian@persiani=\count354
-\XePersian@latinii=\count355
-\XePersian@persianii=\count356
-\XePersian@latiniii=\count357
-\XePersian@persianiii=\count358
-\XePersian@latiniv=\count359
-\XePersian@persianiv=\count360
-\XePersian@latinv=\count361
-\XePersian@persianv=\count362
-\XePersian@latinvi=\count363
-\XePersian@persianvi=\count364
-\XePersian@latinvii=\count365
-\XePersian@persianvii=\count366
-\XePersian@latinviii=\count367
-\XePersian@persianviii=\count368
-\XePersian@latinix=\count369
-\XePersian@persianix=\count370
-\XePersian@latinx=\count371
-\XePersian@persianx=\count372
-\XePersian@latinxi=\count373
-\XePersian@persianxi=\count374
-\XePersian@latinxii=\count375
-\XePersian@persianxii=\count376
-\XePersian@persianxiii=\count377
-\XePersian@temp=\count378
-\XePersian@temptwo=\count379
-\XePersian@tempthree=\count380
-\XePersian@yModHundred=\count381
-\XePersian@thirtytwo=\count382
-\XePersian@dn=\count383
-\XePersian@sn=\count384
-\XePersian@mminusone=\count385
+\XePersian@i=\count352
+\XePersian@y=\count353
+\XePersian@m=\count354
+\XePersian@d=\count355
+\XePersian@latini=\count356
+\XePersian@persiani=\count357
+\XePersian@latinii=\count358
+\XePersian@persianii=\count359
+\XePersian@latiniii=\count360
+\XePersian@persianiii=\count361
+\XePersian@latiniv=\count362
+\XePersian@persianiv=\count363
+\XePersian@latinv=\count364
+\XePersian@persianv=\count365
+\XePersian@latinvi=\count366
+\XePersian@persianvi=\count367
+\XePersian@latinvii=\count368
+\XePersian@persianvii=\count369
+\XePersian@latinviii=\count370
+\XePersian@persianviii=\count371
+\XePersian@latinix=\count372
+\XePersian@persianix=\count373
+\XePersian@latinx=\count374
+\XePersian@persianx=\count375
+\XePersian@latinxi=\count376
+\XePersian@persianxi=\count377
+\XePersian@latinxii=\count378
+\XePersian@persianxii=\count379
+\XePersian@persianxiii=\count380
+\XePersian@temp=\count381
+\XePersian@temptwo=\count382
+\XePersian@tempthree=\count383
+\XePersian@yModHundred=\count384
+\XePersian@thirtytwo=\count385
+\XePersian@dn=\count386
+\XePersian@sn=\count387
+\XePersian@mminusone=\count388
 )
 (/usr/share/texlive/texmf-dist/tex/xelatex/xepersian/xepersian-mathsdigitspec.s
 ty
@@ -1212,32 +1233,32 @@ Package: bidi 2020/05/17 v36.3 Bidirectional typesetting in plain TeX and LaTeX
 ****************************************************
 (/usr/share/texlive/texmf-dist/tex/xelatex/bidi/biditools.sty
 Package: biditools 2020/05/13 v2 Programming tools for bidi package
-\@bidi@envbody=\toks47
-\@bidi@emptytoks=\toks48
-\bidi@poscount=\count386
+\@bidi@envbody=\toks49
+\@bidi@emptytoks=\toks50
+\bidi@poscount=\count389
 
 
 Package biditools Warning: Patching `\enddocument' failed on input line 916.
 
-\bidi@tempcountb=\count387
-\bidi@temptoksa=\toks49
-\bidi@temptoksb=\toks50
-\bidi@dummies=\count388
-\bidi@are@these@correct=\toks51
-\bidi@toks@lista=\toks52
-\bidi@toks@listb=\toks53
-\bidi@stack@length=\count389
-\bidi@empty@stack=\toks54
-\bidi@looprepeat@depth=\count390
+\bidi@tempcountb=\count390
+\bidi@temptoksa=\toks51
+\bidi@temptoksb=\toks52
+\bidi@dummies=\count391
+\bidi@are@these@correct=\toks53
+\bidi@toks@lista=\toks54
+\bidi@toks@listb=\toks55
+\bidi@stack@length=\count392
+\bidi@empty@stack=\toks56
+\bidi@looprepeat@depth=\count393
 ) (/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
 Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
 
 (/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex
 (/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkvutils.tex
-\XKV@toks=\toks55
-\XKV@tempa@toks=\toks56
+\XKV@toks=\toks57
+\XKV@tempa@toks=\toks58
 )
-\XKV@depth=\count391
+\XKV@depth=\count394
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
 \@bidi@copyins@=\insert252
@@ -1245,14 +1266,14 @@ File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 (/usr/share/texlive/texmf-dist/tex/xelatex/bidi/latex-xetex-bidi.def
 File: latex-xetex-bidi.def 2019/03/03 v1.3.7 bidi adaptations for `latex.ltx' f
 or XeTeX engine
-\bidi@n@everypar=\toks57
-\bidi@column@check@number=\count392
+\bidi@n@everypar=\toks59
+\bidi@column@check@number=\count395
 
 (/usr/share/texlive/texmf-dist/tex/xelatex/bidi/footnote-xetex-bidi.def
 File: footnote-xetex-bidi.def 2017/08/09 v1.1 bidi footnote macros for XeTeX en
 gine
-\c@footdir@label=\count393
-\footdir@toks=\toks58
+\c@footdir@label=\count396
+\footdir@toks=\toks60
 )
 (/usr/share/texlive/texmf-dist/tex/xelatex/bidi/book-xetex-bidi.def
 File: book-xetex-bidi.def 2017/06/09 v1.0 bidi adaptations for standard book cl
@@ -1309,6 +1330,14 @@ kage for XeTeX engine
 File: fancyhdr-xetex-bidi.def 2018/02/15 v0.7 bidi adaptations for fancyhdr pac
 kage for XeTeX engine
 )
+(/usr/share/texlive/texmf-dist/tex/xelatex/bidi/eso-pic-xetex-bidi.def
+File: eso-pic-xetex-bidi.def 2013/04/10 v0.2 bidi adaptations for eso-pic packa
+ge for XeTeX engine
+)
+(/usr/share/texlive/texmf-dist/tex/xelatex/bidi/pdfpages-xetex-bidi.def
+File: pdfpages-xetex-bidi.def 2010/07/25 v0.1 bidi adaptations for pdfpages pac
+kage for XeTeX engine
+)
 (/usr/share/texlive/texmf-dist/tex/xelatex/bidi/pgfcorescopes.code-xetex-bidi.d
 ef
 File: pgfcorescopes.code-xetex-bidi.def 2015/11/14 v0.1 bidi adaptations for pg
@@ -1341,7 +1370,7 @@ ackage for XeTeX engine
 File: loadingorder-xetex-bidi.def 2017/12/29 v0.97 making sure that bidi is the
  last package loaded
 )
-\bidi@digits=\count394
+\bidi@digits=\count397
 \bidi@digits@charclass=\XeTeXcharclass1
 \bidi@sepmark@charclass=\XeTeXcharclass2
 )
@@ -1368,9 +1397,9 @@ File: loadingorder-xetex-bidi.def 2017/12/29 v0.97 making sure that bidi is the
 * Primary author of xepersian package: Vafa Khalighi.
 * 
 ****************************************************
-\xepersian@tcl=\count395
-\xepersian@ilg=\dimen306
-\xepersian@strutilg=\dimen307
+\xepersian@tcl=\count398
+\xepersian@ilg=\dimen310
+\xepersian@strutilg=\dimen311
 
 (/usr/share/texlive/texmf-dist/tex/xelatex/xepersian/loadingorder-xepersian.def
 File: loadingorder-xepersian.def 2018/09/29 v0.5 making sure that xepersian is 
@@ -1460,51 +1489,51 @@ catcodes, docmode, (/usr/share/texlive/texmf-dist/tex/generic/xypic/xyrecat.tex
  Xy-pic is free software: see the User's Guide for details.
 
 Loading kernel: messages; fonts; allocations: state,
-\X@c=\dimen308
-\Y@c=\dimen309
-\U@c=\dimen310
-\D@c=\dimen311
-\L@c=\dimen312
-\R@c=\dimen313
-\Edge@c=\toks59
-\X@p=\dimen314
-\Y@p=\dimen315
-\U@p=\dimen316
-\D@p=\dimen317
-\L@p=\dimen318
-\R@p=\dimen319
-\Edge@p=\toks60
-\X@origin=\dimen320
-\Y@origin=\dimen321
-\X@xbase=\dimen322
-\Y@xbase=\dimen323
-\X@ybase=\dimen324
-\Y@ybase=\dimen325
-\X@min=\dimen326
-\Y@min=\dimen327
-\X@max=\dimen328
-\Y@max=\dimen329
-\lastobjectbox@=\box139
-\zerodotbox@=\box140
-\almostz@=\dimen330
+\X@c=\dimen312
+\Y@c=\dimen313
+\U@c=\dimen314
+\D@c=\dimen315
+\L@c=\dimen316
+\R@c=\dimen317
+\Edge@c=\toks61
+\X@p=\dimen318
+\Y@p=\dimen319
+\U@p=\dimen320
+\D@p=\dimen321
+\L@p=\dimen322
+\R@p=\dimen323
+\Edge@p=\toks62
+\X@origin=\dimen324
+\Y@origin=\dimen325
+\X@xbase=\dimen326
+\Y@xbase=\dimen327
+\X@ybase=\dimen328
+\Y@ybase=\dimen329
+\X@min=\dimen330
+\Y@min=\dimen331
+\X@max=\dimen332
+\Y@max=\dimen333
+\lastobjectbox@=\box141
+\zerodotbox@=\box142
+\almostz@=\dimen334
  direction,
-\d@X=\dimen331
-\d@Y=\dimen332
-\K@=\count396
-\KK@=\count397
-\Direction=\count398
-\K@dXdY=\dimen333
-\K@dYdX=\dimen334
+\d@X=\dimen335
+\d@Y=\dimen336
+\K@=\count399
+\KK@=\count400
+\Direction=\count401
+\K@dXdY=\dimen337
+\K@dYdX=\dimen338
 \xyread@=\read4
 \xywrite@=\write8
-\csp@=\count399
-\quotPTK@=\dimen335
+\csp@=\count402
+\quotPTK@=\dimen339
 
 utility macros; pictures: \xy, positions,
-\swaptoks@@=\toks61
-\connectobjectbox@@=\box141
+\swaptoks@@=\toks63
+\connectobjectbox@@=\box143
  objects,
-\styletoks@=\toks62
+\styletoks@=\toks64
  decorations;
 kernel objects: directionals, circles, text; options; algorithms: directions,
 edges, connections;  Xy-pic loaded)
@@ -1567,7 +1596,7 @@ sian-tex-text;"
 rsian-tex-text;"
 (fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
 
-\c@observation=\count400
+\c@observation=\count403
 
 
 LaTeX Warning: Unused global option(s):
@@ -1577,32 +1606,32 @@ LaTeX Warning: Unused global option(s):
 ) (./chapter4.aux) (./chapter5.aux) (./chapter6.aux))
 \openout1 = `thesis.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 75.
-LaTeX Font Info:    ... okay on input line 75.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 75.
-LaTeX Font Info:    ... okay on input line 75.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 75.
-LaTeX Font Info:    ... okay on input line 75.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 75.
-LaTeX Font Info:    ... okay on input line 75.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 75.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 71.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 7
-5.
+1.
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 75.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 75.
-LaTeX Font Info:    ... okay on input line 75.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 75.
-LaTeX Font Info:    ... okay on input line 75.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 75.
-LaTeX Font Info:    ... okay on input line 75.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 75.
-LaTeX Font Info:    ... okay on input line 75.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 75.
-LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
@@ -1638,7 +1667,7 @@ LaTeX Font Info:    ... okay on input line 75.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring OFF on input line 75.
+Package hyperref Info: Link coloring OFF on input line 71.
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
 
@@ -1648,26 +1677,30 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 (/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count401
+\c@section@level=\count404
 )
-LaTeX Info: Redefining \ref on input line 75.
-LaTeX Info: Redefining \pageref on input line 75.
-LaTeX Info: Redefining \nameref on input line 75.
+LaTeX Info: Redefining \ref on input line 71.
+LaTeX Info: Redefining \pageref on input line 71.
+LaTeX Info: Redefining \nameref on input line 71.
 
 (./thesis.out) (./thesis.out)
 \@outlinefile=\write9
 \openout9 = `thesis.out'.
 
-\c@definition=\count402
+\c@definition=\count405
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: rotating package is loaded.
 Package caption Info: End \AtBeginDocument code.
 Package newfloat Info: `rotating' package detected.
- (./fainfo.tex
+
+(/usr/share/texlive/texmf-dist/tex/latex/pdflscape/pdflscape.sty
+Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
+Package pdflscape Info: Auto-detected driver: dvipdfm (xetex) on input line 98.
+
+) (./fainfo.tex
 File: figures//besm.jpg Graphic file (type bmp)
 <figures//besm.jpg>
 LaTeX Font Info:    Trying to load font information for U+msa on input line 78.
-
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
@@ -1727,26 +1760,41 @@ LaTeX Font Warning: Font shape `TU/IRTitr(0)/b/n' undefined
 
 File: figures//logoa.png Graphic file (type bmp)
 <figures//logoa.png>
-[3] [4
+[3]
+File: esalatname.pdf Graphic file (type pdf)
+<use esalatname.pdf>
+File: esalatname.pdf Graphic file (type pdf)
+<use esalatname.pdf>
+File: esalatname.pdf Graphic file (type pdf)
+<use esalatname.pdf, page 1>
+File: esalatname.pdf Graphic file (type pdf)
+<use esalatname.pdf, page 1>
+File: esalatname.pdf Graphic file (type pdf)
+<use esalatname.pdf, page 1>
+File: esalatname.pdf Graphic file (type pdf)
+<use esalatname.pdf, page 1>
+File: esalatname.pdf Graphic file (type pdf)
+<use esalatname.pdf, page 1>
+ [4
 
-] [5
-
-] [6
+] [5] [6
 
 ]
-File: figures//logo.png Graphic file (type bmp)
-<figures//logo.png>
-
-
-LaTeX Font Warning: Font shape `TU/TimesNewRoman(0)/b/n' undefined
-(Font)              using `TU/TimesNewRoman(0)/m/n' instead on input line 78.
-
-
-Overfull \hbox (12.79996pt too wide) in paragraph at lines 78--78
-[][][] []
- []
-
-[7
+File: sooratjalase.pdf Graphic file (type pdf)
+<use sooratjalase.pdf>
+File: sooratjalase.pdf Graphic file (type pdf)
+<use sooratjalase.pdf>
+File: sooratjalase.pdf Graphic file (type pdf)
+<use sooratjalase.pdf, page 1>
+File: sooratjalase.pdf Graphic file (type pdf)
+<use sooratjalase.pdf, page 1>
+File: sooratjalase.pdf Graphic file (type pdf)
+<use sooratjalase.pdf, page 1>
+File: sooratjalase.pdf Graphic file (type pdf)
+<use sooratjalase.pdf, page 1>
+File: sooratjalase.pdf Graphic file (type pdf)
+<use sooratjalase.pdf, page 1>
+ [7
 
 ] [1
 
@@ -2376,12 +2424,12 @@ Package rerunfilecheck Info: File `thesis.out' has not changed.
 (rerunfilecheck)             Checksum: EBADD652CF1C36B5279C9910B0D9C84D;14020.
  ) 
 Here is how much of TeX's memory you used:
- 35042 strings out of 477220
- 704122 string characters out of 5832721
- 1156053 words of memory out of 5000000
- 53923 multiletter control sequences out of 15000+600000
- 413542 words of font info for 128 fonts, out of 8000000 for 9000
+ 35661 strings out of 477220
+ 714275 string characters out of 5832721
+ 1166790 words of memory out of 5000000
+ 54519 multiletter control sequences out of 15000+600000
+ 413518 words of font info for 125 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 101i,25n,103p,4817b,639s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 101i,17n,103p,4817b,639s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on thesis.pdf (113 pages).

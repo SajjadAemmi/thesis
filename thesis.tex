@@ -16,14 +16,10 @@
 
 \tikzset{
   basic/.style  = {draw, text width=5cm, drop shadow, rectangle},
-  root/.style   = {basic, rounded corners=2pt, thin, align=center,
-                   fill=gray!80},
-  level 1/.style = {basic, rounded corners=6pt, thin,align=center, fill=gray!50,
-                   text width=8em,sibling distance=125mm, minimum width=15em},
-  level 2/.style = {basic, rounded corners=6pt, thin,align=center, fill=gray!20,
-                   text width=8em,sibling distance=36mm,minimum width=8em},
-  level 22/.style =  {basic, rounded corners=6pt, thin,align=center, fill=gray!10,
-                   text width=8em,sibling distance=100mm},
+  root/.style   = {basic, rounded corners=2pt, thin, align=center, fill=gray!80},
+  level 1/.style = {basic, rounded corners=6pt, thin,align=center, fill=gray!50, text width=8em,sibling distance=125mm, minimum width=15em},
+  level 2/.style = {basic, rounded corners=6pt, thin,align=center, fill=gray!20, text width=8em,sibling distance=36mm,minimum width=8em},
+  level 22/.style = {basic, rounded corners=6pt, thin,align=center, fill=gray!10, text width=8em,sibling distance=100mm},
   level 3/.style = {basic, thin, align=center, fill=white, text width=6.5em,sibling distance=20mm}
 }
 
@@ -48,12 +44,12 @@
 \newcolumntype{P}[1]{>{\centering\arraybackslash}\pageref{}{#1}}
 \definecolor{Gray}{gray}{0.8}
 \definecolor{Gray1}{gray}{0.9}
+\usepackage{pdfpages}
 \usepackage{subcaption}
 \usepackage{multirow}
 \usepackage{rotating}
 \usepackage{hyperref,setspace,geometry,graphicx,fancyhdr,color,xspace,amsmath,amssymb,hyperref,xepersian,listofsymbols,relsize,xy}
 \usepackage{cite}
-
 % فونت فرم صورت‌جلسه
 \defpersianfont\minutesfont{Times New Roman}
 \settextfont{IRNazanin}
