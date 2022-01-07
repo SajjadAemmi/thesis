@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/Debian) (preloaded format=xelatex 2021.10.18)  2 JAN 2022 23:58
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/Debian) (preloaded format=xelatex 2021.10.18)  7 JAN 2022 15:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2426,7 +2426,7 @@ Package rerunfilecheck Info: File `thesis.out' has not changed.
 Here is how much of TeX's memory you used:
  35661 strings out of 477220
  714275 string characters out of 5832721
- 1166790 words of memory out of 5000000
+ 1167790 words of memory out of 5000000
  54519 multiletter control sequences out of 15000+600000
  413518 words of font info for 125 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
