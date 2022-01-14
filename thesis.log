@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/Debian) (preloaded format=xelatex 2021.10.18)  7 JAN 2022 15:44
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/Debian) (preloaded format=xelatex 2021.10.18)  14 JAN 2022 14:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1700,18 +1700,18 @@ Package pdflscape Info: Auto-detected driver: dvipdfm (xetex) on input line 98.
 ) (./fainfo.tex
 File: figures//besm.jpg Graphic file (type bmp)
 <figures//besm.jpg>
-LaTeX Font Info:    Trying to load font information for U+msa on input line 78.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 81.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 78.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 81.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Overfull \hbox (28.45274pt too wide) in paragraph at lines 78--78
+Overfull \hbox (28.45274pt too wide) in paragraph at lines 81--81
 [][]$[]$ []
  []
 
@@ -1721,13 +1721,13 @@ File: se-ascii-print.def 2019/11/29 v1.12 stringenc: Printable ASCII characters
 )
 [1
 
-] [2]
+]
 File: figures//logou.png Graphic file (type bmp)
 <figures//logou.png>
 File: figures//logom.png Graphic file (type bmp)
 <figures//logom.png>
 
-Overfull \hbox (56.78296pt too wide) in paragraph at lines 78--78
+Overfull \hbox (56.78296pt too wide) in paragraph at lines 81--81
  [][][] [] 
  []
 
@@ -1756,11 +1756,11 @@ Package fontspec Info: Font family 'IRTitr(0)' created for font 'IRTitr' with
 
 
 LaTeX Font Warning: Font shape `TU/IRTitr(0)/b/n' undefined
-(Font)              using `TU/IRTitr(0)/m/n' instead on input line 78.
+(Font)              using `TU/IRTitr(0)/m/n' instead on input line 81.
 
 File: figures//logoa.png Graphic file (type bmp)
 <figures//logoa.png>
-[3]
+[2]
 File: esalatname.pdf Graphic file (type pdf)
 <use esalatname.pdf>
 File: esalatname.pdf Graphic file (type pdf)
@@ -1775,9 +1775,9 @@ File: esalatname.pdf Graphic file (type pdf)
 <use esalatname.pdf, page 1>
 File: esalatname.pdf Graphic file (type pdf)
 <use esalatname.pdf, page 1>
- [4
+ [3
 
-] [5] [6
+] [4] [5
 
 ]
 File: sooratjalase.pdf Graphic file (type pdf)
@@ -1794,7 +1794,7 @@ File: sooratjalase.pdf Graphic file (type pdf)
 <use sooratjalase.pdf, page 1>
 File: sooratjalase.pdf Graphic file (type pdf)
 <use sooratjalase.pdf, page 1>
- [7
+ [6
 
 ] [1
 
@@ -2400,7 +2400,16 @@ Underfull \hbox (badness 7468) in paragraph at lines 609--612
 n dataset,” [][]$[][][][] [] [] [] [][][][][][][][] [] [][] []$[][]
  []
 
-) (./eninfo.tex [2] [2
+) (./eninfo.tex [2]
+Missing character: There is no ، in font [lmroman10-regular]/OT:script=latn;lan
+guage=dflt;mapping=tex-text;!
+Missing character: There is no ، in font [lmroman10-regular]/OT:script=latn;lan
+guage=dflt;mapping=tex-text;!
+Missing character: There is no ، in font [lmroman10-regular]/OT:script=latn;lan
+guage=dflt;mapping=tex-text;!
+Missing character: There is no ، in font [lmroman10-regular]/OT:script=latn;lan
+guage=dflt;mapping=tex-text;!
+ [2
 
 ] [3
 
@@ -2424,12 +2433,12 @@ Package rerunfilecheck Info: File `thesis.out' has not changed.
 (rerunfilecheck)             Checksum: EBADD652CF1C36B5279C9910B0D9C84D;14020.
  ) 
 Here is how much of TeX's memory you used:
- 35661 strings out of 477220
- 714275 string characters out of 5832721
- 1167790 words of memory out of 5000000
- 54519 multiletter control sequences out of 15000+600000
+ 35663 strings out of 477220
+ 714290 string characters out of 5832721
+ 1166782 words of memory out of 5000000
+ 54521 multiletter control sequences out of 15000+600000
  413518 words of font info for 125 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  101i,17n,103p,4817b,639s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on thesis.pdf (113 pages).
+Output written on thesis.pdf (112 pages).

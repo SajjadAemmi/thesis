@@ -52,6 +52,7 @@
 \newcommand{\totext}[1]{\def\@totext{#1}}
 \newcommand{\ack}[1]{\def\@ack{#1}}
 \newcommand{\faabstract}[1]{\def\@faabstract{#1}}
+\newcommand{\keyword}[1]{\def\@keyword{#1}}
 \def\faculty#1{\gdef\@faculty{#1}}
 \def\subject#1{\gdef\@subject{#1}}
 \def\field#1{\gdef\@field{#1}}
@@ -92,10 +93,8 @@
 ]{besm}
 \end{minipage}%
 %\cleardoublepage%~
-\newpage
-\thispagestyle{empty}
-\vspace*{\fill}
-\noindent
+
+
 \newpage
 \begin{titlepage}
 \vspace{-4cm}
